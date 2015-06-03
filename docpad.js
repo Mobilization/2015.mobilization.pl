@@ -7,6 +7,7 @@ var speakersImgBaseUrl = imgBaseUrl + 'speakers/';
 var partnersImgBaseUrl = imgBaseUrl + 'partners/';
 
 docpadConfig = {
+  outPath: '../2015.mobilization.pl-gh-pages/',
   templateData: {
     site: {
       url: "http://mobilization.pl",
