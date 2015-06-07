@@ -7,6 +7,11 @@ cd mobilization.pl
 # clone master branch folder
 git clone https://github.com/mobilization5/2015.mobilization.pl.git
 
+# create symbolic links 
+ln -s bin/clean.sh 2015.mobilization.pl/clean.sh
+ln -s bin/generate.sh 2015.mobilization.pl/generate.sh
+ln -s bin/publish.sh 2015.mobilization.pl/publish.sh
+
 # clone gh-pages branch folder
 mkdir 2015.mobilization.pl-gh-pages
 cd 2015.mobilization.pl-gh-pages
