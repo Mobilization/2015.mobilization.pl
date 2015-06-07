@@ -12,4 +12,4 @@ GIT_COMMIT_MESSAGE="Generated page based on revision "$GIT_CURRENT_REVISION
 
 cd ../mobilization.pl-gh-pages
 git add -A && git commit -m "$GIT_COMMIT_MESSAGE"
-git push origin gh-pages
+git push
