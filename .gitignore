@@ -1,1 +1,4 @@
 .project
+/clean.sh
+/generate.sh
+/publish.sh
