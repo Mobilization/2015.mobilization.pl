@@ -21,4 +21,4 @@ git checkout gh-pages
 echo ""
 echo "The mobilization.pl project has been installed successfully!"
 echo "Please don't modify files in 2015.mobilization.pl-gh-pages manually."
-echo "You can find some guidlines in mobilization.pl/2015.mobilization.pl/README.md file."
+echo "You can find some guidelines in mobilization.pl/2015.mobilization.pl/README.md file."
