@@ -1,10 +1,13 @@
 ## How to install 2015.mobilization.pl locally
 
+Before you start pulling the repository, ensure you've got node.js (https://nodejs.org/download/) installed on your computer. The project was tested on Node.js v0.12.4.
+
 Here https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh you can find a simple script to install both src (docpad) & out (html) projects.
 
 Download and run the install.sh script.
 ```
 wget https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh
+chmod 755 install.sh
 ./install.sh
 ``` 
 
@@ -19,7 +22,7 @@ In most of cases you won't need to update 2015.mobilization.pl-gh-pages, docpad 
 
 ```
 cd mobilization.pl/2015.mobilization.pl
-docpad run
+./run.sh
 ```
 
 ## How to push changes to gh-pages branch (production)
