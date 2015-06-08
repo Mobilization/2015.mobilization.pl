@@ -1,10 +1,10 @@
 ## How to install 2015.mobilization.pl locally
 
-Here https://raw.githubusercontent.com/mobilization5/2015.mobilization.pl/master/bin/install.sh you can find a simple script to install both src (docpad) & out (html) projects.
+Here https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh you can find a simple script to install both src (docpad) & out (html) projects.
 
 Download and run the install.sh script.
 ```
-wget https://raw.githubusercontent.com/mobilization5/2015.mobilization.pl/master/bin/install.sh
+wget https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh
 ./install.sh
 ``` 
 
