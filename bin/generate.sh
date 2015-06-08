@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docpad generate
+./node_modules/docpad/bin/docpad generate

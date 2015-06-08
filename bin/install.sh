@@ -11,6 +11,7 @@ git clone https://github.com/mobilization/2015.mobilization.pl.git
 ln -s bin/clean.sh 2015.mobilization.pl/clean.sh
 ln -s bin/generate.sh 2015.mobilization.pl/generate.sh
 ln -s bin/publish.sh 2015.mobilization.pl/publish.sh
+ln -s bin/run.sh 2015.mobilization.pl/run.sh
 
 # clone gh-pages branch folder
 mkdir 2015.mobilization.pl-gh-pages
