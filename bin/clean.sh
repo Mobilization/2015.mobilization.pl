@@ -6,5 +6,5 @@ docpad clean
 # create folder for gh-pages branch
 mkdir ../2015.mobilization.pl-gh-pages
 cd ../2015.mobilization.pl-gh-pages
-git clone https://github.com/mobilization5/2015.mobilization.pl.git .
+git clone https://github.com/mobilization/2015.mobilization.pl.git .
 git checkout gh-pages
