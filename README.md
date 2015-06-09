@@ -1,6 +1,6 @@
 ## How to install 2015.mobilization.pl locally
 
-Before you start pulling the repository, ensure you've got node.js (https://nodejs.org/download/) installed on your computer. The project was tested on Node.js v0.12.4.
+Before you start pulling down the repository please ensure you've got Node.js (https://nodejs.org/download/) installed on your computer. The project was tested on Node.js v0.12.4.
 
 Here https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh you can find a simple script to install both src (docpad) & out (html) projects.
 
