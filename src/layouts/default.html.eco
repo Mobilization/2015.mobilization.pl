@@ -145,13 +145,13 @@
       function show_banner(){
         bg++;
         if(bg%4==1)
-          $('header').css("background-image", "url(/images/page/header.jpg)").fadeIn( 100 );
+          $('header').css("background-image", "url(/images/page/header_01.jpg)").fadeIn( 100 );
         if(bg%4==2)
-          $('header').css("background-image", "url(/images/page/header1.jpg)").fadeIn( 100 );
+          $('header').css("background-image", "url(/images/page/header_02.jpg)").fadeIn( 100 );
         if(bg%4==3)
-          $('header').css("background-image", "url(/images/page/header2.jpg)").fadeIn( 100 );
+          $('header').css("background-image", "url(/images/page/header_09.jpg)").fadeIn( 100 );
         if(bg%4==0)
-          $('header').css("background-image", "url(/images/page/header3.jpg)").fadeIn( 100 );
+          $('header').css("background-image", "url(/images/page/header_10.jpg)").fadeIn( 100 );
 
         setTimeout(show_banner, 5000);
       }
