@@ -1,5 +1,5 @@
-.project
 .DS_Store
+/.project
 /clean.sh
 /generate.sh
 /publish.sh
