@@ -5,7 +5,7 @@ Hi, in this repository (on master branch) you can find source code of static pag
 
 Would you like to integrate your mobile app with our website? Or even create a dedicated app? It's more than welcome! We've prepared some json files you can use to retrieve all data which are being used by the website to make your programs perfectly synchronized!
 
-Links to the files:
+##### Links to the files
 - http://2015.mobilization.pl/api/breaks.json
 - http://2015.mobilization.pl/api/event.json
 - http://2015.mobilization.pl/api/partners.json
@@ -27,6 +27,16 @@ As you probably noticed some of the files are empty. If you'd like to start now,
 - http://2015.mobilization.pl/api-demo/sponsors.json
 - http://2015.mobilization.pl/api-demo/talks.json
 - http://2015.mobilization.pl/api-demo/venues.json
+
+##### How do we know the data has been updated 
+At some point you'll need to decide if synchronization is needed or not. Also you probably would like to know if the json files has been changed since the last update or not. To solve the issue pretty effectively you can use simple GitHub API call which gives you sha1 checksum for all files in api directory. 
+
+```bash
+curl -i 'https://api.github.com/repos/Mobilization/2015.mobilization.pl/contents/api?ref=gh-pages'
+```
+
+##### And one more thing you should know about the images
+You don't need to download images everytime you sync json files. If json field (i.e. `img_url`) refers to the same filename you'd already downloaded then you can be sure the image has not been changed. Everytime we update an image, we change its filename. 
 
 ## How to install 2015.mobilization.pl locally
 
