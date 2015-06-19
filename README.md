@@ -36,7 +36,7 @@ curl -i 'https://api.github.com/repos/Mobilization/2015.mobilization.pl/contents
 ```
 
 ##### And one more thing you should know about the images
-You don't need to download images everytime you sync json files. If a field (i.e. `img_url`) refers to the same filename you'd already downloaded then you can be sure the image has not been changed. Everytime we update an image, we change its filename. 
+You don't need to download images everytime you sync json files. If a field (i.e. `img_url`) refers to the same filename you'd already downloaded then you can be sure the image has not been changed. Everytime we update an image its filename is changed as well. 
 
 ## How to install 2015.mobilization.pl locally
 
