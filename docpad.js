@@ -34,7 +34,7 @@ docpadConfig = {
       },
       sponsors: {
       	platinum: [
-			{"name":"Seamless","logo_url":"/images/sponsors/seamless.png","link":"http://seamless.se/"},
+			{"name":"Seamless","logo_url":"/images/sponsors/seamless.png","link":"http://seamless.se/"},{"name":"TomTom","logo_url":"/images/sponsors/tomtom.png","link":"http://www.tomtom.com/pl_pl/"}
       	],
       	gold: [
 
