@@ -137,11 +137,15 @@ header {
 #sponsors h2 {
 	margin: 50px 0 30px 0;
 }
-.sponsor-logo {
+
+/*
+ * yes, .sponsor-logo is much nicer but filtered by adblock ;)
+ */
+.mobilization-sponsor-logo {
 	display: inline-block;
 	margin: 10px;
 }
-.sponsor-logo img {
+.mobilization-sponsor-logo img {
   max-height: 100px;
   border: 0px;
   padding: 5px 0;
