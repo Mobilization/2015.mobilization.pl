@@ -33,21 +33,15 @@ docpadConfig = {
       	time: '07:30-17:30'
       },
       sponsors: {
-      	diamond: [ 
-
-      	],
       	platinum: [
-
+			{"name":"Seamless","logo_url":"/images/sponsors/seamless.png","link":"http://seamless.se/"},
       	],
       	gold: [
 
       	],
       	silver: [
 
-      	],	
-      	copper: [
-
-      	]
+      	],
       },
       partners: {
       	organizers: [

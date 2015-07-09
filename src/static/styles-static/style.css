@@ -137,14 +137,18 @@ header {
 #sponsors h2 {
 	margin: 50px 0 30px 0;
 }
+.sponsor-logo2 {
+	display: inline-block;
+	margin: 10px;
+}
 .sponsor-logo {
 	display: inline-block;
 	margin: 10px;
 }
-.sponsor-logo img {
+.sponsor-logo2 img {
   max-height: 100px;
   border: 0px;
-  padding: 5px 0;
+  padding: 5px 0px;
 }
 #sponsors a:hover, #partners a:hover {
 	opacity: 0.8;
