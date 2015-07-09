@@ -6,9 +6,9 @@
 		<h2 style="text-transform: uppercase"><%= sponsor_category_key %> sponsors</h2>
 		<% for sponsor_key, sponsor of sponsor_category: %>
 			<% if 'description_html' of sponsor: %>
-			<a href="#" class="sponsor-logo2" data-toggle="modal" data-target="#sponsor-<%= sponsor.name.replace(/\s+|\./g, '') %>">
+			<a href="#" class="mobilization-sponsor-logo" data-toggle="modal" data-target="#sponsor-<%= sponsor.name.replace(/\s+|\./g, '') %>">
 			<% else: %>
-			<a href="<%= sponsor.link %>" target="_blank" class="sponsor-logo2">
+			<a href="<%= sponsor.link %>" target="_blank" class="mobilization-sponsor-logo">
 			<% end %> 
 				<img src="<%= sponsor.logo_url %>" alt="<%= sponsor.name %>" />
 			</a>
