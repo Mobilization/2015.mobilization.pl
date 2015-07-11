@@ -10,7 +10,7 @@
          	 	<% if 'link' of partner: %>
          	 	<a href="<%= partner.link %>" target="_blank" class="partner-logo">
          	 	<% else: %>
-           		<a href="#" class="partner-logo" data-toggle="modal" data-target="#<%= partner_key %>">
+           		<a href="#" class="partner-logo" data-toggle="modal" data-target="#<%= partner_category_key %><%= partner_key %>">
            		<% end %>
               		<img src="<%= partner.logo_url %>" alt="Logo <%= partner.name %>" />
             	</a>
@@ -25,7 +25,7 @@
 <% for partner_category_key, partner_category of @site.partners: %>
 	<% for partner_key, partner of partner_category: %>
 		<% if 'description_html' of partner: %>
-<div class="modal fade" id="<%= partner_key %>" tabindex="-1" role="dialog" aria-labelledby="partner-modal-<%= partner_key %>" aria-hidden="true">
+<div class="modal fade" id="<%= partner_category_key %><%= partner_key %>" tabindex="-1" role="dialog" aria-labelledby="partner-modal-<%= partner_key %>" aria-hidden="true">
    <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
@@ -38,6 +38,6 @@
       </div>
     </div>
   </div>
-		<% end %>	
+		<% end %>
 	<% end %>
 <% end %>
