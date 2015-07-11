@@ -139,19 +139,14 @@
     </script>
 
     <script>
-      var bg = 0;
-
+      var bg = 1;
+      var nr_baner_size = 7;
       function show_banner(){
-        bg++;
-        if(bg%4==1)
-          $('header').css("background-image", "url(/images/page/header_01.jpg)").fadeIn( 100 );
-        if(bg%4==2)
-          $('header').css("background-image", "url(/images/page/header_02.jpg)").fadeIn( 100 );
-        if(bg%4==3)
-          $('header').css("background-image", "url(/images/page/header_09.jpg)").fadeIn( 100 );
-        if(bg%4==0)
-          $('header').css("background-image", "url(/images/page/header_10.jpg)").fadeIn( 100 );
 
+        var b = bg%nr_baner_size;
+        console.log("/images/page/header_0" + b + ".jpg)")
+        $('header').css("background-image", "url(/images/page/header_0" + b + ".jpg)").fadeIn( 100 );
+        bg++;
         setTimeout(show_banner, 5000);
       }
 
