@@ -30,7 +30,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-          <h4 class="modal-title" id="partner-modal-<%= partner_key %>">Java User Group Łódź</h4>
+          <h4 class="modal-title" id="partner-modal-<%= partner_key %>"><%- partner.name %></h4>
         </div>
         <div class="modal-body">
     		<%- partner.description_html %>
