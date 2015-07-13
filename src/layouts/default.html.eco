@@ -117,7 +117,7 @@
   <p>
     <%= @getPreparedTitle() %> |
     designed by <a class="footer_link" href="http://www.upmenu.com" target="_blank">upmenu</a> | proudly hosted by <a class="footer_link" href="http://github.com" target="_blank">GitHub</a>
-    <br>Photos by Michał Gałka, Andrzej Stasiak, Piotr Jędrys, Anna Gadomska, Tomasz Frontczak and others!
+    <br>Photos by Cezary Draus, Michał Gałka, Andrzej Stasiak, Piotr Jędrys, Anna Gadomska, Tomasz Frontczak and others!
   </p>
 </footer>
 
