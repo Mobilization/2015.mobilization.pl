@@ -25,7 +25,7 @@
 <% for partner_category_key, partner_category of @site.partners: %>
 	<% for partner_key, partner of partner_category: %>
 		<% if 'description_html' of partner: %>
-<div class="modal fade" id="<%= partner_category_key %><%= partner_key %>" tabindex="-1" role="dialog" aria-labelledby="partner-modal-<%= partner_key %>" aria-hidden="true">
+<div class="modal fade" id="<%= partner_category_key %><%= partner_key %>" tabindex="-1" role="dialog" aria-labelledby="partner-modal-<%= partner_category_key %><%= partner_key %>" aria-hidden="true">
    <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
