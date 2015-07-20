@@ -41,6 +41,7 @@ docpadConfig = {
       	],
       	gold: [
 			{"name":"Ericpol","logo_url":"/images/sponsors/ericpol.jpg","link":"http://www.ericpol.pl/"},
+			{"name":"eConsulting","logo_url":"/images/sponsors/econsulting.gif","link":"http://econsulting.pl/"},
 			{"name":"GFT","logo_url":"/images/sponsors/gft.jpg","link":"http://gft.com/"},
 			{"name":"Pracuj.pl","logo_url":"/images/sponsors/pracuj-pl.jpg","link":"http://www.pracuj.pl/"}
       	],
