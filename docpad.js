@@ -46,7 +46,7 @@ docpadConfig = {
 			{"name":"Pracuj.pl","logo_url":"/images/sponsors/pracuj-pl.jpg","link":"http://www.pracuj.pl/"}
       	],
       	silver: [
-
+			{"name":"Zeto","logo_url":"/images/sponsors/zeto.png","link":"http://www.ckzeto.pl/"},
       	],
       },
       partners: {
