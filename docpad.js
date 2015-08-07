@@ -47,6 +47,7 @@ docpadConfig = {
       	],
       	silver: [
 			{"name":"Zeto","logo_url":"/images/sponsors/zeto.png","link":"http://www.ckzeto.pl/"},
+			{"name":"ABB","logo_url":"/images/sponsors/abb.png","link":"http://www.abb.pl/ISDeliveryCenter"}
       	],
       },
       partners: {
