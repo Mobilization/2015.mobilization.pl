@@ -80,7 +80,7 @@ docpadConfig = {
 			// {"name":"Praca IT","logo_url":"/images/partners/pracait.png","link":"http://pracait.com"},
 			// {"name":"Software Developer's Journal","logo_url":"/images/partners/sdj.png","link":"http://sdjournal.pl"},
 			{"name":"GoMobi","logo_url":"/images/partners/gomobi.jpg","link":"http://gomobi.pl"},
-			// {"name":"Programista Magazine","logo_url":"/images/partners/programistamag.png","link":"http://programistamag.pl"},
+			{"name":"Programista Magazine","logo_url":"/images/partners/programistamag.png","link":"http://programistamag.pl"},
 			 {"name":"MyApple","logo_url":"/images/partners/myapple.jpg","link":"http://myapple.pl"},
 			// {"name":"4tech.tv","logo_url":"/images/partners/4techmobile.png","link":"http://testytelefonow.pl"},
 			// {"name":"StartUpTV","logo_url":"/images/partners/startuptv.png","link":"http://startuptv.pl"},
