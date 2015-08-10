@@ -35,13 +35,18 @@ docpadConfig = {
       sponsors: {
       	platinum: [
 			{"name":"Seamless","logo_url":"/images/sponsors/seamless.png","link":"http://seamless.se/"},
-			{"name":"TomTom","logo_url":"/images/sponsors/tomtom.png","link":"http://www.tomtom.com/pl_pl/"}
+			{"name":"TomTom","logo_url":"/images/sponsors/tomtom.png","link":"http://www.tomtom.com/pl_pl/"},
+			{"name":"Mobica","logo_url":"/images/sponsors/mobica.png","description_html":"<p>Mobica provides high-end software development and integration services for consumer electronics manufacturers, operators, application vendors and platform providers. We work on all mainstream mobile platforms and operating systems and can work on virtually any component of a device: from embedded systems and device drivers, core multimedia components and middleware, through to innovative applications/UI design and connectivity solutions.</p><p>We have grown a world-class team of architects, project managers and software engineers based in our UK and Poland development centres, enabling us to provide consultancy services across the software and product lifecycle from initial concept definition and design, through to implementation and testing.</p><p>Mobica adds value to our customers through a combination of flexible consultancy services, the highest levels of technical expertise, and the creation of innovative, technically optimised software component design.</p><p>Mobica are listed in The Sunday Times Tech Track 100 as the 4th fastest growing private technology company in the UK in 2009. See: <a href='http://www.fasttrack.co.uk/fasttrack2002/bin/techreport.pdf'>http://www.fasttrack.co.uk/fasttrack2002/bin/techreport.pdf</a></p><p>Mobica is hiring and looking for talented engineers! Check our current job offers at <a href='http://www.mobica.com/careers'>http://www.mobica.com/careers</a></p><p>&nbsp;</p>"},
+			{"name":"Harman","logo_url":"/images/sponsors/harman.jpg","link":"http://www.symphonyteleca.com/careers/jobs-in-poland/"}
       	],
       	gold: [
-			{"name":"Ericpol","logo_url":"/images/sponsors/ericpol.jpg","link":"http://www.ericpol.pl/"}
+			{"name":"Ericpol","logo_url":"/images/sponsors/ericpol.png","link":"http://www.ericpol.pl/"},
+			{"name":"eConsulting","logo_url":"/images/sponsors/econsulting.gif","link":"http://econsulting.pl/"},
+			{"name":"GFT","logo_url":"/images/sponsors/gft.jpg","link":"http://gft.com/"},
+			{"name":"Pracuj.pl","logo_url":"/images/sponsors/pracuj-pl.jpg","link":"http://www.pracuj.pl/"}
       	],
       	silver: [
-
+			{"name":"Zeto","logo_url":"/images/sponsors/zeto.png","link":"http://www.ckzeto.pl/"},
       	],
       },
       partners: {
@@ -58,12 +63,14 @@ docpadConfig = {
       	community: [
 			{"name":"Łódź WiOSłuje","logo_url":"/images/partners/lodz-wiosluje.png","description_html":"The best place for iOS developers based in Łódź. A group with monthly meetings with tech talks, fantastic speakers and unbeatable atmosphere! Join us on facebook: www.facebook.com/lodzwiosluje"},
 			 {"name":"Toruń JUG","logo_url":"/images/partners/jugtorun5d_3_square.png","description_html":"Toruń JUG is a group of JVM technologies developers and enthusiasts. The main goal of the group is to gather people interested in JVM languages both professionally and personally. Our group contains programmers from many companies, scientists working on Toruń university, students and other technology passionates. We are encouraging knowledge sharing and collaboration in open source projects. Although we are the youngest JUG in Poland we are growing fast already having several big partners supporting us. More about Toruń JUG you can find at: torun.jug.pl"},
+			 {"name":"Android Developer Group Poznań","logo_url":"/images/partners/adgp.jpeg","link":"http://www.meetup.com/Poznan-Android-Developer-Group/"},
 			 {"name":"Polish Java User Group","logo_url":"/images/partners/polish-jug.png","description_html":"Polish Java User Group is a group of Java technology developers and enthusiasts. The main goal of the group is to popularize Java and modern software development methodologies. Since the beginning in 1999, the group had great impact on the Polish Java community growth. They main activity are meetings with students, programmers and project managers as well as conferences with famous professionals."},
 			// {"name":"Mobile Central Europe 2015","logo_url":"/images/partners/mce2015.png","description_html":"We put our best effort into creating a stimulating experience for everyone involved. Help us make it one of the best mobile events in Europe! MCE is about bringing together the greatest minds in tech to exchange groundbreaking ideas. For Mobilization attendees promo-code will be offered giving 20% discount. Code will be visible during Mobilization event so you have to be on Mobilization! With this discount and early bird the ticket for MCE is really good price."},
 			{"name":"GDG Kraków","logo_url":"/images/partners/gdgkrakow.png","link":"http://www.meetup.com/GDG-Krakow/"},
 			// {"name":"MIT Łódź","logo_url":"/images/partners/mit.png","link":"http://mitlodz.pl"},
 			{"name":"Dev Day 2015","logo_url":"/images/partners/abb-dev-day.svg","link":"http://devday.pl"},
 			{"name":"Codepot.pl","logo_url":"/images/partners/codepot-logo.svg","link":"http://codepot.pl"},
+			{"name":"Zwinna Łódź","logo_url":"/images/partners/zwinna_lodz.jpg","link":"http://zwinnalodz.eu/"},
       	],
       	media: [
          	{"name":"MyApple","logo_url":"/images/partners/myapple.jpg","link":"http://myapple.pl"},

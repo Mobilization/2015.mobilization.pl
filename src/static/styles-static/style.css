@@ -148,6 +148,7 @@ header {
 .mobilization-sponsor-logo img {
   max-height: 100px;
   border: 0px;
+  max-width: 200px;
   padding: 5px 0px;
 }
 #sponsors a:hover, #partners a:hover {
@@ -165,7 +166,7 @@ header {
 }
 .partner-logo img {
   max-height: 100px;
-  max-width: 100px;
+  max-width: 150px;
   border: 0px;
   padding: 5px 0;
 }
