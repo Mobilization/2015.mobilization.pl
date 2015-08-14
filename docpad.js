@@ -239,14 +239,22 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/piotr-krystyniak.png"
 		  },
-		  "speaker-peter-tuszynski": {
+		  "speaker-peter-tuszynski":{
 			"firstname": "Peter",
 			"lastname": "Tuszyński",
 			"bio_hmtl": "Mobile developer since early days of iPhone/Android platforms, product engineer. Co-founder of Appvetica lab. Almost-a-pilot :). Spoke at Mobilization in 2012 and a bunch of other conferences",
 			"www":"www.appvetica.com",
 			"twitter":"dusker",
 			"photo_url":"/images/speakers/peter-tuszynski.png"
-		  }
+		  },
+		  "speaker-fokke-zandbergen":{
+			"firstname": "Fokke",
+			"lastname":"Zandbergen",
+			"bio_html": "Fokke is a Developer Evangelist for Appcelerator, the company behind Titanium. Before that, he was already active in the Titanium community for a long time with initiatives like gitt.io, ticons.fokkezb.nl, tidev.io, contributions to Alloy and Alloy widgets and by leading the Dutch user group. He has a passion for understanding new technologies by using and hacking them and sharing from that experience.",
+			"wwww":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/fokke-zandbergen.png"
+		  },
    	  },
    	  talks: {
    	  	
