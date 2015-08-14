@@ -274,11 +274,11 @@ docpadConfig = {
    	  	},
    	  	'break-lunch': {
    	  		title: 'Lunch Break',
-   	  		description_html: 'There is Solider soup - "Grochówka" for everyone! VIPs (Speakers, Sponsors) have lunch in Congresowa Restaurant on base floor.'
+   	  		description_html: 'VIPs (Speakers, Sponsors) have lunch in Congresowa Restaurant on base floor.'
    	  	},
    	  	'break-finally': {
    	  		title: 'Finally',
-   	  		description_html: ''
+   	  		description_html: 'Time to give thanks to all the sponsors and the organizer\'s team'
    	  	}
    	  },
    	  venues: {
