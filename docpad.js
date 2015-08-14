@@ -238,6 +238,14 @@ docpadConfig = {
 			  "www":"",
 			  "twitter":"",
 			  "photo_url":"/images/speakers/piotr-krystyniak.png"
+		  },
+		  "speaker-peter-tuszynski": {
+			"firstname": "Peter",
+			"lastname": "Tuszyński",
+			"bio_hmtl": "Mobile developer since early days of iPhone/Android platforms, product engineer. Co-founder of Appvetica lab. Almost-a-pilot :). Spoke at Mobilization in 2012 and a bunch of other conferences",
+			"www":"www.appvetica.com",
+			"twitter":"dusker",
+			"photo_url":"/images/speakers/peter-tuszynski.png"
 		  }
    	  },
    	  talks: {
