@@ -93,73 +93,152 @@ docpadConfig = {
       	]
       },
       slots: {
-      	'slot-registration': {
-      		from: '7:30',
-      		to:   '9:00'
-      	}, 
-      	'slot-hello-world': {
-      		from: '9:00',
-      		to:   '9:10'
-      	},
-      	'slot-1': {
-      		from: '9:10',
-      		to:   '9:55'
-      	}, 
-      	'slot-coffee-1': {
-      	   	from: '9:55',
-      		to:   '10:15'
-      	},
-      	'slot-2': {
-      		from: '10:15',
-      		to:   '11:00'
-      	}, 
-      	'slot-coffee-2': {
-      	   	from: '11:00',
-      		to:   '11:20'
-      	},
-      	'slot-3': {
-      		from: '11:20',
-      		to:   '12:05'
-      	}, 
-      	'slot-coffee-3': {
-      	   	from: '12:05',
-      		to:   '12:25'
-      	},
-       	'slot-4': {
-      		from: '12:25',
-      		to:   '13:10'
-      	}, 
-      	'slot-lunch': {
-      	   	from: '13:10',
-      		to:   '14:30'
-      	},
-        'slot-5': {
-      		from: '14:30',
-      		to:   '15:15'
-      	},
-        'slot-coffee-4': {
-      	   	from: '15:15',
-      		to:   '15:30'
-      	},
-        'slot-6': {
-      		from: '15:30',
-      		to:   '16:15'
-      	},
-        'slot-coffee-5': {
-      	   	from: '16:15',
-      		to:   '16:30'
-      	},
-        'slot-7': {
-      		from: '16:30',
-      		to:   '17:15'
-      	},
-      	'slot-finally': {
-      		from: '17:15',
-      		to:   '18:00'
-      	},
+        	'slot-registration': {
+        		from: '7:30',
+        		to:   '9:00'
+        	}, 
+        	'slot-hello-world': {
+        		from: '9:00',
+        		to:   '9:10'
+        	},
+        	'slot-1': {
+        		from: '9:10',
+        		to:   '9:55'
+        	}, 
+        	'slot-coffee-1': {
+        	   	from: '9:55',
+        		to:   '10:15'
+        	},
+        	'slot-2': {
+        		from: '10:15',
+        		to:   '11:00'
+        	}, 
+        	'slot-coffee-2': {
+        	   	from: '11:00',
+        		to:   '11:20'
+        	},
+        	'slot-3': {
+        		from: '11:20',
+        		to:   '12:05'
+        	}, 
+        	'slot-coffee-3': {
+        	   	from: '12:05',
+        		to:   '12:25'
+        	},
+         	'slot-4': {
+        		from: '12:25',
+        		to:   '13:10'
+        	}, 
+        	'slot-lunch': {
+        	   	from: '13:10',
+        		to:   '14:00'
+        	},
+          'slot-5': {
+        		from: '14:00',
+        		to:   '14:45'
+        	},
+          'slot-coffee-4': {
+        	   	from: '14:45',
+        		to:   '15:05'
+        	},
+          'slot-6': {
+        		from: '15:05',
+        		to:   '15:50'
+        	},
+          'slot-coffee-5': {
+        	   	from: '15:50',
+        		to:   '16:10'
+        	},
+          'slot-7': {
+        		from: '16:10',
+        		to:   '16:55'
+        	},
+        	'slot-finally': {
+        		from: '16:55',
+        		to:   '17:40'
+        	},
       },
       speakers: {
-
+		  "speaker-jens-ravens":{
+			  "firstname":"Jens",
+			  "lastname":"Ravens",
+			  "bio_html":"Jens is an iOS and OS X Developer, writing ObjC since 2006. Currently working at nerdgeschoss helping clients to create awesome apps. Organiser of the monthly swift.berlin meetup. Scaring people with functional concepts since 2014.",
+			  "www":"",
+			  "twitter":"jensravens",
+			  "photo_url":"/images/speakers/jens-ravens.jpg"
+		  },
+		  "speaker-tomasz-grynfelder":{
+			  "firstname":"Tomasz",
+			  "lastname":"Grynfelder",
+			  "bio_html":"Tomasz Grynfelder, Senior Software Engineer currently at Polidea, mobile technologies freak highly focused on iOS development and security. Great fan of cycling and sailing.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/tomasz-grynfelder.png"
+		  },
+		  "speaker-pawel-dudek":{
+			  "firstname":"Paweł",
+			  "lastname":"Dudek",
+			  "bio_html":"I'm an iOS developer that has been building iOS apps for over 6 years now. I've shipped a variety of apps during my initial stage of career. Right now I'm focusing on building rich, content heavy and beautiful apps for Fortune 500 companies at a US-based startup Taptera. <br><br>I've been publicly speaking and sharing my knowledge for over a year now. You can find full list of my talks, including videos and slides here: <br><br> <a href=\"http://paweldudek.github.io/speaking/\">http://paweldudek.github.io/speaking/</a>",
+			  "wwww":"http://paweldudek.github.io/speaking/",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/pawel-dudek.jpeg"
+		  },
+		  "speaker-pawel-gajda":{
+			  "firstname":"Paweł",
+			  "lastname":"Gajda",
+			  "bio_html":"Android Developer, laureate of the national finals of Microsoft Imagine Cup 2013. Associated with Android since 2010, when platform was taking its first steps. Enthusiast of JetBrains products (mainly IntelliJ IDEA). Student at Military University of Technology. Speaker at Mobile Warsaw. After-hours blogger, indie game developer and amateur runner.",
+			  "wwww":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/pawel-gajda.png"
+		  },
+		  "speaker-miroslaw-stanek":{
+			  "firstname":"Mirosław",
+			  "lastname":"Stanek",
+			  "bio_html":"Wielki pasjonat technologii mobilnych, na zmianę programuje Androida i iOSa, na co dzień Head of Mobile w firmie Azimo Money Transfer. Po godzinach prowadzi bloga <a href=\"http://frogermcs.github.io/\">http://frogermcs.github.io/</a>, tweetuje o mobile, udziela się na lokalnych meetupach i dokłada swoje cegiełki w open source. Fan hackathonów, szczególnie tych bardziej hardware'owych.",
+			  "www":"http://frogermcs.github.io/",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/miroslaw-stanek.jpeg"
+		  },
+		  "speaker-krzysztof-kocel":{
+			  "firstname":"Krzysztof",
+			  "lastname":"Kocel",
+			  "bio_html":"Developer Androida w Allegro od 2012.<br>Pasjonat technologii mobilnych.<br>Prelegent na konferencji mobilization 2013.<br>Prywatnie piwowar domowy.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/krzysztof-kocel.jpg"
+		  },
+		  "speaker-witold-wysota":{
+			  "firstname":"Witold",
+			  "lastname":"Wysota",
+			  "bio_html":"Inżynier oprogramowania z wieloletnim doświadczeniem, wielki miłośnik Qt, którym zajmuje się od kilkunastu lat, uczestnik wcześniejszych konferencji Mobilization.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/witold-wysota.jpg"
+		  },
+		  "speaker-michal-charmas":{
+			  "firstname":"Michał",
+			  "lastname":"Charmas",
+			  "bio_html":"Aktualnie freelancer zajmujący się aplikacjami mobilnymi na platformę Android, co-founder startupu eWejściówki.pl i trener w firmie Bottega IT Solutions. Pasjonat Androida praktycznie od momentu jego powstania. W pracy szczególny nacisk kładzie na jakość zarówno pod względem architektury i czystości kodu jak i wydajności. Po pracy gitarzysta porwany przez muzykę.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/michal-charmas.jpg"
+		  },
+		  "speaker-maciej-gorski":{
+			  "firstname":"Maciej",
+			  "lastname":"Górski",
+			  "bio_html":"Maciej is a passionate Android developer. He cares about writing cleaner code and less of it. He is spending time to automate things to save even more time. He also bikes a lot and would love to be able to code while doing it… using only mind controlled wearables or bikeables.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/maciej-gorski.jpg"
+		  },
+		  "speaker-piotr-krystyniak":{
+			  "firstname":"Piotr",
+			  "lastname":"Krystyniak",
+			  "bio_html":"Moje zainteresowania zawodowe koncentrują się wokół platformy Android, której jestem szczerym entuzjastą. Na co dzień pracuję w Appunite budując aplikacje mobilne. Poza pracą również czynnie uczestniczę w różnorodnych eventach programistycznych - jestem m.in.  współorganizatorem spotkań z cyklu Poznań Android Developer Group, na których wielokrotnie miałem okazję przeprowadzać prelekcje.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/piotr-krystyniak.png"
+		  }
    	  },
    	  talks: {
    	  	
@@ -187,10 +266,29 @@ docpadConfig = {
    	  	}
    	  },
    	  venues: {
-
+		  "venue-1":{
+			  "title":"Seamless"
+		  },
+		  "venue-2":{
+			  "title":"TomTom"
+		  },
+		  "venue-3":{
+			  "title":"Mobica"
+		  },
+		  "venue-4":{
+			  "title":"Harman"
+		  }
    	  },
    	  schedule: {
-
+		  "slot-registration":{"break_key":"break-registration"},
+		  "slot-hello-world":{"break_key":"break-hello-world"},
+		  "slot-coffee-1":{"break_key":"break-coffee"},
+		  "slot-coffee-2":{"break_key":"break-coffee"},
+		  "slot-coffee-3":{"break_key":"break-coffee"},
+		  "slot-lunch":{"break_key":"break-lunch"},
+		  "slot-coffee-4":{"break_key":"break-coffee"},
+		  "slot-coffee-5":{"break_key":"break-coffee"},
+		  "slot-finally":{"break_key":"break-finally"}
    	  }
     },
     getPreparedTitle: function() {
