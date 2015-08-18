@@ -173,7 +173,7 @@ docpadConfig = {
 		  "speaker-tomasz-grynfelder":{
 			  "firstname":"Tomasz",
 			  "lastname":"Grynfelder",
-			  "bio_html":"Tomasz Grynfelder, Senior Software Engineer currently at Polidea, mobile technologies freak highly focused on iOS development and security. Great fan of cycling and sailing.",
+			  "bio_html":"Tomasz Grynfelder, Senior Software Engineer at Neofonie Mobile GmbH, mobile technologies freak highly focused on iOS development and security. Great fan of cycling and sailing.",
 			  "www":"",
 			  "twitter":"",
 			  "photo_url":"/images/speakers/tomasz-grynfelder.png"
