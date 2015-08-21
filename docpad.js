@@ -290,19 +290,19 @@ docpadConfig = {
    	  },
    	  venues: {
 		  "venue-1":{
-			  "title":"JUG Łódź"
+			  "title":"Seamless"
 		  },
 		  "venue-2":{
-			  "title":"Harman"
+			  "title":"TomTom"
 		  },
 		  "venue-3":{
 			  "title":"Mobica"
 		  },
 		  "venue-4":{
-			  "title":"Seamless"
+			  "title":"Harman"
 		  },
 		  "venue-5": {
-			  "title":"TomTom"
+			  "title":"HP"
 		  }
    	  },
    	  schedule: {
