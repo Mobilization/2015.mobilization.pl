@@ -45,6 +45,10 @@
                      <% end %>
                     
                      <% for talk_key in speaker_talk_keys: %>
+                   	<%= @site.talks[talk_key].title %>
+                    </small><br/>
+                   	<%= @site.talks[talk_key].description_html %>
+				<!--
                    		<% for slot_key, slot of @site.schedule: %>
                    			<% for venue_key, venue of @site.venues: %>					
                    				<% if venue_key of slot: %>
@@ -55,13 +59,13 @@
                  					<% end %>
                    				<% end %>
                    			<% end %>
-                   		<% end %>	
+                   		<% end %>
+				-->
                      <% end %>
                       <!-- <a data-agenda="90" data-speaker="1">                      
                         12:25
                         Boiling out Boilerplate	
                        -->
-                    </small>
                   </li>
               </ul>
             </div>
