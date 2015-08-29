@@ -11,6 +11,7 @@ GIT_CURRENT_REVISION=$(git rev-parse --verify HEAD)
 GIT_COMMIT_MESSAGE="Generated page based on revision "$GIT_CURRENT_REVISION
 
 cd ../2015.mobilization.pl-gh-pages
+git pull
 git add -A
 git commit -m "$GIT_COMMIT_MESSAGE"
 git push origin gh-pages
