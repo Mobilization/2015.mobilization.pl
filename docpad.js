@@ -470,7 +470,7 @@ docpadConfig = {
           },
           "talk-developing-software-for-dedicated-devices-using-agile": {
 			  "title": "Developing Software for Dedicated Devices using Agile",
-			  "description_html": "We’re an indie iOS studi of two. We released our first iPhone app for iOS 3.1 and we kept putting out small fun apps for the next five years. Times were good and we thought it’s always gonna be like this in the App Store. Apple isn’t into indies anymore and the App Store is a slaughterhouse. Tons of developers are in a kind of limbo - why is this happening and what to do after the Indiepocalipse is over? What is the next logical step - try harder on the App Store, pivot, change platforms? But now that the Indiepocalipse is upon us. Or is it?",
+			  "description_html": "",
 			  "speakers_keys": [
 				"speaker-edwin-adriaansen"
 			  ],
