@@ -53,7 +53,7 @@ docpadConfig = {
             {"name":"Touk","logo_url":"/images/sponsors/touk-logo.png","link":"http://www.touk.pl/"},
             {"name":"Cybercom","logo_url":"/images/sponsors/cybercom.png","link":"http://www.cybercom.com/pl/Poland/"},
 
-      	],
+      	]
       },
       partners: {
       	organizers: [
@@ -186,7 +186,7 @@ docpadConfig = {
 		  "speaker-pawel-dudek":{
 			  "firstname":"Paweł",
 			  "lastname":"Dudek",
-			  "bio_html":"I'm an iOS developer that has been building iOS apps for over 6 years now. I've shipped a variety of apps during my initial stage of career. Right now I'm focusing on building rich, content heavy and beautiful apps for Fortune 500 companies at a US-based startup Taptera. <br><br>I've been publicly speaking and sharing my knowledge for over a year now. You can find full list of my talks, including videos and slides here: <br><br> <a href=\"http://paweldudek.github.io/speaking/\">http://paweldudek.github.io/speaking/</a>",
+			  "bio_html":"I'm an iOS developer that has been building iOS apps for over 6 years now. I've shipped a variety of apps during my initial stage of career. Right now I'm focusing on building rich, content heavy and beautiful apps for Fortune 500 companies at a US-based startup Taptera. I've been publicly speaking and sharing my knowledge for over a year now. You can find full list of my talks, including videos and slides <a href=\"http://paweldudek.github.io/speaking/\">here</a>",
 			  "wwww":"http://paweldudek.github.io/speaking/",
 			  "twitter":"",
 			  "photo_url":"/images/speakers/pawel-dudek.jpeg"
@@ -259,13 +259,224 @@ docpadConfig = {
 			"firstname": "Fokke",
 			"lastname":"Zandbergen",
 			"bio_html": "Fokke is a Developer Evangelist for Appcelerator, the company behind Titanium. Before that, he was already active in the Titanium community for a long time with initiatives like gitt.io, ticons.fokkezb.nl, tidev.io, contributions to Alloy and Alloy widgets and by leading the Dutch user group. He has a passion for understanding new technologies by using and hacking them and sharing from that experience.",
-			"wwww":"",
+			"www":"",
 			"twitter":"",
 			"photo_url":"/images/speakers/fokke-zandbergen.png"
 		  },
+		 "speaker-krzysztof-siejkowski":{
+			"firstname": "Krzysztof",
+			"lastname":"Siejkowski",
+			"bio_html":"Po trzech latach zawodowego programowania wie tylko tyle, że nic nie wie. Pisał w Javie, Scali i Swifcie, ale Objective-C, pierwsza miłość, zajmuje w jego sercu specjalne miejsce. Wierzy, że wszyscy deweloperzy to jedna rodzina, i chce tę świadomość krzewić organizując spotkania MobileWarsaw oraz konferencję Codepot. Robi co może dla rozwoju aplikacji mobilnych w firmie TouK. ",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/krzysztof-siejkowski.png"
+		  },
+		  /*
+		  "speaker-zbigniew-szymanski":{
+			"firstname": "Zbigniew",
+			"lastname":"Szymański",
+			"bio_html":"",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/zbigniew-szymanski.png"
+		  },
+		  */
+		  "speaker-lukasz-olejarczuk":{
+			"firstname": "Łukasz",
+			"lastname":"Olejarczuk",
+			"bio_html":"Łukasz is a technology evangelist and software developer at Bank Zachodni WBK where he is creating a wide variety of state-of-the-art applications. Now he is strongly focused on mobile hybrid applications in the enterprise world.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/lukasz-olejarczuk.png"
+		  },
+		  "speaker-krzysztof-scira":{
+			"firstname": "Krzysztof",
+			"lastname":"Ścira",
+			"bio_html":"Prezes i front-developer firmy desi9n.pl sp. z o. o. - oferującej hybrydowe aplikacje mobilne, aplikacje webowe i strony internetowe RWD. Wielokrotny prelegent na wydarzeniach związanych z programowaniem urządzeń mobilnych. Na co dzień w swojej pracuje w HTML5, CSS3, SASS / SCSS, AngularJS i oczywiście Cordova / Phonegap. W wolnych chwilach pasjonat boksu olimpijskiego.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/krzysztof-scira.png"
+		  },
+		 "speaker-michal-tuszynski":{
+			"firstname": "Michał",
+			"lastname":"Tuszyński",
+			"bio_html":"Programista iOS w aplikacji Tidal związany z polską sceną startupową oraz miłośnik wszelkich nowych technologii",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/michal-tuszynski.png"
+		  },
+		  "speaker-marin-todorov":{
+			"firstname": "Marin",
+			"lastname":"Todorov",
+			"bio_html":"Marin Todorov is an independent iOS consultant and publisher. He started developing on an Apple ][ more than 20 years ago and keeps rocking till today. Meanwhile he has worked in great companies like Monster Technologies and Native Instruments, has lived in 4 different countries, and (more recently) is one the founding members of the raywenderlich.com tutorial team. Besides crafting code, Marin also enjoys bloging on www.touch-code-magazine.com, writing books www.ios-animations-by-tutorials.com, and speaking at mobile conferences. He sometimes open sources his code. He walked the way to Santiago. More info & prev. speaking experience <a href=\"http://www.underplot.com/#speaking\">here</a>",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/marin-todorov.png"
+		  },
+		  "speaker-edwin-adriaansen":{
+			"firstname": "Edwin",
+			"lastname":"Adriaansen",
+			"bio_html":"Edwin Adriaansen has been programming since the early nineties. He worked for several IT companies and joined TomTom 7 years ago. Currently he is managing the teams responsible for the software running on the TomTom navigation devices. Furthermore he has a personal interest in new technical developments (geeky products), mechanical watches and good food.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/edwin-adriaansen.png"
+          },
    	  },
    	  talks: {
-   	  	
+   	  	"talk-clean-architecture": {
+            "title": "Przejrzysty i testowalny kod na Androidzie? Spróbujmy z Clean Architecture",
+            "description_html": "Pisanie dobrego oprogramowania na platformę Android jest trudnym zadaniem. Jednym z dużych problemów, zwłaszcza w przypadku sporych aplikacji, może być podział logiki aplikacji tak, aby nasze Activity czy Fragmenty nie były nią przeładowane oraz aplikacja była podatna na testowanie jednostkowe. Szukając pomysłu na architekturę aplikacji, która będzie dobrze się skalowała wraz z rozwojem projektu, natknąłem się na Clean Architecture zaproponowaną przez Boba C. Martina. Podczas prezentacji zobaczymy czy i jak CA sprawdza się w przypadku aplikacji mobilnych na Androida i na co pozwala jej zastosowanie. Oczywiście nie pominiemy takich kluczowych kwestii jak pogodzenie tego wszystkiego z wszechobecną na Androidzie asynchronicznością.",
+            "speakers_keys": [
+              "speaker-michal-charmas"
+            ],
+            "language": "PL"
+          },
+          "talk-swift-and-objective-c-interoperability": {
+            "title": "Swift and Objective-C interoperability",
+            "description_html": "Have a look at how to make Swift and Objective-C interoperability seamless. Basics of including Swift code in your new or existing Objective-C based projects and helping yourself when you want to deliver some parts of Swift-based application using Objective-C code.",
+            "speakers_keys": [
+              "speaker-tomasz-grynfelder"
+            ],
+            "language": "EN"
+          },
+          "talk-espressive-functional-testing-with-espresso": {
+            "title": "Espressive functional testing with Espresso",
+            "description_html": "Testing mobile apps is not easy. If you wanted to test \"Hello World\" app with a button and text label, that wouldn't be really hard. But our apps do a lot more. They are calling RESTful services, checking on user's GPS location or using Facebook or Google+ login buttons, which connect to network themselves. How do you test that? I want to show you my approach to functional testing with Espresso and a bit of dependency inversion magic. Do you have a feeling testing network error conditions is hard or cumbersome when done manually. Turns out it's even easier to automatically test it than \"the happy path\". You will see real code from production app, so remember to drink a shot of espresso before joining this session.",
+            "speakers_keys": [
+              "speaker-maciej-gorski"
+            ],
+            "language": "EN"
+          },
+          "talk-kotlin-for-android": {
+            "title": "Kotlin for Android",
+            "description_html": "Wprowadzenie do Kotlina na Androida. Omówienie składni języka oraz jego kluczowych aspektów umożliwiających znacznie szybsze pisanie aplikacji na platformę Android. Porównanie Kotlina z alternatywnymi językami JVM. Zakończone sesją Q&A.",
+            "speakers_keys": [
+              "speaker-pawel-gajda"
+            ],
+            "language": "PL"
+          },
+          "talk-reaktywne-programowanie-z-rxjava": {
+            "title": "Reaktywne programowanie z RxJava",
+            "description_html": "Programowanie reaktywne jako lekarstwo na ból głowy związany z kodem asynchronicznym. W czasie mojej prezentacji przedstawię fundamentalne idee stojące za tym paradygmatem oraz zademonstruję od podstaw jak tworzyć reaktywne rozwiązania. Wszystko to na przykładzie biblioteki RxJava na platformie Android.",
+            "speakers_keys": [
+              "speaker-piotr-krystyniak"
+            ],
+            "language": "PL"
+          },
+			"talk-hipster-oriented-programming": {
+            "title": "Hipster Oriented Programming",
+            "description_html": "Not sure if you should order a burrito or a monad for lunch? Get a quick overview of Object Oriented, Functional and Protocol Oriented programming in Swift 2 and learn what all that fuss is about and why you should care.",
+            "speakers_keys": [
+              "speaker-jens-ravens"
+            ],
+            "language": "EN"
+          },
+          	"talk-behavior-driven-development": {
+            "title": "Behavior Driven Development",
+            "description_html": "Building apps is hard. But making sure that apps don't break in the process of adding new functionality is even harder. Your code is constantly changing. If you're lucky your requirements aren't changing that much, but you probably live in the world of constant change. And that change poses a certain risk. Things sometimes might go missing. Pieces of code, pieces of behavior that should be there. But are not. In this talk you'll learn how you can avoid falling into this trap by leveraging behavior driven development. You'll find out how to write tests for iOS and what technologies you can use to keep your code safe and sound. ",
+             "speakers_keys": [
+              "speaker-pawel-dudek"
+            ],
+            "language": "EN"
+          },
+          "talk-dagger-2-dependency-injection-w-kodzie-produkcyjnym": {
+            "title": "Dagger 2 - Dependency Injection w kodzie produkcyjnym",
+            "description_html": "Dagger 2 to pierwszy framework do Dependency Injection, który można uznać za Android friendly. Nie korzysta z refleksji, jest tak szybki jak ręcznie pisany kod, nie wymaga dodatkowej konfiguracji Proguarda. W związku z tym, że wartość Dependency Injection wzrasta wraz ze złożonością projektu, na prezentacji pokazane zostaną przykłady użycia Daggera w kodzie produkcyjnym. Zobaczymy co dają nam Scope'y, jak Dagger 2 pomaga w różnych typach testów, jak unikać wycieków pamięci oraz jak Dagger 2 pomaga w pracy zespołowej.",
+            "speakers_keys": [
+              "speaker-miroslaw-stanek"
+            ],
+            "language": "PL"
+          },
+          "talk-watch-out-for-the-watch": {
+            "title": "Watch out for the watch",
+            "description_html": "Dagger 2 to pierwszy framework do Dependency Injection, który można uznać za Android friendly. Nie korzysta z refleksji, jest tak szybki jak ręcznie pisany kod, nie wymaga dodatkowej konfiguracji Proguarda. W związku z tym, że wartość Dependency Injection wzrasta wraz ze złożonością projektu, na prezentacji pokazane zostaną przykłady użycia Daggera w kodzie produkcyjnym. Zobaczymy co dają nam Scope'y, jak Dagger 2 pomaga w różnych typach testów, jak unikać wycieków pamięci oraz jak Dagger 2 pomaga w pracy zespołowej.",
+            "speakers_keys": [
+              "speaker-peter-tuszynski"
+            ],
+            "language": "EN"
+          },
+          "talk-app-indexing-i-deep-linking-w-aplikacjach-androidowych": {
+            "title": "App Indexing i Deep linking w aplikacjach Androidowych",
+            "description_html": "Podczas prelekcji dowiesz się w jaki sposób wzbogacić aplikację o wsparcie dla App Indexingu, pozwoli to zwiększyć zaangażowanie obecnych użytkowników oraz przyciągnąć nowych. Zobaczysz na jakie problemy można natknąć się podczas implementacji, jak można sobie z nimi poradzić, a także poznasz kilka sztuczek ułatwiających wdrożenie App Indexingu.",
+            "speakers_keys": [
+              "speaker-krzysztof-kocel"
+            ],
+
+            "language": "PL"
+          },
+          "talk-qtquick-spotyka-html": {
+            "title": "QtQuick spotyka HTML",
+            "description_html": "Celem prezentacji jest pokazanie w jaki sposób połączyć ze sobą dwa światy -- oferowany przez Qt wydajny i prosty w użyciu mechanizm QtQuick/QML oraz niezwykle popularny HTML. Zademonstrowane zostanie, jak osadzić w scenie QtQuickowej treść HTML i jak komunikować ze sobą skrypt QML i JavaScript na stronie.",
+            "speakers_keys": [
+              "speaker-witold-wysota"
+            ],
+            "language": "PL"
+          },
+          "talk-dobry-zwyczaj-nie-odziedziczaj": {
+            "title": "Dobry zwyczaj: nie odziedziczaj",
+            "description_html": "Swift zainspirował środowisko programistów OSX/iOS do poszukiwań w miejscach, w które się dotąd nie zapuszczali. Na przykład w rejony programowania funkcyjnego. My też się tam wybierzemy, żeby przejrzeć kilka prostych koncepcji i technik gotowych do natychmiastowego wykorzystania w aplikacjach mobilnych. W podróż zabierze nas rollercoster emocji: radość na widok znajomych problemów, przed którymi programowanie funkcyjne nas chroni, oraz smutek na widok nowych, które wprowadza.",
+            "speakers_keys": [
+              "speaker-krzysztof-siejkowski"
+            ],
+            "language": "PL"
+          },
+          "talk-tworzenie-reaktywnego-ui-na-androida-w-scali": {
+			  "title": "Tworzenie reaktywnego UI na Androida w Scali ",
+			  "description_html": "Praktyczna prezentacja sposobu towrzenia aplikacji, a w szczegolnosci UI, na Androida z wykorzystaniem mozliwosci jakie daje nam jezyk Scala. Ostatnio dosc popularne sa strumienie RxJava i coraz wiecej programistow dostrzega ich zalety. Jednak ten sposob programowania jest bardzo nienaturalny i ograniczony, szczegolnie w zakresie tworzenia interfejsu uzytkownika. Wykorzystujac mozliwoci bardziej zaawansowanego jezyka mozna uzyskac duzo lepsze efekty piszac o wiele mniej kodu. Proponowane przeze mnie rozwiazanie bazuje na pomyslach zaczerpnietych z funkcyjnego programowania reaktywnego (frp) biorac pod uwage specyfike aplikacji na system Android. Nie bede mowil o samym jezyku Scala ani o tym jak go uzywac na Androidzie. Zaprezentuje tylko jeden specyficzny aspekt tworzenia aplikacji z uzyciem tego jezyka. Bedzie troche kodu w skali i nie bede go dokladnie objasnial, ale ogolna idea powinna byc zrozumiala dla osob znajacych dowolny jezyk programowania.",
+			  "speakers_keys": [
+				"speaker-zbigniew-szymanski"
+			  ],
+			  "language": "PL"
+          },
+          "talk-ionic-io-services-for-hybrid-mobile-applications": {
+			  "title": "ionic.io - services for hybrid mobile applications",
+			  "description_html": "ionic.io - usługi dla hybrydowych aplikacji mobilnych W prezentacji przedstawię możliwości platformy ionic.io oraz ich wykorzystanie w hybrydowej aplikacji mobilnej. Podzielę się także nowościami ze świata Ionic i powiem parę słów o inicjatywie Ionic Poland. ionic.io - services for hybrid mobile applications In the presentation I will introduce service of the ionic.io platform and show how to use it in hybrid mobile applications. I'm going to share news from the ionic world and introduce Ionic Poland.",
+			  "speakers_keys": [
+				"speaker-lukasz-olejarczuk"
+			  ],
+			  "language": "PL"
+          },
+          "talk-angular-js-i-cordova-tworzenie-hybrydowych-aplikacji-mobilnych": {
+			  "title": "AngularJS i Cordova - tworzenie hybrydowych aplikacji mobilnych",
+			  "description_html": "Prelekcja dotycząca programowania urządzeń mobilnych z wykorzystaniem AngularJS na systemy iOS, Android i Windows Phone z wykorzystaniem Cordova / Phonegap. Poruszone będą następujące tematy: wstęp do tworzenia hybrydowych aplikacji mobilnych, wykorzystanie AngularJS w budowie aplikacji webowych, zwiększanie wydajności aplikacji hybrydowych, zalecane narzędzia i biblioteki, typowe i nietypowe pułapki i sposoby ich rozwiązywania.",
+			  "speakers_keys": [
+				"speaker-krzysztof-scira"
+			  ],
+			  "language": "PL"
+          },
+          "talk-titanium-develop-native-mobile-apps-with-javascript": {
+			  "title": "Titanium: Develop Native Mobile Apps with JavaScript",
+			  "description_html": "Forget about the whole Mobile Web versus Native Apps debate; if you already (truly) know JavaScript then you can use those Web skills to create Native Apps! Titanium is a cross-platform proxy between JavaScript and the iOS, Android and Windows Native API's. Unlike some other solutions this allows you not only to access potentially any system API like that for Geolocation, but also use Native UI Components to build truly Native Interfaces. You wil be introduced to Titanium and see how easy it is to get started via actual code samples and live cross-platform demos. Bring your JavaScript skills and you will leave this presentation as a Native Mobile App Developer!",
+			  "speakers_keys": [
+				"speaker-fokke-zandbergen"
+			  ],
+			  "language": "EN"
+          },
+          "talk-modern-ios-app-architecture": {
+			  "title": "Modern iOS App Architecture",
+			  "description_html": "Programowanie aplikacji na iOS zmieniają się z roku na roku wraz z rozwojem języka Objective-C, wprowadzenia nowego języka Swift jak i niezliczonych ulepszeń bibliotek wchodzących w skład iOS SDK. Prezentacja pokaże najlepsze praktyki jakie współczesne aplikacje powinny wykorzystywać.",
+			  "speakers_keys": [
+				"speaker-michal-tuszynski"
+			  ],
+			  "language": "PL"
+          },
+          "talk-what-s-in-it-for-us-after-the-indiepocalipse": {
+			  "title": "What’s in it for us after the Indiepocalipse?",
+			  "description_html": "We’re an indie iOS studi of two. We released our first iPhone app for iOS 3.1 and we kept putting out small fun apps for the next five years. Times were good and we thought it’s always gonna be like this in the App Store. Apple isn’t into indies anymore and the App Store is a slaughterhouse. Tons of developers are in a kind of limbo - why is this happening and what to do after the Indiepocalipse is over? What is the next logical step - try harder on the App Store, pivot, change platforms? But now that the Indiepocalipse is upon us. Or is it?",
+			  "speakers_keys": [
+				"speaker-marin-todorov"
+			  ],
+			  "language": "EN"
+          },
+          "talk-developing-software-for-dedicated-devices-using-agile": {
+			  "title": "Developing Software for Dedicated Devices using Agile",
+			  "description_html": "We’re an indie iOS studi of two. We released our first iPhone app for iOS 3.1 and we kept putting out small fun apps for the next five years. Times were good and we thought it’s always gonna be like this in the App Store. Apple isn’t into indies anymore and the App Store is a slaughterhouse. Tons of developers are in a kind of limbo - why is this happening and what to do after the Indiepocalipse is over? What is the next logical step - try harder on the App Store, pivot, change platforms? But now that the Indiepocalipse is upon us. Or is it?",
+			  "speakers_keys": [
+				"speaker-edwin-adriaansen"
+			  ],
+			  "language": "EN"
+          },
+
    	  },
    	  breaks: {
    	  	'break-registration': {
