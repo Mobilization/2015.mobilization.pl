@@ -297,7 +297,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/krzysztof-scira.png"
 		  },
-		 "speaker-michał-tuszynski":{
+		 "speaker-michal-tuszynski":{
 			"firstname": "Michał",
 			"lastname":"Tuszyński",
 			"bio_html":"Programista iOS w aplikacji Tidal związany z polską sceną startupową oraz miłośnik wszelkich nowych technologii",
@@ -308,7 +308,7 @@ docpadConfig = {
 		  "speaker-marin-todorov":{
 			"firstname": "Marin",
 			"lastname":"Todorov",
-			"bio_html":"Marin Todorov is an independent iOS consultant and publisher. He started developing on an Apple ][ more than 20 years ago and keeps rocking till today. Meanwhile he has worked in great companies like Monster Technologies and Native Instruments, has lived in 4 different countries, and (more recently) is one the founding members of the raywenderlich.com tutorial team. Besides crafting code, Marin also enjoys bloging on www.touch-code-magazine.com, writing books www.ios-animations-by-tutorials.com, and speaking at mobile conferences. He sometimes open sources his code. He walked the way to Santiago. More info & prev. speaking experience: <a href=\"http://www.underplot.com/#speaking\">here</a>",
+			"bio_html":"Marin Todorov is an independent iOS consultant and publisher. He started developing on an Apple ][ more than 20 years ago and keeps rocking till today. Meanwhile he has worked in great companies like Monster Technologies and Native Instruments, has lived in 4 different countries, and (more recently) is one the founding members of the raywenderlich.com tutorial team. Besides crafting code, Marin also enjoys bloging on www.touch-code-magazine.com, writing books www.ios-animations-by-tutorials.com, and speaking at mobile conferences. He sometimes open sources his code. He walked the way to Santiago. More info & prev. speaking experience <a href=\"http://www.underplot.com/#speaking\">here</a>",
 			"www":"",
 			"twitter":"",
 			"photo_url":"/images/speakers/marin-todorov.png"
@@ -440,7 +440,7 @@ docpadConfig = {
 			  "title": "AngularJS i Cordova - tworzenie hybrydowych aplikacji mobilnych",
 			  "description_html": "Prelekcja dotycząca programowania urządzeń mobilnych z wykorzystaniem AngularJS na systemy iOS, Android i Windows Phone z wykorzystaniem Cordova / Phonegap. Poruszone będą następujące tematy: wstęp do tworzenia hybrydowych aplikacji mobilnych, wykorzystanie AngularJS w budowie aplikacji webowych, zwiększanie wydajności aplikacji hybrydowych, zalecane narzędzia i biblioteki, typowe i nietypowe pułapki i sposoby ich rozwiązywania.",
 			  "speakers_keys": [
-				"speaker-lukasz-olejarczuk"
+				"speaker-krzysztof-scira"
 			  ],
 			  "language": "PL"
           },
