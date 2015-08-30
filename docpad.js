@@ -53,7 +53,7 @@ docpadConfig = {
             {"name":"Touk","logo_url":"/images/sponsors/touk-logo.png","link":"http://www.touk.pl/"},
             {"name":"Cybercom","logo_url":"/images/sponsors/cybercom.png","link":"http://www.cybercom.com/pl/Poland/"},
 
-      	],
+      	]
       },
       partners: {
       	organizers: [
@@ -263,24 +263,64 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/fokke-zandbergen.png"
 		  },
-		  /*
 		 "speaker-krzysztof-siejkowski":{
 			"firstname": "Krzysztof",
 			"lastname":"Siejkowski",
 			"bio_html":"Po trzech latach zawodowego programowania wie tylko tyle, że nic nie wie. Pisał w Javie, Scali i Swifcie, ale Objective-C, pierwsza miłość, zajmuje w jego sercu specjalne miejsce. Wierzy, że wszyscy deweloperzy to jedna rodzina, i chce tę świadomość krzewić organizując spotkania MobileWarsaw oraz konferencję Codepot. Robi co może dla rozwoju aplikacji mobilnych w firmie TouK. ",
 			"www":"",
 			"twitter":"",
-			"photo_url":"/images/speakers/fokke-zandbergen.png"
+			"photo_url":"/images/speakers/krzysztof-siejkowski.png"
 		  },
+		  /*
 		  "speaker-zbigniew-szymanski":{
-			"firstname": "Krzysztof",
-			"lastname":"Siejkowski",
-			"bio_html":"Po trzech latach zawodowego programowania wie tylko tyle, że nic nie wie. Pisał w Javie, Scali i Swifcie, ale Objective-C, pierwsza miłość, zajmuje w jego sercu specjalne miejsce. Wierzy, że wszyscy deweloperzy to jedna rodzina, i chce tę świadomość krzewić organizując spotkania MobileWarsaw oraz konferencję Codepot. Robi co może dla rozwoju aplikacji mobilnych w firmie TouK. ",
+			"firstname": "Zbigniew",
+			"lastname":"Szymański",
+			"bio_html":"",
 			"www":"",
 			"twitter":"",
-			"photo_url":"/images/speakers/fokke-zandbergen.png"
+			"photo_url":"/images/speakers/zbigniew-szymanski.png"
 		  },
 		  */
+		  "speaker-lukasz-olejarczuk":{
+			"firstname": "Łukasz",
+			"lastname":"Olejarczuk",
+			"bio_html":"Łukasz is a technology evangelist and software developer at Bank Zachodni WBK where he is creating a wide variety of state-of-the-art applications. Now he is strongly focused on mobile hybrid applications in the enterprise world.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/lukasz-olejarczuk.png"
+		  },
+		  "speaker-krzysztof-scira":{
+			"firstname": "Krzysztof",
+			"lastname":"Ścira",
+			"bio_html":"Prezes i front-developer firmy desi9n.pl sp. z o. o. - oferującej hybrydowe aplikacje mobilne, aplikacje webowe i strony internetowe RWD. Wielokrotny prelegent na wydarzeniach związanych z programowaniem urządzeń mobilnych. Na co dzień w swojej pracuje w HTML5, CSS3, SASS / SCSS, AngularJS i oczywiście Cordova / Phonegap. W wolnych chwilach pasjonat boksu olimpijskiego.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/krzysztof-scira.png"
+		  },
+		 "speaker-michał-tuszynski":{
+			"firstname": "Michał",
+			"lastname":"Tuszyński",
+			"bio_html":"Programista iOS w aplikacji Tidal związany z polską sceną startupową oraz miłośnik wszelkich nowych technologii",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/michal-tuszynski.png"
+		  },
+		  "speaker-marin-todorov":{
+			"firstname": "Marin",
+			"lastname":"Todorov",
+			"bio_html":"Marin Todorov is an independent iOS consultant and publisher. He started developing on an Apple ][ more than 20 years ago and keeps rocking till today. Meanwhile he has worked in great companies like Monster Technologies and Native Instruments, has lived in 4 different countries, and (more recently) is one the founding members of the raywenderlich.com tutorial team. Besides crafting code, Marin also enjoys bloging on www.touch-code-magazine.com, writing books www.ios-animations-by-tutorials.com, and speaking at mobile conferences. He sometimes open sources his code. He walked the way to Santiago. More info & prev. speaking experience: <a href=\"http://www.underplot.com/#speaking\">here</a>",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/marin-todorov.png"
+		  },
+		  "speaker-edwin-adriaansen":{
+			"firstname": "Edwin",
+			"lastname":"Adriaansen",
+			"bio_html":"Edwin Adriaansen has been programming since the early nineties. He worked for several IT companies and joined TomTom 7 years ago. Currently he is managing the teams responsible for the software running on the TomTom navigation devices. Furthermore he has a personal interest in new technical developments (geeky products), mechanical watches and good food.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/edwin-adriaansen.png"
+          },
    	  },
    	  talks: {
    	  	"talk-clean-architecture": {
@@ -425,6 +465,14 @@ docpadConfig = {
 			  "description_html": "We’re an indie iOS studi of two. We released our first iPhone app for iOS 3.1 and we kept putting out small fun apps for the next five years. Times were good and we thought it’s always gonna be like this in the App Store. Apple isn’t into indies anymore and the App Store is a slaughterhouse. Tons of developers are in a kind of limbo - why is this happening and what to do after the Indiepocalipse is over? What is the next logical step - try harder on the App Store, pivot, change platforms? But now that the Indiepocalipse is upon us. Or is it?",
 			  "speakers_keys": [
 				"speaker-marin-todorov"
+			  ],
+			  "language": "EN"
+          },
+          "talk-developing-software-for-dedicated-devices-using-agile": {
+			  "title": "Developing Software for Dedicated Devices using Agile",
+			  "description_html": "We’re an indie iOS studi of two. We released our first iPhone app for iOS 3.1 and we kept putting out small fun apps for the next five years. Times were good and we thought it’s always gonna be like this in the App Store. Apple isn’t into indies anymore and the App Store is a slaughterhouse. Tons of developers are in a kind of limbo - why is this happening and what to do after the Indiepocalipse is over? What is the next logical step - try harder on the App Store, pivot, change platforms? But now that the Indiepocalipse is upon us. Or is it?",
+			  "speakers_keys": [
+				"speaker-edwin-adriaansen"
 			  ],
 			  "language": "EN"
           },
