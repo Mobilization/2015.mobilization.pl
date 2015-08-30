@@ -53,7 +53,10 @@ docpadConfig = {
             {"name":"Touk","logo_url":"/images/sponsors/touk-logo.png","link":"http://www.touk.pl/"},
             {"name":"Cybercom","logo_url":"/images/sponsors/cybercom.png","link":"http://www.cybercom.com/pl/Poland/"},
 
-      	]
+      	],
+		bronze: [
+			{"name":"Appcelerator","logo_url":"/images/sponsors/appc-logo-mark-light.png","link":"http://www.appcelerator.com/"}
+		],
       },
       partners: {
       	organizers: [
