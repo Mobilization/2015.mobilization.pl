@@ -274,16 +274,14 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/krzysztof-siejkowski.png"
 		  },
-		  /*
 		  "speaker-zbigniew-szymanski":{
 			"firstname": "Zbigniew",
 			"lastname":"Szymański",
-			"bio_html":"",
+			"bio_html":"Senior Developer / Architect at <a href=\"wire.com\">wire.com</a>, responsible for keeping Android Wire app in sync. Focusing on Android development in Scala, obsessed with idea of creating apps with simpler and more powerful abstractions",
 			"www":"",
 			"twitter":"",
 			"photo_url":"/images/speakers/zbigniew-szymanski.png"
 		  },
-		  */
 		  "speaker-lukasz-olejarczuk":{
 			"firstname": "Łukasz",
 			"lastname":"Olejarczuk",
@@ -423,13 +421,13 @@ docpadConfig = {
             ],
             "language": "PL"
           },
-          "talk-tworzenie-reaktywnego-ui-na-androida-w-scali": {
-			  "title": "Tworzenie reaktywnego UI na Androida w Scali ",
-			  "description_html": "Praktyczna prezentacja sposobu towrzenia aplikacji, a w szczegolnosci UI, na Androida z wykorzystaniem mozliwosci jakie daje nam jezyk Scala. Ostatnio dosc popularne sa strumienie RxJava i coraz wiecej programistow dostrzega ich zalety. Jednak ten sposob programowania jest bardzo nienaturalny i ograniczony, szczegolnie w zakresie tworzenia interfejsu uzytkownika. Wykorzystujac mozliwoci bardziej zaawansowanego jezyka mozna uzyskac duzo lepsze efekty piszac o wiele mniej kodu. Proponowane przeze mnie rozwiazanie bazuje na pomyslach zaczerpnietych z funkcyjnego programowania reaktywnego (frp) biorac pod uwage specyfike aplikacji na system Android. Nie bede mowil o samym jezyku Scala ani o tym jak go uzywac na Androidzie. Zaprezentuje tylko jeden specyficzny aspekt tworzenia aplikacji z uzyciem tego jezyka. Bedzie troche kodu w skali i nie bede go dokladnie objasnial, ale ogolna idea powinna byc zrozumiala dla osob znajacych dowolny jezyk programowania.",
+          "talk-reactive-ui-on-adroid-with-scala":{
+			  "title": "Reactive UI on Android with Scala",
+			  "description_html": "Reactive programming can bring many benefits to mobile application development, especially when implementing UI. User interfaces developed this way are naturally responsive and code tends to be much more concise, which leads to easier development and less bugs. Reactive Extensions is became quite popular among Android developers recently, unfortunately creating UI with this library tends to be very unnatural, partially due to Java language limitations. Using Scala and techniques borrowed from Functional Reactive Programming we can achieve much better results. This talk is not going to be about Scala itself, nor about using Scala on Android. This talk is going to show how we can use Scala to implement UI in reactive fashion, achieving better results, with less code. There will be quite a lot of Scala code, but it should be accessible for Java developers.",
 			  "speakers_keys": [
 				"speaker-zbigniew-szymanski"
 			  ],
-			  "language": "PL"
+			  "language": "EN"
           },
           "talk-ionic-io-services-for-hybrid-mobile-applications": {
 			  "title": "ionic.io - services for hybrid mobile applications",
