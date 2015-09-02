@@ -390,7 +390,7 @@ docpadConfig = {
           },
           "talk-watch-out-for-the-watch": {
             "title": "Watch out for the watch",
-            "description_html": "Dagger 2 to pierwszy framework do Dependency Injection, który można uznać za Android friendly. Nie korzysta z refleksji, jest tak szybki jak ręcznie pisany kod, nie wymaga dodatkowej konfiguracji Proguarda. W związku z tym, że wartość Dependency Injection wzrasta wraz ze złożonością projektu, na prezentacji pokazane zostaną przykłady użycia Daggera w kodzie produkcyjnym. Zobaczymy co dają nam Scope'y, jak Dagger 2 pomaga w różnych typach testów, jak unikać wycieków pamięci oraz jak Dagger 2 pomaga w pracy zespołowej.",
+            "description_html": "Apple Watch might be the most polarising, controversial and innovative product added to Apple's portfolio in the last few years. Let's take a brief look to see if it's worth it, and first and foremost how to bring our apps to people's wrists.",
             "speakers_keys": [
               "speaker-peter-tuszynski"
             ],
