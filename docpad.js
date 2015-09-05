@@ -293,7 +293,7 @@ docpadConfig = {
 		  "speaker-krzysztof-scira":{
 			"firstname": "Krzysztof",
 			"lastname":"Ścira",
-			"bio_html":"Prezes i front-developer firmy desi9n.pl sp. z o. o. - oferującej hybrydowe aplikacje mobilne, aplikacje webowe i strony internetowe RWD. Wielokrotny prelegent na wydarzeniach związanych z programowaniem urządzeń mobilnych. Na co dzień w swojej pracuje w HTML5, CSS3, SASS / SCSS, AngularJS i oczywiście Cordova / Phonegap. W wolnych chwilach pasjonat boksu olimpijskiego.",
+			"bio_html":"Prezes i front-end developer firmy desi9n.pl sp. z o. o. - tworzącej hybrydowe aplikacje mobilne (iOS, Android, WindowsPhone), aplikacje i strony internetowe RWD. Wielokrotny prelegent na wydarzeniach związanych z programowaniem urządzeń mobilnych i programowaniem front-end. Na co dzień pracuje w HTML5, CSS3, SASS / SCSS, AngularJS i oczywiście Cordova / Phonegap - czy to jako developer w desi9n.pl czy to trener programowania w firmie SAGES. W wolnych chwilach pasjonat boksu olimpijskiego.",
 			"www":"",
 			"twitter":"",
 			"photo_url":"/images/speakers/krzysztof-scira.png"
@@ -438,8 +438,8 @@ docpadConfig = {
 			  "language": "PL"
           },
           "talk-angular-js-i-cordova-tworzenie-hybrydowych-aplikacji-mobilnych": {
-			  "title": "AngularJS i Cordova - tworzenie hybrydowych aplikacji mobilnych",
-			  "description_html": "Prelekcja dotycząca programowania urządzeń mobilnych z wykorzystaniem AngularJS na systemy iOS, Android i Windows Phone z wykorzystaniem Cordova / Phonegap. Poruszone będą następujące tematy: wstęp do tworzenia hybrydowych aplikacji mobilnych, wykorzystanie AngularJS w budowie aplikacji webowych, zwiększanie wydajności aplikacji hybrydowych, zalecane narzędzia i biblioteki, typowe i nietypowe pułapki i sposoby ich rozwiązywania.",
+			  "title":"AngularJS i Cordova - tworzenie hybrydowych aplikacji mobilnych",
+			  "description_html": "Prelekcja dotycząca programowania urządzeń mobilnych z wykorzystaniem AngularJS na systemy iOS, Android i Windows Phone z wykorzystaniem Cordova / Phonegap. Poruszone będą następujące tematy: wstęp do tworzenia hybrydowych aplikacji mobilnych, wykorzystanie AngularJS w budowie aplikacji webowych, zwiększanie wydajności aplikacji hybrydowych, zalecane narzędzia i biblioteki, typowe i nietypowe pułapki i sposoby ich rozwiązywania. Na koniec wystąpienia przewidziana dyskusja z uczestnikami.",
 			  "speakers_keys": [
 				"speaker-krzysztof-scira"
 			  ],
