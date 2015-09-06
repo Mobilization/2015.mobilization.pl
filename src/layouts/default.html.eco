@@ -87,11 +87,12 @@
       <ul class="nav navbar-nav" id="top-nav">
 
         <li><a href="#">Home</a></li>
-        		<li><a href="#sponsors">Sponsors</a></li>
-        		<li><a href="#when-where">When/Where</a></li>
-        		<li><a href="#agenda">Agenda</a></li>
-        		<li><a href="#speakers">Speakers</a></li>
-        		<li><a href="#partners">Partners</a></li>
+        <li><a href="#sponsors">Sponsors</a></li>
+        <li><a href="#when-where">When/Where</a></li>
+        <li><a href="#agenda">Agenda</a></li>
+        <li><a href="#speakers">Speakers</a></li>
+        <li><a href="#partners">Partners</a></li>
+	<li><a href="#registration">Register now</a></li>
 
         <li><a target="_blank" href="https://www.facebook.com/mobilization"><img alt="img-fb.png" src="/images/page/img-fb.png" /></a></li>
         <li><a target="_blank" href="https://twitter.com/mobilizationpl"><img alt="img-twitter.png" src="/images/page/img-twitter.png" /></a></li>

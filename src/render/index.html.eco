@@ -9,3 +9,4 @@ layout: 'default'
 <%- @partial('agenda.html.eco', @) %>
 <%- @partial('speakers.html.eco', @) %>
 <%- @partial('partners.html.eco', @) %>
+<%- @partial('registration.html.eco', @) %>
