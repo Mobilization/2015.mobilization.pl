@@ -322,6 +322,110 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/edwin-adriaansen.png"
           },
+		  "speaker-magda-zadara":{
+			  "firstname": "Magda",
+			  "lastname":"Zadara",
+			  "bio_html":"Magda pracuje w Polidei gdzie projektuje aplikacje mobilne. Z wykształcenia jest projektantką produktu, co sprawia, że patrzy na aplikacje w szerszym kontekście stosując procesy i metodologie projektowe. W pracy i poza nią uwielbia organizować wydarzenia, współtworzyła MCE 2015, jest też jedną z organizatorek Design Practice, wykładów i warsztatów dla projektantów. Jest wyróżnioną absolwentką Akademii Sztuk Pięknych w Warszawie i Central Saint Martins College w Londynie. Podobne prezentacje prowadziłam na Product Camp 2015 w Gdyni i na UX Camp CPH 2015. Współorganizowałam MCE 2015, na którym prowadziłam otwarcie.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/magda-zadara.png"
+		  },
+		  "speaker-konrad-krakowiak":{
+			  "firstname": "Konrad",
+			  "lastname":"Krakowiak",
+			  "bio_html":"Senior Software Engineer w Polidea. Prawie 6 lat doświadczenia z czego 5 jako programista na platformę Android. Doświadczenie prelegenckie: wykład na Politechnice Wrocławskiej (o bibliotece SPen - z Samsunga), wykład o AndEginie - (w ramach konkursu z Samsunga), wykład na Politechnice Warszawskiej w ramach przedmiotu Szlif - mentor na CodePot 2015",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/konrad-krakowiak.png"
+		  },
+		  "speaker-sebastian-kacprzak":{
+			  "firstname": "Sebastian",
+			  "lastname":"Kacprzak",
+			  "bio_html":"Sebastian pracuje jako Solutions Architect w firmie Outline. Pasjonat kasowania kodu, upraszczanie architektury i wyodrębniania powtarzalnych fragmentów kodu jako open sourcowe biblioteki. Prowadził pierwszą edycję Warsaw Android Livecode. Po pracy lubi fotografować.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/sebastian-kacprzak.png"
+		  },
+		  "speaker-magdalena-rydiger":{
+			  "firstname": "Magdalena",
+			  "lastname":"Rydiger",
+			  "bio_html":"Magda i Przemek, z wykształcenia projektanci produktu i komunikacji wizualnej, na co dzień w firmie Polidea biorą na warsztat aplikacje mobilne. Mają doświadczenie w badaniach z użytkownikami, które zdobywali w projektach przeprowadzonych m.in. dla Tatrzańskiego Parku Narodowego, sieci komórkowej Play i Centrum Alzheimera w Warszawie. Uważają, że w projektowaniu zarówno fizycznych jak i niematerialnych produktów, zrozumienie użytkownika jest kluczem do uzyskania trafnej odpowiedzi na jego potrzeby.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/magdalena-rydiger.png"
+		  },
+		  "speaker-przemyslaw-hejman":{
+			  "firstname": "Przemysław",
+			  "lastname":"Hejman",
+			  "bio_html":"Magda i Przemek, z wykształcenia projektanci produktu i komunikacji wizualnej, na co dzień w firmie Polidea biorą na warsztat aplikacje mobilne. Mają doświadczenie w badaniach z użytkownikami, które zdobywali w projektach przeprowadzonych m.in. dla Tatrzańskiego Parku Narodowego, sieci komórkowej Play i Centrum Alzheimera w Warszawie. Uważają, że w projektowaniu zarówno fizycznych jak i niematerialnych produktów, zrozumienie użytkownika jest kluczem do uzyskania trafnej odpowiedzi na jego potrzeby.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/przemyslaw-hejman.png"
+		  },
+		  "speaker-aleksander-piotrowski":{
+			  "firstname": "Aleksander",
+			  "lastname":"Piotrowski",
+			  "bio_html":"Kiedyś backendowiec, dziś deweloper mobilny. Ze względu na wiek piastujący stanowisko Senior Android Developer od pierwszego dnia jako androidowiec. Pełne CV ;-) https://www.linkedin.com/in/pelotasplus Doświadczone konferencyjne: codepot.pl 2015 , Xamarin for Android developers mobile optimized 2015 , w słonecznym Mińsku (Białoruś) droidcon Berlin 2015 , prezentacja w głównym programie plus druga w ramach barcampu droidcon Zagreb 2015 MCEConf 2015 , flash talk oraz workshop droidcon Kraków 2014 , moja pierwsza prezentacja , to był stres! warsjawa.pl 2014 , workshop, juz o technologiach mobilnych warsjawa.pl 2013 , workshop, wtedy jeszcze o backendach",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/aleksander-piotrowski.png"
+		  },
+		  "speaker-karol-kowalski":{
+			  "firstname": "Karol",
+			  "lastname":"Kowalski",
+			  "bio_html":"Karol began his journey into the world of developers two years ago. From the very first day he learned best practices from Uncle Bob and after one year in Impaq, he took a fancy to Groovy and Android development. Since march he combined both these interests in ElPassion as Android-Groovy Dev.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/karol-kowalski.png"
+		  },
+		  "speaker-pawel-urban":{
+			  "firstname": "Paweł",
+			  "lastname":"Urban",
+			  "bio_html":"Developer z krwi i kości od 6 lat. Do tej pory związany z firmami takimi jak LG Electronics, Allegro oraz PayU. Pasjonat świata mobilnego, szczególnie z zielonym robotem w tle.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/pawel-urban.png"
+		  },
+		  "speaker-michal-wlodarczyk":{
+			  "firstname": "Michał",
+			  "lastname":"Włodarczyk",
+			  "bio_html":"Senior Software Engineer w Open-RnD. Od 3.5 zajmuje się rozwijaniem aplikacji na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Kierownik przedmiotów \"m-Commerce\" oraz \"Programowanie aplikacji mobilnych\" (prowadzę wykłady i część laboratoriów, układałem program tych przedmiotów). 2 wystąpienia na konferencjach MIXDES w 2014 i 2015 roku. Więcej informacji na moim profilu na <a href=\"https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08\">LinkedIn</a>",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/michal-wlodarczyk.png"
+		  },
+		  "speaker-maciej-schmidt":{
+			  "firstname": "Maciej",
+			  "lastname":"Schmidt",
+			  "bio_html":"Zapalony programista, grafik, freelancer, miłośnik nowoczesnych technologii, w skrócie: informatyczny człowiek orkiestra. Od kilku lat specjalizuje się w technologii Augmented Reality (Rzeczywistości Rozszerzonej) oraz tworzy użytkowe i rozrywkowe aplikacje mobilne. Od 2007 roku prowadzi firmę MASKOM.pl świadczącą zaawansowane rozwiązania informatyczne dla biznesu. W swoim portfolio posiada realizacje m.in. dla sieci ROSSMANN, RTV Euro AGD, PKP S.A. Prelegent na temat Augmented Reality m.in. na Mobilization 4 for Mobile Conference w Łodzi, JUG Zielona Góra, Mobile Trends Conference 2015 w Krakowie, I Kongresie Mobilnym w Warszawie.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/maciej-schmidt.png"
+		  },
+		  "speaker-tomasz-netczuk":{
+			  "firstname": "Tomasz",
+			  "lastname":"Netczuk",
+			  "bio_html":"Programista nie trzymający się kurczowo jednej platformy. Na koncie ma: frontendy webowe, aplikacje iOS, backendy w node i pythone, devopowanie... Organizator Warsjawy 2014, Codepota 2015, wcześniej prowadził wykład o Foundation na Mobilization oraz warsztaty o tym frameworku na Warsjawie 2013.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/tomasz-netczuk.png"
+		  },
+		  "speaker-michal-aleksander":{
+			  "firstname": "Michał",
+			  "lastname":"Aleksander",
+			  "bio_html":"Michał Aleksander - z wykształcenia dziennikarz, który w pewnym momencie swojego życia bardzo skręcił w stronę (bliskiej mu od zawsze) technologii i projektowania. Przez 5 lat projektował dla kluczowego serwisu e-commerce w Europie Środkowo-Wschodniej, mocno skupiając się na mobilności, rozpoznaniu potrzeb użytkownika oraz naturalnym kontekście użycia projektowanych produktów. Obecnie Interaction Designer i Design Team Manager w przedsionku technologicznym największej na świecie firmy edukacyjnej - Pearson English Technologies, w której mocno skupia sieę na porządkowaniu procesów, wypracowywaniu najlepszych podejść projektowych oraz metodach warsztatowych, w które angażuje reprezentantów wszystkich działów w firmie. Autor elektronicznej książki <a href=\"http://www.ibuk.pl/fiszka/141731/jak-stac-sie-lepszym-projektantem-ux.html\">Jak stać się lepszym projektantem UX</a>  Prelegent na UXCampie (Gdynia, 2014), World of Usability Day (Gdynia, 2014) oraz Product Campie (Gdynia, 2015).",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/michal-aleksander.png"
+		  },
+		  "speaker-lukasz-krupa":{
+			  "firstname": "Łukasz",
+			  "lastname":"Krupa",
+			  "bio_html":"Łukasz Krupa – aktualnie odpowiedzialny za rozwój działu rozwiązań mobilnych w R&D Viessmann we Wrocławiu. Miłośnik zwinnych metod rozwoju produktów i filozofii Kaizen. Swoją przygodę z IT rozpoczynał jako tester oprogramowania i przez ostatnie 10 lat uczestniczył w kilkudziesięciu projektach współpracując ze znanymi firmami branży IT w różnorodnych rolach m.in. Inżyniera rozwoju oprogramowania, kierownika projektu, lidera zespołu, kierownika działu, Agile Coacha. Inicjator społeczności „Agile Wrocław”, konsultant zwinnych metod, praktyk Scruma, współorganizator pierwszego na świecie szkolenia o Scrumie w formie gry miejskiej. Potwierdzeniem jego kompetencji są liczne międzynarodowe certyfikaty: PMI-ACP, PRINCE-2, IPMA-D, PSM I, CSM oraz ISTQB Foundation. W tym roku występował m.in. na konferencji Scrum Days, Testing Cup oraz wielokrotnie na spotkaniach branżowych.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/lukasz-krupa.png"
+		  },
    	  },
    	  talks: {
    	  	"talk-clean-architecture": {
