@@ -471,7 +471,7 @@ docpadConfig = {
           },
           "talk-developing-software-for-dedicated-devices-using-agile": {
 			  "title": "Developing Software for Dedicated Devices using Agile",
-			  "description_html": "",
+			  "description_html": "Agile methodologies like SCRUM, DaD and SAFe help us to effectively develop software products. But when developing software for dedicated devices for the consumer market such as navigation devices, watches and multimedia systems you need some adaptation to make it work. I’ll guide you through the world of software engineering using the principles of the SAFe framework (with some adaptations), starting from running Android on your device till having a final product in she shops. And of course some do’s – don’ts, tools that you could use and much more.",
 			  "speakers_keys": [
 				"speaker-edwin-adriaansen"
 			  ],
