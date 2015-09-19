@@ -32,16 +32,16 @@
             <div class="speaker-agenda">
               <ul>
                   <li>
-                    <small class="text-muted">
                      <% speaker_talk_keys = Array() %>
                      <% for talk_key, talk of @site.talks: %>
                     	<% if speaker_key in talk.speakers_keys: %>
                     		<% speaker_talk_keys.push(talk_key) %>
                       	<% end %> 
                      <% end %>
-                    </small> 
                      <% for talk_key in speaker_talk_keys: %>
-                   	<%= @site.talks[talk_key].title %>&nbsp;&nbsp;<img src="images/page/<%= @site.talks[talk_key].language %>.png" border=1/>
+			<small class="text-muted">
+                   	<%= @site.talks[talk_key].title %>&nbsp;<img src="images/page/<%= @site.talks[talk_key].language %>.png" border=1/>
+			</small>
                     <br/>
                    	<%= @site.talks[talk_key].description_html %>
 				<!--
@@ -62,6 +62,7 @@
                         12:25
                         Boiling out Boilerplate	
                        -->
+                    </small>
                   </li>
               </ul>
             </div>
