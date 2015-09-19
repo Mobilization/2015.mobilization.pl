@@ -49,7 +49,7 @@ docpadConfig = {
       	],
       	silver: [
 			{"name":"Zeto","logo_url":"/images/sponsors/zeto.png","link":"http://www.ckzeto.pl/"},
-			//{"name":"ABB","logo_url":"/images/sponsors/abb.png","link":"http://new.abb.com/pl/o-nas/technologie/centrum-systemow-informatycznych-abb"},
+			{"name":"ABB","logo_url":"/images/sponsors/abb.png","link":"http://new.abb.com/pl/o-nas/technologie/centrum-systemow-informatycznych-abb"},
             {"name":"Touk","logo_url":"/images/sponsors/touk-logo.png","link":"http://www.touk.pl/"},
             {"name":"Cybercom","logo_url":"/images/sponsors/cybercom.png","link":"http://www.cybercom.com/pl/Poland/"},
 
