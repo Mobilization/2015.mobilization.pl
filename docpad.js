@@ -54,7 +54,7 @@ docpadConfig = {
             {"name":"Cybercom","logo_url":"/images/sponsors/cybercom.png","link":"http://www.cybercom.com/pl/Poland/"},
 
       	],
-		bronze: [
+		copper: [
 			{"name":"Appcelerator","logo_url":"/images/sponsors/appc-logo-mark-light.png","link":"http://www.appcelerator.com/"}
 		],
       },
@@ -170,6 +170,7 @@ docpadConfig = {
         	},
       },
       speakers: {
+      //1
 		  "speaker-jens-ravens":{
 			  "firstname":"Jens",
 			  "lastname":"Ravens",
@@ -178,6 +179,7 @@ docpadConfig = {
 			  "twitter":"jensravens",
 			  "photo_url":"/images/speakers/jens-ravens.jpg"
 		  },
+		//2
 		  "speaker-tomasz-grynfelder":{
 			  "firstname":"Tomasz",
 			  "lastname":"Grynfelder",
@@ -186,6 +188,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/tomasz-grynfelder.png"
 		  },
+		  //3
 		  "speaker-pawel-dudek":{
 			  "firstname":"Paweł",
 			  "lastname":"Dudek",
@@ -194,6 +197,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/pawel-dudek.jpeg"
 		  },
+		  //4
 		  "speaker-pawel-gajda":{
 			  "firstname":"Paweł",
 			  "lastname":"Gajda",
@@ -202,6 +206,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/pawel-gajda.png"
 		  },
+		  //5
 		  "speaker-miroslaw-stanek":{
 			  "firstname":"Mirosław",
 			  "lastname":"Stanek",
@@ -210,6 +215,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/miroslaw-stanek.jpeg"
 		  },
+		  //6
 		  "speaker-krzysztof-kocel":{
 			  "firstname":"Krzysztof",
 			  "lastname":"Kocel",
@@ -218,6 +224,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/krzysztof-kocel.jpg"
 		  },
+		  //7
 		  "speaker-witold-wysota":{
 			  "firstname":"Witold",
 			  "lastname":"Wysota",
@@ -226,6 +233,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/witold-wysota.jpg"
 		  },
+		  //8
 		  "speaker-michal-charmas":{
 			  "firstname":"Michał",
 			  "lastname":"Charmas",
@@ -234,6 +242,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/michal-charmas.jpg"
 		  },
+		  //9
 		  "speaker-maciej-gorski":{
 			  "firstname":"Maciej",
 			  "lastname":"Górski",
@@ -242,6 +251,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/maciej-gorski.jpg"
 		  },
+		  //10
 		  "speaker-piotr-krystyniak":{
 			  "firstname":"Piotr",
 			  "lastname":"Krystyniak",
@@ -250,6 +260,7 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/piotr-krystyniak.png"
 		  },
+		  //11
 		  "speaker-peter-tuszynski":{
 			"firstname": "Peter",
 			"lastname": "Tuszyński",
@@ -258,6 +269,7 @@ docpadConfig = {
 			"twitter":"dusker",
 			"photo_url":"/images/speakers/peter-tuszynski.png"
 		  },
+		  //12
 		  "speaker-fokke-zandbergen":{
 			"firstname": "Fokke",
 			"lastname":"Zandbergen",
@@ -266,6 +278,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/fokke-zandbergen.png"
 		  },
+		  //13
 		 "speaker-krzysztof-siejkowski":{
 			"firstname": "Krzysztof",
 			"lastname":"Siejkowski",
@@ -274,6 +287,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/krzysztof-siejkowski.png"
 		  },
+		  //14
 		  "speaker-zbigniew-szymanski":{
 			"firstname": "Zbigniew",
 			"lastname":"Szymański",
@@ -282,6 +296,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/zbigniew-szymanski.png"
 		  },
+		  //15
 		  "speaker-lukasz-olejarczuk":{
 			"firstname": "Łukasz",
 			"lastname":"Olejarczuk",
@@ -290,6 +305,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/lukasz-olejarczuk.png"
 		  },
+		  //16
 		  "speaker-krzysztof-scira":{
 			"firstname": "Krzysztof",
 			"lastname":"Ścira",
@@ -298,6 +314,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/krzysztof-scira.png"
 		  },
+		  //17
 		 "speaker-michal-tuszynski":{
 			"firstname": "Michał",
 			"lastname":"Tuszyński",
@@ -306,6 +323,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/michal-tuszynski.png"
 		  },
+		  //18
 		  "speaker-marin-todorov":{
 			"firstname": "Marin",
 			"lastname":"Todorov",
@@ -314,6 +332,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/marin-todorov.png"
 		  },
+		  //19
 		  "speaker-edwin-adriaansen":{
 			"firstname": "Edwin",
 			"lastname":"Adriaansen",
@@ -322,7 +341,151 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/edwin-adriaansen.png"
           },
-   	  },
+          //20
+          "speaker-daniel-rurarz":{
+				"firstname": "Daniel",
+				"lastname":"Rurarz",
+				"bio_html":"Scrum Master w Seamless Payments. Uczestniczył w wielu projektach informatycznych od systemów operacyjnych na kary bankomatowe po High Performance Computing. Zaczynał od programowania, prowadził projekty informatyczne, najwięcej satysfakcji daje mu jednak praca z zaangażowanymi samozorganizowanymi zespołami i usprawnianie całej organizacji w roli Scrum Mastera.",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //21
+         "speaker-lena-rodziewicz":{
+				"firstname": "Lena",
+				"lastname":"Rodziewicz",
+				"bio_html":"Wielka orędowniczka WebComponents oraz pierwsza osoba do testowania  wszelkich nowości technologicznych. Nieszczęśliwie zakochana w Internet of Things. Stara się, z różnym skutkiem, chociaż trochę ulepszyć świat z użyciem techniki. W branży od 10 lat oraz wiele nieprzespanych nocy. Od ponad 4 lat kieruje zespołami programistów pod flagą Mobica Limited. Odpowiedzialna za dostarczanie ekspertyzy technicznej w zakresie JavaScript jako wsparcie dla biura CTO. Ma kota o imieniu Java. Na Mobilization po raz trzeci.",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //22
+         "speaker-maciej-chwiloc":{
+				"firstname": "Maciej",
+				"lastname":"Chwiłoc",
+				"bio_html":"Dyrektor Rozwoju Produktu Grupy Pracuj S.A. pracujący na co dzień z ponad 80 osobowym zespołem developerów – pasjonatów. W wolnych chwilach budowy dronów i lotów FPV.",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //23
+         "speaker-jacek-rondio":{
+				"firstname": "Jacek",
+				"lastname":"Rondio",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //24
+         "speaker-rafal-szpoton":{
+				"firstname": "Rafał",
+				"lastname":"Szpoton",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //25
+         "speaker-tomasz-netczuk":{
+				"firstname": "Tomasz",
+				"lastname":"Netczuk",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //26
+         "speaker-karol-kowalski":{
+				"firstname": "Karol",
+				"lastname":"Kowalski",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //27
+         "speaker-pawel-junak":{
+				"firstname": "Paweł",
+				"lastname":"Junak",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //28
+         "speaker-konrad-krakowiak":{
+				"firstname": "Konrad",
+				"lastname":"Krakowiak",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //29
+         "speaker-slawomir-jasek":{
+				"firstname": "Sławomir",
+				"lastname":"Jasek",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+         //30
+         "speaker-sebastian-kacprzak":{
+				"firstname": "Sebastian",
+				"lastname":"Kacprzak",
+				"bio_html":"",
+				"www":"",
+				"twitter":"",
+				"photo_url":"/images/speakers/mobilization-soldier.png"
+         },
+        //31
+          "speaker-pawel-wojdera":{
+ 				"firstname": "Paweł",
+ 				"lastname":"Wojdera",
+ 				"bio_html":"",
+ 				"www":"",
+ 				"twitter":"",
+ 				"photo_url":"/images/speakers/mobilization-soldier.png"
+          },
+          //32
+          "speaker-aleksander-piotrowski":{
+ 				"firstname": "Aleksander",
+ 				"lastname":"Piotrowski",
+ 				"bio_html":"",
+ 				"www":"",
+ 				"twitter":"",
+ 				"photo_url":"/images/speakers/mobilization-soldier.png"
+          },
+          //33
+          "speaker-michal-wlodarczyk":{
+ 				"firstname": "Michał",
+ 				"lastname":"Włodarczyk",
+ 				"bio_html":"",
+ 				"www":"",
+ 				"twitter":"",
+ 				"photo_url":"/images/speakers/mobilization-soldier.png"
+          },
+          //34
+          "speaker-michal-aleksander":{
+ 				"firstname": "Michał",
+ 				"lastname":"Aleksander",
+ 				"bio_html":"",
+ 				"www":"",
+ 				"twitter":"",
+ 				"photo_url":"/images/speakers/mobilization-soldier.png"
+          },
+          //35
+          "speaker-maciej-schmidt":{
+ 				"firstname": "Maciej",
+ 				"lastname":"Schmidt",
+ 				"bio_html":"",
+ 				"www":"",
+ 				"twitter":"",
+ 				"photo_url":"/images/speakers/mobilization-soldier.png"
+          },
+      },
    	  talks: {
    	  	"talk-clean-architecture": {
             "title": "Przejrzysty i testowalny kod na Androidzie? Spróbujmy z Clean Architecture",
