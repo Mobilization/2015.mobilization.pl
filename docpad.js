@@ -329,6 +329,29 @@ docpadConfig = {
 			  "www":"http://rodziewicz.com.pl/",
 			  "twitter":"https://twitter.com/lrodziewicz",
 			  "photo_url":"/images/speakers/lena-rodziewicz2.jpg"},
+		  "speaker-pawel-junak": {
+			  "firstname":"Paweł",
+			  "lastname":"Junak",
+			  "bio_html":"Wroclaw University of Technology graduate, interested in Android from the first Google announce. After few years in Film industry, engineering mindset and love for technology made him come back to roots and start programming full time. Now he works in Polidea making great mobile apps for the whole world.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/pawel-junak.jpg"},
+		  "speaker-michal-aleksander": {
+			  "firstname":"Michał",
+			  "lastname":"Aleksander",
+			  "bio_html":"Michał Aleksander - z wykształcenia dziennikarz, który w pewnym momencie swojego życia bardzo skręcił w stronę (bliskiej mu od zawsze) technologii i projektowania. Przez 5 lat projektował dla kluczowego serwisu e-commerce w Europie Środkowo-Wschodniej, mocno skupiając się na mobilności, rozpoznaniu potrzeb użytkownika oraz naturalnym kontekście użycia projektowanych produktów. Obecnie Interaction Designer i Design Team Manager w przedsionku technologicznym największej na świecie firmy edukacyjnej - Pearson English Technologies, w której mocno skupia sieę na porządkowaniu procesów, wypracowywaniu najlepszych podejść projektowych oraz metodach warsztatowych, w które angażuje reprezentantów wszystkich działów w firmie.	Autor elektronicznej książki \"Jak stać się lepszym projektantem UX\" (http://www.ibuk.pl/fiszka/141731/jak-stac-sie-lepszym-projektantem-ux.html) Prelegent na UXCampie (Gdynia, 2014), World of Usability Day (Gdynia, 2014) oraz Product Campie (Gdynia, 2015).",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/michal-aleksander.jpg"},
+		  /* empty speaker to copy
+		  "speaker-2": {
+			  "firstname":"",
+			  "lastname":"",
+			  "bio_html":"",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/.jpg"},
+			  */
    	  },
    	  talks: {
    	  	"talk-clean-architecture": {
@@ -492,6 +515,33 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
  		  },
+		  "talk-dont-reinvent-the-wheel" :{
+			  "title": "Don't reinvent the wheel: use libraries",
+			  "description_html": "Use of libraries gives you speed and smaller error rate than writing everything by yourself. In this talk you gonna learn about how to use modern libraries that make your developer life easier. From Timber through Picasso, ButterKnife to RoboSpice, Dagger2 and few other libs you gonna learn about modern approach to build Android apps that make your customers happy.",
+			  "speakers_keys": [
+				  "speaker-pawel-junak"
+			  ],
+			  "language": "EN"
+		  },
+		  "talk-zespol-nie-kocha" :{
+			  "title": "Kiedy zespół Scrumowy nie kocha swojego produktu mobilnego",
+			  "description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zepołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie w dużych organizacjach może być sporym problemem? Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilną czy strona responsywna.",
+			  "speakers_keys": [
+				  "speaker-michal-aleksander"
+			  ],
+			  "language": "PL"
+		  },
+		  /* empty talk to copy
+		  "talk-" :{
+			  "title": "",
+			  "description_html": "",
+			  "speakers_keys": [
+				  "speaker-"
+			  ],
+			  "language": "PL"
+		  },
+		  */
+
 
    	  },
    	  breaks: {
