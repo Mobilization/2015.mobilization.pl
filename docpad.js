@@ -414,7 +414,6 @@ docpadConfig = {
 				"photo_url":"/images/speakers/mobilization-soldier.png"
          },
          //25
-         /*
          "speaker-tomasz-netczuk":{
 				"firstname": "Tomasz",
 				"lastname":"Netczuk",
@@ -423,7 +422,6 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/tomasz-netczuk.png"
          },
-         */
          //26
          "speaker-karol-kowalski":{
 				"firstname": "Karol",
@@ -497,16 +495,16 @@ docpadConfig = {
  				"photo_url":"/images/speakers/michal-wlodarczyk.png"
           },
           //34
-          /*
-          "speaker-michal-aleksander":{
+          /**/
+          "speaker-michal-szczepanik":{
  				"firstname": "Michał",
- 				"lastname":"Aleksander",
- 				"bio_html":"",
+ 				"lastname":"Szczepanik",
+ 				"bio_html":"Badacz, projektant, programista. Od wielu lat związany z branżą mobilną, swoją przygodę zaczynał JME, Symbianem, Blackberry, obecnie programista Androida w BLStream. Założyciel  Meet.Mobile Wrocław. Fan planszówek i nowych technologii oraz prelegent wielu eventów mobilnych.",
  				"www":"",
  				"twitter":"",
- 				"photo_url":"/images/speakers/mobilization-soldier.png"
+ 				"photo_url":"/images/speakers/michal-szczepanik.png"
           },
-          */
+          /**/
           //35
           "speaker-maciej-schmidt":{
  				"firstname": "Maciej",
@@ -786,6 +784,22 @@ docpadConfig = {
 			  "speakers_keys": [
 				"speaker-anton-miniailo",
 				"speaker-jacek-rondio"
+			  ],
+			  "language": "PL"
+			},
+			"talk-co-kryje-pianka-czyli-o-nowej-wersjia-androida." : {
+			  "title": "Co kryje Pianka, czyli o nowej wersji Androida.",
+			  "description_html": "Pewnie każdy fan i developer Androida oglądał Google I/O, podczas którego usłyszał o zmianach M-ki. Nowy sposób zarządzania permission'ami oraz doze mode to tylko nieliczne zmiany, które nowa wersja wprowadza. Poznaj jakie zmiany powinieneś(aś)  zrobić, by Twoja aplikacja  nadal poprawnie działała na Androidzie 6.0 (Marshmallow) .  Ta prelekcja uwzględnia wiele nowości i zmian o których Google nie wspomina, nie daj się zaskoczyć ... przyjdź.",
+			  "speakers_keys": [
+				"speaker-michal-szczepanik"
+			  ],
+			  "language": "PL"
+			},
+			"talk-android-auto" : {
+			  "title": "Porzuć platformy natywne! Czyli czemu HTML5 jest lepszy.",
+			  "description_html": "Skoro to czytasz, to znaczy że tytuł zadziałał. Tak na prawdę nie twierdzę że HTML5 jest lepszy. On jest inny, a to można wykorzystać w naszej pracy, jaką jest dostarczanie gotowych, działających rozwiązań klientom.Podczas prezentacji chcę poruszyć temat zalet, wad i różnic w programowaniu aplikacji klienckich na platformy natywne i webowe. Przedstawię powody czemu moim zdaniem większość MVP można wykonywać przy użyciu HTML5 zamiast technologii natywnych.Dla uwiarygodnienia mojej tezy planuję wykonać odrobinę live-codingu.",
+			  "speakers_keys": [
+			  	"speaker-tomasz-netczuk"
 			  ],
 			  "language": "PL"
 			},
