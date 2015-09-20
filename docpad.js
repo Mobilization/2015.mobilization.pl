@@ -357,6 +357,15 @@ docpadConfig = {
 			  "www":"https://pl.linkedin.com/pub/sebastian-kacprzak/52/8b6/248",
 			  "twitter":"",
 			  "photo_url":"/images/speakers/sebastian-kacprzak.jpg"},
+		  "speaker-aleksander-piotrowski": {
+			  "firstname":"Aleksander",
+			  "lastname":"Piotrowski",
+			  "bio_html":"Kiedyś backendowiec, dziś deweloper mobilny. Ze względu na wiek piastujący stanowisko Senior Android Developer od pierwszego dnia jako androidowiec. https://www.linkedin.com/in/pelotasplus",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/aleksander-piotrowski.jpg"},
+
+
 		  /* empty speaker to copy
 		  "speaker-2": {
 			  "firstname":"",
@@ -560,7 +569,15 @@ docpadConfig = {
 				  "speaker-sebastian-kacprzak"
 			  ],
 			  "language": "PL"
-		  }
+		  },
+		  "talk-xamarin" :{
+			  "title": "Xamarin dla (nie tylko) deweloperów Androida",
+			  "description_html": "...",
+			  "speakers_keys": [
+				  "speaker-aleksander-piotrowski"
+			  ],
+			  "language": "PL"
+		  },
 		  /* empty talk to copy
 		  "talk-" :{
 			  "title": "",
