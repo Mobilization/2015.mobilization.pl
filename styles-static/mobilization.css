@@ -32,6 +32,11 @@ h3.smaller_font{
   font-size: inherit;
 }
 
+.smallinfo {
+  font-size: 12px;
+  display: inline-block;
+  color: #ff0001;
+}
 .footer_link {
   color: #333;
 }
