@@ -714,7 +714,7 @@ docpadConfig = {
 			},
 			"talk-optymalizacja-hierarchii-widokow-na-platformie-android": {
 			  "title": "Optymalizacja hierarchii widoków na platformie Android",
-			  "description_html": "Optymalizacja hierarchii widoków na przykładzie aplikacji \"Stereoscopic Image Calculator\". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android.Agenda prezentacji: 1. Motywacja (aplikacja \"Stereoscopic Image Calculator\", która na poszczególnych ekranach wyświetlała bardzo dużo danych)2. Szczegóły techniczne dotyczące renderowania widoków:- Co się dzieje, jeżeli zostanie wywołana metoda \"requestLayout()\"?- Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie?- Na co zwracać szczególną uwagę przy tworzeniu widoków? 3. Pisanie własnych \"ViewGroup\"4. Narzędzie \"HierarchyViewer\"5. Pomiary i wnioski",
+			  "description_html": "Optymalizacja hierarchii widoków na przykładzie aplikacji \"Stereoscopic Image Calculator\". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android. Agenda prezentacji: <ol><li>Motywacja (aplikacja \"Stereoscopic Image Calculator\", która na poszczególnych ekranach wyświetlała bardzo dużo danych)</li> <li>Szczegóły techniczne dotyczące renderowania widoków: Co się dzieje, jeżeli zostanie wywołana metoda \"requestLayout()\"?<br/>Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie? Na co zwracać szczególną uwagę przy tworzeniu widoków?</li> <li>Pisanie własnych \"ViewGroup\"</li> <li>Narzędzie \"HierarchyViewer\"</li> <li>Pomiary i wnioski</li></ol>",
 			  "speakers_keys": [
 				"speaker-michal-wlodarczyk"
 			  ],
