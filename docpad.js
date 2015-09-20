@@ -746,11 +746,46 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
 			},
-			"talk-czy-nastala-era-continuous-everything”" : {
-			  "title": "Czy nastała era \"continuous everything\”? Przewodnik po bezustannym procesie tworzenia aplikacji mobilnych na przykładzie Matrix42 Mobile [case study]",
-			  "description_html": "Przedstawienie idei medotologii \"continiuous\", skupiając się na aspektach: integration, development, delivery, testing i wszystich pozostałych, wykorzystywanych w tworzeniu aplikacji mobilnych na przykładzie Matrix42 Mobile, wdrażanej na platformy Android oraz iOS. Kilka słów wprowadzających w połączeniu z przykładami wykorzystania w procesie developmentu - przybliżenie narzędzi oraz sposobu ich wykorzystania w codziennej pracy. Dodatkowo kilka zdań na tematy pokrewne niezwykle ważne dla użytkownika końcowego, czyli \"BYOD - Private Devices, Company Content\" oraz \"Mobile Management\".Link Android: https://play.google.com/store/apps/details?id=com.matrix42.m42mobileLink iOS: https://itunes.apple.com/pl/app/m42mobile/id430536897?mt=8Tytuł prelekcji w języku polskim:Czy nastała era „continuous everything”? Przewodnik po bezustannym procesie tworzenia aplikacji mobilnych na przykładzie Matrix42 Mobile [case study].",
+			"talk-czy-nastala-era-continuous-everything" : {
+			  "title": "Czy nastała era \"continuous everything\"? Przewodnik po bezustannym procesie tworzenia aplikacji mobilnych na przykładzie Matrix42 Mobile [case study]",
+			  "description_html": "Przedstawienie idei medotologii \"continiuous\", skupiając się na aspektach: integration, development, delivery, testing i wszystich pozostałych, wykorzystywanych w tworzeniu aplikacji mobilnych na przykładzie Matrix42 Mobile, wdrażanej na platformy Android oraz iOS. Kilka słów wprowadzających w połączeniu z przykładami wykorzystania w procesie developmentu - przybliżenie narzędzi oraz sposobu ich wykorzystania w codziennej pracy. Dodatkowo kilka zdań na tematy pokrewne niezwykle ważne dla użytkownika końcowego, czyli \"BYOD - Private Devices, Company Content\" oraz \"Mobile Management\".Link Android: https://play.google.com/store/apps/details?id=com.matrix42.m42mobileLink iOS: https://itunes.apple.com/pl/app/m42mobile/id430536897?mt=8",
 			  "speakers_keys": [
 				"speaker-pawel-wojdera"
+			  ],
+			  "language": "PL"
+			},
+			"talk-html5-goes-for-a-ride-czyli-wyzwania-dla-technologii-webowych-w-przemysle-automotive" : {
+			  "title": "HTML5 goes for a ride - Czyli wyzwania dla technologii webowych w przemyśle automotive",
+			  "description_html": "Biorąc pod uwagę fakt, że samochody należą do konstrukcji dość mobilnych było jedynie kwestią czasu kiedy trafi tam HTML5. Tradycyjne środowisko tej technologii dawno przestało przestało być jedynym.Jak jednak wygląda tworzenie aplikacji typu IVI (In-vehicle infotainment)? Czym ekran w aucie różni się od tabletu?Opowiem o wyzwaniach jakie stawia przed HTML5 rynek automotive oraz innych doświadczeniach specyficznych dla tej platformy. W części praktycznej zaprezentuje różnice w działaniu demonstracyjnej aplikacji, na zbliżonym do docelowego sprzęcie, w porównaniu z urządzeniami mobilnymi i PC.",
+			  "speakers_keys": [
+				"speaker-lena-rodziewicz"
+			  ],
+			  "language": "PL"
+			},
+
+			"talk-hacking-bluetooth-smart" : {
+			  "title": "Hacking Bluetooth Smart",
+			  "description_html": "Rozłożymy na czynniki pierwsze bezpieczeństwo jednej z najpopularniejszych, a zarazem najbliższej aplikacjom mobilnym technologii związanej z Internet of Things: Bluetooth Smart. Jak zwykle z pomocą niezawodnej publiczności Mobilization, na rzeczywistych przykładach krok po kroku wspólnie zaatakujemy kolejne urządzenia: m.in. beacony, opaskę sportową, samochód. Analizując warunki i skutki ataków ustalimy wpływ na ryzyko konkretnych podatności, i zastanowimy się w jakich przypadkach bezpieczeństwo będzie naprawdę istotne. Uczestnicy wyniosą spojrzenie intruza na nową technologię oraz jej ograniczenia, co pozwoli projektować bezpieczniejsze rozwiązania.",
+			  "speakers_keys": [
+				"speaker-slawomir-jasek"
+			  ],
+			  "language": "PL"
+			},
+			"talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy" : {
+			  "title": "Hunt Me od kuchni - jak powstał innowacyjny sposób na szukanie pracy",
+			  "description_html": "Podczas prelekcji opowiemy jak powstał projekt angażujący 3 niezależne zespoły developerskie.Tematami na których się skupimy będzie organizacja pracy nad aplikacją powstającą w 3 różnych miejscach i z wykorzystaniem 3 różnych platform, oraz część wspólna dla wszystkich obsługiwanych platform, czyli API po stronie serwera. Przy jego tworzeniu z powodzeniem integrowaliśmy różnorodne technologie (WebAPI, OAuth), korzystaliśmy z istniejących bibliotek zewnętrznych (Ninject, EF) i stworzonych w Grupie Pracuj (GP.Juno, EndpointSwitcher). Opowiemy też o tym co niewidoczne - czyli architekturze, WebAPI jako rozbudowanym proxy i funkcjonowaniu na w rozproszonym środowisku. Zapraszamy!",
+              "speakers_keys": [
+				"speaker-maciej-chwiloc",
+				"speaker-cezary-kapicki"
+			  ],
+			  "language": "PL"
+			},
+			"talk-android-auto" : {
+			  "title": "Android Auto",
+			  "description_html": "Aplikacja Android Auto stworzona została, aby umożliwić dostęp do głównych funkcji smartphona przy zachowaniu maksimum bezpieczeństwa w trakcie jazdy. Kontrolowanie nawigacji, odtwarzacza audio, telefonu i wiadomości bezpośrednio z wbudowanego ekranu przy użyciu głosu i przycisków na kierownicy pozwala skupić się na drodze i zminimalizować niebezpieczeństwo związane z obsługą smartphona.Podczas prezentacji pokażemy działającą implementację Android Auto wraz z krótkim omówieniem funkcjonalności, a także przeprowadzimy Państwa przez proces tworzenia aplikacji umożliwiającej komunikację z kierowcą w trakcie jazdy.",
+			  "speakers_keys": [
+				"speaker-anton-miniailo",
+				"speaker-jacek-rondio"
 			  ],
 			  "language": "PL"
 			},
