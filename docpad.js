@@ -343,6 +343,13 @@ docpadConfig = {
 			  "www":"",
 			  "twitter":"",
 			  "photo_url":"/images/speakers/michal-aleksander.jpg"},
+		  "speaker-konrad-krakowiak": {
+			  "firstname":"Konrad",
+			  "lastname":"Krakowiak",
+			  "bio_html":"Senior Software Engineer w Polidea. Prawie 6 lat doświadczenia z czego 5 jako programista na platformę Android. Doświadczenie prelegenckie: - wykład na Politechnice Wrocławskiej - (o bibliotece SPen -z Samsunga) - wykład o AndEginie - (w ramach konkursu z Samsunga) - wykład na Politechnice Warszawskiej w ramach przedmiotu Szlif - mentor na CodePot 2015",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/konrad-krakowiak.jpg"},
 		  /* empty speaker to copy
 		  "speaker-2": {
 			  "firstname":"",
@@ -528,6 +535,14 @@ docpadConfig = {
 			  "description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zepołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie w dużych organizacjach może być sporym problemem? Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilną czy strona responsywna.",
 			  "speakers_keys": [
 				  "speaker-michal-aleksander"
+			  ],
+			  "language": "PL"
+		  },
+		  "talk-unit-spock" :{
+			  "title": "Unit Testy w Androidzie z użyciem biblioteki Spock",
+			  "description_html": "Chciałbym pokazać jak w łatwy, prosty i przyjemny sposób można pisać Unit Testy na platformę Android z użyciem biblioteki Spock. Mój wykład pokazuję w jaki sposób konfigurować a potem tworzyć test w groovy-m dla Androidowego projektu.",
+			  "speakers_keys": [
+				  "speaker-konrad-krakowiak"
 			  ],
 			  "language": "PL"
 		  },
