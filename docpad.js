@@ -414,6 +414,7 @@ docpadConfig = {
 				"photo_url":"/images/speakers/mobilization-soldier.png"
          },
          //25
+         /*
          "speaker-tomasz-netczuk":{
 				"firstname": "Tomasz",
 				"lastname":"Netczuk",
@@ -422,6 +423,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/tomasz-netczuk.png"
          },
+         */
          //26
          "speaker-karol-kowalski":{
 				"firstname": "Karol",
@@ -495,7 +497,7 @@ docpadConfig = {
  				"photo_url":"/images/speakers/michal-wlodarczyk.png"
           },
           //34
-          /**/
+          /*
           "speaker-michal-szczepanik":{
  				"firstname": "Michał",
  				"lastname":"Szczepanik",
@@ -504,7 +506,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-szczepanik.png"
           },
-          /**/
+          */
           //35
           "speaker-maciej-schmidt":{
  				"firstname": "Maciej",
