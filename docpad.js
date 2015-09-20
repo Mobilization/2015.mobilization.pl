@@ -411,7 +411,7 @@ docpadConfig = {
 				"bio_html":"",
 				"www":"",
 				"twitter":"",
-				"photo_url":"/images/speakers/mobilization-soldier.png"
+				"photo_url":"/images/speakers/rafal-szpoton.png"
          },
          //25
          /*
@@ -671,6 +671,65 @@ docpadConfig = {
 			  ],
 			  "language": "EN"
           },
+		  "talk-HTML5-goes-for-a-ride" :{
+			  "title": "HTML5 goes for a ride - Czyli wyzwania dla technologii webowych w przemyśle automotive",
+			  "description_html": "Biorąc pod uwagę fakt, że samochody należą do konstrukcji dość mobilnych było jedynie kwestią czasu kiedy trafi tam HTML5. Tradycyjne środowisko tej technologii dawno przestało przestało być jedynym. Jak jednak wygląda tworzenie aplikacji typu IVI (In-vehicle infotainment)? Czym ekran w aucie różni się od tabletu? Opowiem o wyzwaniach jakie stawia przed HTML5 rynek automotive oraz innych doświadczeniach specyficznych dla tej platformy. W części praktycznej zaprezentuje różnice w działaniu demonstracyjnej aplikacji, na zbliżonym do docelowego sprzęcie, w porównaniu z urządzeniami mobilnymi i PC.",
+			  "speakers_keys": [
+				  "speaker-lena-rodziewicz"
+			  ],
+			  "language": "PL"
+ 		  },
+		  "talk-dont-reinvent-the-wheel" :{
+			  "title": "Don't reinvent the wheel: use libraries",
+			  "description_html": "Use of libraries gives you speed and smaller error rate than writing everything by yourself. In this talk you gonna learn about how to use modern libraries that make your developer life easier. From Timber through Picasso, ButterKnife to RoboSpice, Dagger2 and few other libs you gonna learn about modern approach to build Android apps that make your customers happy.",
+			  "speakers_keys": [
+				  "speaker-pawel-junak"
+			  ],
+			  "language": "EN"
+		  },
+		  "talk-zespol-nie-kocha" :{
+			  "title": "Kiedy zespół Scrumowy nie kocha swojego produktu mobilnego",
+			  "description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zepołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie w dużych organizacjach może być sporym problemem? Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilną czy strona responsywna.",
+			  "speakers_keys": [
+				  "speaker-michal-aleksander"
+			  ],
+			  "language": "PL"
+		  },
+		  "talk-unit-spock" :{
+			  "title": "Unit Testy w Androidzie z użyciem biblioteki Spock",
+			  "description_html": "Chciałbym pokazać jak w łatwy, prosty i przyjemny sposób można pisać Unit Testy na platformę Android z użyciem biblioteki Spock. Mój wykład pokazuję w jaki sposób konfigurować a potem tworzyć test w groovy-m dla Androidowego projektu.",
+			  "speakers_keys": [
+				  "speaker-konrad-krakowiak"
+			  ],
+			  "language": "PL"
+		  },
+		  "talk-android-data-binding" :{
+			  "title": "Android Data Binding nie tylko w teorii",
+			  "description_html": "Data Binding na Androidzie - zalety, wady, przykłady użycia. Demonstracja biblioteki ułatwiającej (u)życie.",
+			  "speakers_keys": [
+				  "speaker-sebastian-kacprzak"
+			  ],
+			  "language": "PL"
+		  },
+		  "talk-xamarin" :{
+			  "title": "Xamarin dla (nie tylko) deweloperów Androida",
+			  "description_html": "...",
+			  "speakers_keys": [
+				  "speaker-aleksander-piotrowski"
+			  ],
+			  "language": "PL"
+		  },
+		  /* empty talk to copy
+		  "talk-" :{
+			  "title": "",
+			  "description_html": "",
+			  "speakers_keys": [
+				  "speaker-"
+			  ],
+			  "language": "PL"
+		  },
+		  */
+
 		  "talk-dont-reinvent-the-wheel-use-libraries-modern-android-stack": {
 			  "title": "Don't reinvent the wheel, use libraries: Modern Android Stack",
 			  "description_html": "Agile methodologies like SCRUM, DaD and SAFe help us to effectively develop software products. But when developing software for dedicated devices for the consumer market such as navigation devices, watches and multimedia systems you need some adaptation to make it work. I’ll guide you through the world of software engineering using the principles of the SAFe framework (with some adaptations), starting from running Android on your device till having a final product in she shops. And of course some do’s – don’ts, tools that you could use and much more.",
