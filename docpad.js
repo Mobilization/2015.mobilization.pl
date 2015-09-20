@@ -378,7 +378,7 @@ docpadConfig = {
 				"photo_url":"/images/speakers/maciej-chwiloc.png"
          },
          //22.5
-         "speaker-maciej-chwiloc":{
+         "speaker-cezary-kapicki":{
 				"firstname": "Cezary",
 				"lastname":"Kąpicki",
 				"bio_html":"Starszy programista w Grupie Pracuj S.A.. Zawodowo zajmuje się programowaniem aplikacji webowych w C# i PHP.  Wolny czas spędza na wielogodzinnych spacerach i poznawaniu nowych miejsc.",
@@ -414,7 +414,7 @@ docpadConfig = {
 				"photo_url":"/images/speakers/rafal-szpoton.png"
          },
          //25
-         /*
+
          "speaker-tomasz-netczuk":{
 				"firstname": "Tomasz",
 				"lastname":"Netczuk",
@@ -423,7 +423,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/tomasz-netczuk.png"
          },
-         */
+
          //26
          "speaker-karol-kowalski":{
 				"firstname": "Karol",
@@ -491,13 +491,13 @@ docpadConfig = {
           "speaker-michal-wlodarczyk":{
  				"firstname": "Michał",
  				"lastname":"Włodarczyk",
- 				"bio_html":"Senior Software Engineer w Open-RnD. Od 3.5 zajmuje się rozwijaniem aplikacji na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Kierownik przedmiotów \"m-Commerce\" oraz \"Programowanie aplikacji mobilnych\" (prowadzę wykłady i część laboratoriów, układałem program tych przedmiotów). 2 wystąpienia na konferencjach MIXDES w 2014 i 2015 roku. Więcej informacji na moim profilu na <a href='https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08'>LinkedIn</a>",
+ 				"bio_html":"Senior Software Engineer w Open-RnD. Od 3.5 zajmuje się rozwijaniem aplikacji na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Kierownik przedmiotów \"m-Commerce\" oraz \"Programowanie aplikacji mobilnych\" (prowadzę wykłady i część laboratoriów, układałem program tych przedmiotów). 2 wystąpienia na konferencjach MIXDES w 2014 i 2015 roku. Więcej informacji na moim profilu na https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08 LinkedIn",
  				"www":"",
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-wlodarczyk.png"
           },
           //34
-          /*
+
           "speaker-michal-szczepanik":{
  				"firstname": "Michał",
  				"lastname":"Szczepanik",
@@ -506,7 +506,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-szczepanik.png"
           },
-          */
+
           //35
           "speaker-maciej-schmidt":{
  				"firstname": "Maciej",
@@ -671,73 +671,6 @@ docpadConfig = {
 			  ],
 			  "language": "EN"
           },
-		  "talk-HTML5-goes-for-a-ride" :{
-			  "title": "HTML5 goes for a ride - Czyli wyzwania dla technologii webowych w przemyśle automotive",
-			  "description_html": "Biorąc pod uwagę fakt, że samochody należą do konstrukcji dość mobilnych było jedynie kwestią czasu kiedy trafi tam HTML5. Tradycyjne środowisko tej technologii dawno przestało przestało być jedynym. Jak jednak wygląda tworzenie aplikacji typu IVI (In-vehicle infotainment)? Czym ekran w aucie różni się od tabletu? Opowiem o wyzwaniach jakie stawia przed HTML5 rynek automotive oraz innych doświadczeniach specyficznych dla tej platformy. W części praktycznej zaprezentuje różnice w działaniu demonstracyjnej aplikacji, na zbliżonym do docelowego sprzęcie, w porównaniu z urządzeniami mobilnymi i PC.",
-			  "speakers_keys": [
-				  "speaker-lena-rodziewicz"
-			  ],
-			  "language": "PL"
- 		  },
-		  "talk-dont-reinvent-the-wheel" :{
-			  "title": "Don't reinvent the wheel: use libraries",
-			  "description_html": "Use of libraries gives you speed and smaller error rate than writing everything by yourself. In this talk you gonna learn about how to use modern libraries that make your developer life easier. From Timber through Picasso, ButterKnife to RoboSpice, Dagger2 and few other libs you gonna learn about modern approach to build Android apps that make your customers happy.",
-			  "speakers_keys": [
-				  "speaker-pawel-junak"
-			  ],
-			  "language": "EN"
-		  },
-		  "talk-zespol-nie-kocha" :{
-			  "title": "Kiedy zespół Scrumowy nie kocha swojego produktu mobilnego",
-			  "description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zepołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie w dużych organizacjach może być sporym problemem? Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilną czy strona responsywna.",
-			  "speakers_keys": [
-				  "speaker-michal-aleksander"
-			  ],
-			  "language": "PL"
-		  },
-		  "talk-unit-spock" :{
-			  "title": "Unit Testy w Androidzie z użyciem biblioteki Spock",
-			  "description_html": "Chciałbym pokazać jak w łatwy, prosty i przyjemny sposób można pisać Unit Testy na platformę Android z użyciem biblioteki Spock. Mój wykład pokazuję w jaki sposób konfigurować a potem tworzyć test w groovy-m dla Androidowego projektu.",
-			  "speakers_keys": [
-				  "speaker-konrad-krakowiak"
-			  ],
-			  "language": "PL"
-		  },
-		  "talk-android-data-binding" :{
-			  "title": "Android Data Binding nie tylko w teorii",
-			  "description_html": "Data Binding na Androidzie - zalety, wady, przykłady użycia. Demonstracja biblioteki ułatwiającej (u)życie.",
-			  "speakers_keys": [
-				  "speaker-sebastian-kacprzak"
-			  ],
-			  "language": "PL"
-		  },
-		  "talk-xamarin" :{
-			  "title": "Xamarin dla (nie tylko) deweloperów Androida",
-			  "description_html": "...",
-			  "speakers_keys": [
-				  "speaker-aleksander-piotrowski"
-			  ],
-			  "language": "PL"
-		  },
-		  /* empty talk to copy
-		  "talk-" :{
-			  "title": "",
-			  "description_html": "",
-			  "speakers_keys": [
-				  "speaker-"
-			  ],
-			  "language": "PL"
-		  },
-		  */
-
-		  "talk-dont-reinvent-the-wheel-use-libraries-modern-android-stack": {
-			  "title": "Don't reinvent the wheel, use libraries: Modern Android Stack",
-			  "description_html": "Agile methodologies like SCRUM, DaD and SAFe help us to effectively develop software products. But when developing software for dedicated devices for the consumer market such as navigation devices, watches and multimedia systems you need some adaptation to make it work. I’ll guide you through the world of software engineering using the principles of the SAFe framework (with some adaptations), starting from running Android on your device till having a final product in she shops. And of course some do’s – don’ts, tools that you could use and much more.",
-			  "speakers_keys": [
-				"speaker-pawel-junak"
-			  ],
-			  "language": "EN"
-          },
           "talk-dont-reinvent-the-wheel-use-libraries-modern-android-stack": {
 			  "title": "Don't reinvent the wheel, use libraries: Modern Android Stack",
 			  "description_html": "Use of libraries gives you speed and smaller error rate than writing everything by yourself. In this talk you gonna learn about how to use modern libraries that make your developer life easier. From Timber through Picasso, ButterKnife to RoboSpice, Dagger2 and few other libs you gonna learn about modern approach to build Android apps that make your customers happy.",
@@ -781,8 +714,7 @@ docpadConfig = {
 			},
 			"talk-optymalizacja-hierarchii-widokow-na-platformie-android": {
 			  "title": "Optymalizacja hierarchii widoków na platformie Android",
-			  "description_html": ["Optymalizacja hierarchii widoków na przykładzie aplikacji \"Stereoscopic Image Calculator\". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android.Agenda prezentacji:",
-			  "1. Motywacja (aplikacja \"Stereoscopic Image Calculator\", która na poszczególnych ekranach wyświetlała bardzo dużo danych)2. Szczegóły techniczne dotyczące renderowania widoków:- Co się dzieje, jeżeli zostanie wywołana metoda \"requestLayout()\"?- Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie?- Na co zwracać szczególną uwagę przy tworzeniu widoków?3. Pisanie własnych \"ViewGroup\"4. Narzędzie \"HierarchyViewer\"5. Pomiary i wnioski</ul>"],
+			  "description_html": "Optymalizacja hierarchii widoków na przykładzie aplikacji \"Stereoscopic Image Calculator\". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android.Agenda prezentacji: 1. Motywacja (aplikacja \"Stereoscopic Image Calculator\", która na poszczególnych ekranach wyświetlała bardzo dużo danych)2. Szczegóły techniczne dotyczące renderowania widoków:- Co się dzieje, jeżeli zostanie wywołana metoda \"requestLayout()\"?- Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie?- Na co zwracać szczególną uwagę przy tworzeniu widoków? 3. Pisanie własnych \"ViewGroup\"4. Narzędzie \"HierarchyViewer\"5. Pomiary i wnioski",
 			  "speakers_keys": [
 				"speaker-michal-wlodarczyk"
 			  ],
@@ -848,7 +780,7 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
 			},
-			"talk-co-kryje-pianka-czyli-o-nowej-wersjia-androida." : {
+			"talk-co-kryje-pianka-czyli-o-nowej-wersjia-androida" : {
 			  "title": "Co kryje Pianka, czyli o nowej wersji Androida.",
 			  "description_html": "Pewnie każdy fan i developer Androida oglądał Google I/O, podczas którego usłyszał o zmianach M-ki. Nowy sposób zarządzania permission'ami oraz doze mode to tylko nieliczne zmiany, które nowa wersja wprowadza. Poznaj jakie zmiany powinieneś(aś)  zrobić, by Twoja aplikacja  nadal poprawnie działała na Androidzie 6.0 (Marshmallow) .  Ta prelekcja uwzględnia wiele nowości i zmian o których Google nie wspomina, nie daj się zaskoczyć ... przyjdź.",
 			  "speakers_keys": [
@@ -856,7 +788,7 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
 			},
-			"talk-android-auto" : {
+			"talk-no-platformy-natywne" : {
 			  "title": "Porzuć platformy natywne! Czyli czemu HTML5 jest lepszy.",
 			  "description_html": "Skoro to czytasz, to znaczy że tytuł zadziałał. Tak na prawdę nie twierdzę że HTML5 jest lepszy. On jest inny, a to można wykorzystać w naszej pracy, jaką jest dostarczanie gotowych, działających rozwiązań klientom.Podczas prezentacji chcę poruszyć temat zalet, wad i różnic w programowaniu aplikacji klienckich na platformy natywne i webowe. Przedstawię powody czemu moim zdaniem większość MVP można wykonywać przy użyciu HTML5 zamiast technologii natywnych.Dla uwiarygodnienia mojej tezy planuję wykonać odrobinę live-codingu.",
 			  "speakers_keys": [
@@ -864,6 +796,14 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
 			},
+		  	"talk-ux-pitfalls-in-multi-os-apps":{
+				"title": "UX pitfalls in multi-os apps",
+				"description_html": "UX pitfalls in multi-os apps",
+				"speakers_keys": [
+					"speaker-rafal-szpoton"
+				],
+				"language": "EN"
+			}
    	  },
    	  breaks: {
    	  	'break-registration': {
@@ -907,12 +847,132 @@ docpadConfig = {
    	  schedule: {
 		  "slot-registration":{"break_key":"break-registration"},
 		  "slot-hello-world":{"break_key":"break-hello-world"},
+		  "slot-1": {
+			  "venue-1": {
+				  "talk_key": "talk-potrzeby-biznesowe-a-technologia-w-mobdev-na-przykladzie-seqr"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-developing-software-for-dedicated-devices-using-agile"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-html5-goes-for-a-ride-czyli-wyzwania-dla-technologii-webowych-w-przemysle-automotive"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-android-auto"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-ux-pitfalls-in-multi-os-apps"
+			  }
+		  },
 		  "slot-coffee-1":{"break_key":"break-coffee"},
+
+		  "slot-2": {
+			  "venue-1": {
+				  "talk_key": "talk-titanium-develop-native-mobile-apps-with-javascript"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-espressive-functional-testing-with-espresso"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-swift-and-objective-c-interoperability"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-optymalizacja-hierarchii-widokow-na-platformie-android"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-hacking-bluetooth-smart"
+			  }
+		  },
 		  "slot-coffee-2":{"break_key":"break-coffee"},
+		  "slot-3": {
+			  "venue-1": {
+				  "talk_key": "talk-watch-out-for-the-watch"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-app-indexing-i-deep-linking-w-aplikacjach-androidowych"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-modern-ios-app-architecture"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-czy-ar-i-vr-zmienia-nasza-przyszlosc"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-angular-js-i-cordova-tworzenie-hybrydowych-aplikacji-mobilnych"
+			  }
+		  },
 		  "slot-coffee-3":{"break_key":"break-coffee"},
+		  "slot-4": {
+			  "venue-1": {
+				  "talk_key": "talk-dont-reinvent-the-wheel-use-libraries-modern-android-stack"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-kotlin-for-android"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-behavior-driven-development"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-clean-architecture"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-ionic-io-services-for-hybrid-mobile-applications"
+			  }
+		  },
 		  "slot-lunch":{"break_key":"break-lunch"},
+		  "slot-5": {
+			  "venue-1": {
+				  "talk_key": "talk-dagger-2-dependency-injection-w-kodzie-produkcyjnym"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-qtquick-spotyka-html"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-reaktywne-programowanie-z-rxjava"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-no-platformy-natywne"
+			  }
+		  },
 		  "slot-coffee-4":{"break_key":"break-coffee"},
+		  "slot-6": {
+			  "venue-1": {
+				  "talk_key": "talk-hipster-oriented-programming"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-dobry-zwyczaj-nie-odziedziczaj"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-android-data-binding-nie-tylko-w-teorii"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-material-design-with-android-design-library"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-co-kryje-pianka-czyli-o-nowej-wersjia-androida"
+			  }
+		  },
 		  "slot-coffee-5":{"break_key":"break-coffee"},
+		  "slot-7": {
+			  "venue-1": {
+				  "talk_key": "talk-what-s-in-it-for-us-after-the-indiepocalipse"
+			  },
+			  "venue-2": {
+				  "talk_key": "talk-reactive-ui-on-adroid-with-scala"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-xamarin-dla-nie-tylko-deweloperow-androida"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-czy-nastala-era-continuous-everything"
+			  }
+		  },
 		  "slot-finally":{"break_key":"break-finally"}
    	  }
     },

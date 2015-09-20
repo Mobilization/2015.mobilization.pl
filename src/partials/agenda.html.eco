@@ -3,6 +3,10 @@
   <div class="container wow bounceInLeft">
 	  <h2 class="text-center">AGENDA</h2>
 
+    <br />
+    <h3 class="smallinfo">Agenda może ulec nieznacznej zmianie</h3>
+    ||
+    <h3 class="smallinfo">Agenda may be slightly changed</h3>
     <br /><br />
     <div class="row">
 
