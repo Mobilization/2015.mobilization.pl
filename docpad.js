@@ -350,6 +350,13 @@ docpadConfig = {
 			  "www":"",
 			  "twitter":"",
 			  "photo_url":"/images/speakers/konrad-krakowiak.jpg"},
+		  "speaker-sebastian-kacprzak": {
+			  "firstname":"Sebastian",
+			  "lastname":"Kacprzak",
+			  "bio_html":"Sebastian pracuje jako Solutions Architect w firmie Outline. Pasjonat kasowania kodu, upraszczanie architektury i wyodrębniania powtarzalnych fragmentów kodu jako open sourcowe biblioteki. Prowadził pierwszą edycję Warsaw Android Livecode. Po pracy lubi fotografować.",
+			  "www":"https://pl.linkedin.com/pub/sebastian-kacprzak/52/8b6/248",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/sebastian-kacprzak.jpg"},
 		  /* empty speaker to copy
 		  "speaker-2": {
 			  "firstname":"",
@@ -546,6 +553,14 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
 		  },
+		  "talk-android-data-binding" :{
+			  "title": "Android Data Binding nie tylko w teorii",
+			  "description_html": "Data Binding na Androidzie - zalety, wady, przykłady użycia. Demonstracja biblioteki ułatwiającej (u)życie.",
+			  "speakers_keys": [
+				  "speaker-sebastian-kacprzak"
+			  ],
+			  "language": "PL"
+		  }
 		  /* empty talk to copy
 		  "talk-" :{
 			  "title": "",
