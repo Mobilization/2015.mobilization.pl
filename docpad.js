@@ -322,6 +322,13 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/edwin-adriaansen.png"
           },
+		  "speaker-lena-rodziewicz": {
+			  "firstname":"Lena",
+			  "lastname":"Rodziewicz",
+			  "bio_html":"Wielka orędowniczka WebComponents oraz pierwsza osoba do testowania  wszelkich nowości technologicznych. Nieszczęśliwie zakochana w Internet of Things. Stara się, z różnym skutkiem, chociaż trochę ulepszyć świat z użyciem techniki. W branży od 10 lat oraz wiele nieprzespanych nocy. Od ponad 4 lat kieruje zespołami programistów pod flagą Mobica Limited. Odpowiedzialna za dostarczanie ekspertyzy technicznej w zakresie JavaScript jako wsparcie dla biura CTO. Ma kota o imieniu Java. Na Mobilization po raz trzeci.",
+			  "www":"http://rodziewicz.com.pl/",
+			  "twitter":"https://twitter.com/lrodziewicz",
+			  "photo_url":"/images/speakers/lena-rodziewicz2.jpg"},
    	  },
    	  talks: {
    	  	"talk-clean-architecture": {
@@ -477,6 +484,14 @@ docpadConfig = {
 			  ],
 			  "language": "EN"
           },
+		  "talk-HTML5-goes-for-a-ride" :{
+			  "title": "HTML5 goes for a ride - Czyli wyzwania dla technologii webowych w przemyśle automotive",
+			  "description_html": "Biorąc pod uwagę fakt, że samochody należą do konstrukcji dość mobilnych było jedynie kwestią czasu kiedy trafi tam HTML5. Tradycyjne środowisko tej technologii dawno przestało przestało być jedynym. Jak jednak wygląda tworzenie aplikacji typu IVI (In-vehicle infotainment)? Czym ekran w aucie różni się od tabletu? Opowiem o wyzwaniach jakie stawia przed HTML5 rynek automotive oraz innych doświadczeniach specyficznych dla tej platformy. W części praktycznej zaprezentuje różnice w działaniu demonstracyjnej aplikacji, na zbliżonym do docelowego sprzęcie, w porównaniu z urządzeniami mobilnymi i PC.",
+			  "speakers_keys": [
+				  "speaker-lena-rodziewicz"
+			  ],
+			  "language": "PL"
+ 		  },
 
    	  },
    	  breaks: {
