@@ -449,7 +449,7 @@ docpadConfig = {
 				"bio_html":"Senior Software Engineer w Polidea. Prawie 6 lat doświadczenia z czego 5 jako programista na platformę Android. Doświadczenie prelegenckie: wykład na Politechnice Wrocławskiej, (o bibliotece SPen Samsunga), wykład o AndEginie, (w ramach konkursu z Samsunga), wykład na Politechnice Warszawskiej w ramach przedmiotu Szlif, mentor na CodePot 2015",
 				"www":"",
 				"twitter":"",
-				"photo_url":"/images/speakers/konrad-krakowiak.png"
+				"photo_url":"/images/speakers/konrad-krakowiak.jpg"
          },
          //29
          "speaker-slawomir-jasek":{
