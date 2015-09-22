@@ -321,6 +321,22 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/edwin-adriaansen.png"
           },
+          "speaker-sebastian-gos":{
+          			"firstname": "Sebastian",
+          			"lastname":"Gos",
+          			"bio_html":"A special Agent 007 on Her Majesty Secret Frontend Services which include but is not limited to: UX espionage, mobile warfare discovery, UI takeovers. Currently under cover at HP Polska working on his another top secret assignment. Big fan of  rock stars, leisure activities like guitar playing and sailing culinary travels. During his missions a very active Android and iOS user. A big fan of Moneypenny.",
+          			"www":"",
+          			"twitter":"",
+          			"photo_url":"/images/speakers/sebastian-gos.png"
+                    },
+		"speaker-sebastian-gos":{
+							"firstname": "Sebastian",
+							"lastname":"Gos",
+							"bio_html":"A special Agent 007 on Her Majesty Secret Frontend Services which include but is not limited to: UX espionage, mobile warfare discovery, UI takeovers. Currently under cover at HP Polska working on his another top secret assignment. Big fan of  rock stars, leisure activities like guitar playing and sailing culinary travels. During his missions a very active Android and iOS user. A big fan of Moneypenny.",
+							"www":"",
+							"twitter":"",
+							"photo_url":"/images/speakers/sebastian-gos.png"
+							},
    	  },
    	  talks: {
    	  	"talk-clean-architecture": {
