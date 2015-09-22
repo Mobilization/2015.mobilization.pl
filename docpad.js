@@ -408,10 +408,10 @@ docpadConfig = {
          "speaker-rafal-szpoton":{
 				"firstname": "Rafał",
 				"lastname":"Szpoton",
-				"bio_html":"",
+				"bio_html":"A very retro gadgets maniac.. He used to know how to program modern windows UI in MS DOS using Turbo Pascal 7.0 but he doesn’t know it anymore J As his primary field of expertise disappeared in the mists of history he moved to more modern environments like iOS or Android.",
 				"www":"",
 				"twitter":"",
-				"photo_url":"/images/speakers/rafal-szpoton.png"
+				"photo_url":"/images/speakers/rafal-szpoton.jpg"
          },
          //25
 
@@ -516,6 +516,25 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/maciej-schmidt.png"
           },
+          //36
+		 "speaker-sebastian-gos":{
+			"firstname": "Sebastian",
+			"lastname":"Gos",
+			"bio_html":"A special Agent 007 on Her Majesty Secret Frontend Services which include but is not limited to: UX espionage, mobile warfare discovery, UI takeovers. Currently under cover at HP Polska working on his another top secret assignment. Big fan of  rock stars, leisure activities like guitar playing and sailing culinary travels. During his missions a very active Android and iOS user. A big fan of Moneypenny.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/sebastian-gos.png"
+		  },
+		 //37
+
+		 "speaker-lech-migdal":{
+			"firstname": "Lech",
+			"lastname":"Migdal",
+			"bio_html":"A big fan of simplicity and usability.",
+			"www":"",
+			"twitter":"",
+			"photo_url":"/images/speakers/lech-migdal.jpg"
+		  },
       },
    	  talks: {
    	  	"talk-clean-architecture": {
@@ -798,9 +817,9 @@ docpadConfig = {
 			},
 		  	"talk-ux-pitfalls-in-multi-os-apps":{
 				"title": "UX pitfalls in multi-os apps",
-				"description_html": "UX pitfalls in multi-os apps",
+				"description_html": "In this session we will answer simple but demanding questions: </br>- Is UX really device agnostic? </br>- What should be our approach when designing a multi-OS or multi-platform apps? </br>- Is the philosophy “design once – run anywhere” still alive? </br> We will take you on a short journey from a simple idea to the mockup realization. Be prepared for silly ideas, tricky questions and unconventional approach to challenges awaiting you in the design process.",
 				"speakers_keys": [
-					"speaker-rafal-szpoton"
+					"speaker-rafal-szpoton","speaker-sebastian-gos","speaker-lech-migdal"
 				],
 				"language": "EN"
 			}
