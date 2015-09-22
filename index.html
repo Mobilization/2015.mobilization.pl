@@ -341,7 +341,7 @@
 
     <br />
     <h3 class="smallinfo">Agenda może ulec nieznacznej zmianie</h3>
-    
+    ||
     <h3 class="smallinfo">Agenda may be slightly changed</h3>
     <br /><br />
     <div class="row">
@@ -1745,7 +1745,7 @@
                         </p>
                         
                        	<p class="timeline-description">
-                       		Optymalizacja hierarchii widoków na przykładzie aplikacji "Stereoscopic Image Calculator". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android.Agenda prezentacji: 1. Motywacja (aplikacja "Stereoscopic Image Calculator", która na poszczególnych ekranach wyświetlała bardzo dużo danych)2. Szczegóły techniczne dotyczące renderowania widoków:- Co się dzieje, jeżeli zostanie wywołana metoda "requestLayout()"?- Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie?- Na co zwracać szczególną uwagę przy tworzeniu widoków? 3. Pisanie własnych "ViewGroup"4. Narzędzie "HierarchyViewer"5. Pomiary i wnioski
+                       		Optymalizacja hierarchii widoków na przykładzie aplikacji "Stereoscopic Image Calculator". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android. Agenda prezentacji: <ol><li>Motywacja (aplikacja "Stereoscopic Image Calculator", która na poszczególnych ekranach wyświetlała bardzo dużo danych)</li> <li>Szczegóły techniczne dotyczące renderowania widoków: Co się dzieje, jeżeli zostanie wywołana metoda "requestLayout()"?<br/>Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie? Na co zwracać szczególną uwagę przy tworzeniu widoków?</li> <li>Pisanie własnych "ViewGroup"</li> <li>Narzędzie "HierarchyViewer"</li> <li>Pomiary i wnioski</li></ol>
                        	</p>
 					
                   </div>
@@ -2100,14 +2100,18 @@
 	  					
 	  						 
 	  					
+	  						 
+	  					
+	  						 
+	  					
 	  					
 	  					<small class="text-muted">
-                           	<a href="#" data-toggle="modal" data-target="#speaker-rafal-szpoton">Rafał Szpoton</a>
+                           	<a href="#" data-toggle="modal" data-target="#speaker-rafal-szpoton">Rafał Szpoton</a>, <a href="#" data-toggle="modal" data-target="#speaker-sebastian-gos">Sebastian Gos</a>, <a href="#" data-toggle="modal" data-target="#speaker-lech-migdal">Lech Migdal</a>
                         </small>
                         </p>
                         
                        	<p class="timeline-description">
-                       		UX pitfalls in multi-os apps
+                       		In this session we will answer simple but demanding questions: </br>- Is UX really device agnostic? </br>- What should be our approach when designing a multi-OS or multi-platform apps? </br>- Is the philosophy “design once – run anywhere” still alive? </br> We will take you on a short journey from a simple idea to the mockup realization. Be prepared for silly ideas, tricky questions and unconventional approach to challenges awaiting you in the design process.
                        	</p>
 					
                   </div>
@@ -2670,7 +2674,7 @@
 		   		<div class="col-md-3 speaker">
 					<a href="#" data-toggle="modal" data-target="#speaker-rafal-szpoton">
 						<img src="/images/page/speaker-hover.png" alt="speaker avatar" class="figcaption" />
-						<img src="/images/speakers/rafal-szpoton.png" alt="Zdjęcie Rafał Szpoton" />
+						<img src="/images/speakers/rafal-szpoton.jpg" alt="Zdjęcie Rafał Szpoton" />
 					</a>
 					<p>Rafał Szpoton</p>
 				</div>
@@ -2761,6 +2765,22 @@
 						<img src="/images/speakers/maciej-schmidt.png" alt="Zdjęcie Maciej Schmidt" />
 					</a>
 					<p>Maciej Schmidt</p>
+				</div>
+			
+		   		<div class="col-md-3 speaker">
+					<a href="#" data-toggle="modal" data-target="#speaker-sebastian-gos">
+						<img src="/images/page/speaker-hover.png" alt="speaker avatar" class="figcaption" />
+						<img src="/images/speakers/sebastian-gos.png" alt="Zdjęcie Sebastian Gos" />
+					</a>
+					<p>Sebastian Gos</p>
+				</div>
+			
+		   		<div class="col-md-3 speaker">
+					<a href="#" data-toggle="modal" data-target="#speaker-lech-migdal">
+						<img src="/images/page/speaker-hover.png" alt="speaker avatar" class="figcaption" />
+						<img src="/images/speakers/lech-migdal.jpg" alt="Zdjęcie Lech Migdal" />
+					</a>
+					<p>Lech Migdal</p>
 				</div>
 			
 		</div>
@@ -3996,7 +4016,7 @@
                    	Kotlin for Android&nbsp;<img src="images/page/PL.png" border=1/>
 			</small>
                     <br/>
-                   	Wprowadzenie do Kotlina na Androida. Omówienie składni języka oraz jego kluczowych aspektów umożliwiających znacznie szybsze pisanie aplikacji na platformę Android. Porównanie Kotlina z alternatywnymi językami JVM. Zakończone sesją Q&amp;A.
+                   	Wprowadzenie do Kotlina na Androida. Omówienie składni języka oraz jego kluczowych aspektów umożliwiających znacznie szybsze pisanie aplikacji na platformę Android. Porównanie Kotlina z alternatywnymi językami JVM. Zakończone sesją Q&A.
 				<!--
                    		
                    								
@@ -5886,7 +5906,7 @@
                    	Espressive functional testing with Espresso&nbsp;<img src="images/page/EN.png" border=1/>
 			</small>
                     <br/>
-                   	Testing mobile apps is not easy. If you wanted to test &quot;Hello World&quot; app with a button and text label, that wouldn't be really hard. But our apps do a lot more. They are calling RESTful services, checking on user's GPS location or using Facebook or Google+ login buttons, which connect to network themselves. How do you test that? I want to show you my approach to functional testing with Espresso and a bit of dependency inversion magic. Do you have a feeling testing network error conditions is hard or cumbersome when done manually. Turns out it's even easier to automatically test it than &quot;the happy path&quot;. You will see real code from production app, so remember to drink a shot of espresso before joining this session.
+                   	Testing mobile apps is not easy. If you wanted to test "Hello World" app with a button and text label, that wouldn't be really hard. But our apps do a lot more. They are calling RESTful services, checking on user's GPS location or using Facebook or Google+ login buttons, which connect to network themselves. How do you test that? I want to show you my approach to functional testing with Espresso and a bit of dependency inversion magic. Do you have a feeling testing network error conditions is hard or cumbersome when done manually. Turns out it's even easier to automatically test it than "the happy path". You will see real code from production app, so remember to drink a shot of espresso before joining this session.
 				<!--
                    		
                    								
@@ -12605,7 +12625,7 @@
 	      </div>
 	      <div class="modal-body">
           <div class="speaker-description">
-			  
+			  A very retro gadgets maniac.. He used to know how to program modern windows UI in MS DOS using Turbo Pascal 7.0 but he doesn’t know it anymore J As his primary field of expertise disappeared in the mists of history he moved to more modern environments like iOS or Android.
           </div>
             <hr/>
             <div class="speaker-agenda">
@@ -12690,7 +12710,7 @@
                    	UX pitfalls in multi-os apps&nbsp;<img src="images/page/EN.png" border=1/>
 			</small>
                     <br/>
-                   	UX pitfalls in multi-os apps
+                   	In this session we will answer simple but demanding questions: </br>- Is UX really device agnostic? </br>- What should be our approach when designing a multi-OS or multi-platform apps? </br>- Is the philosophy “design once – run anywhere” still alive? </br> We will take you on a short journey from a simple idea to the mockup realization. Be prepared for silly ideas, tricky questions and unconventional approach to challenges awaiting you in the design process.
 				<!--
                    		
                    								
@@ -15336,7 +15356,7 @@
                    	Czy nastała era &quot;continuous everything&quot;? Przewodnik po bezustannym procesie tworzenia aplikacji mobilnych na przykładzie Matrix42 Mobile [case study]&nbsp;<img src="images/page/PL.png" border=1/>
 			</small>
                     <br/>
-                   	Przedstawienie idei medotologii &quot;continiuous&quot;, skupiając się na aspektach: integration, development, delivery, testing i wszystich pozostałych, wykorzystywanych w tworzeniu aplikacji mobilnych na przykładzie Matrix42 Mobile, wdrażanej na platformy Android oraz iOS. Kilka słów wprowadzających w połączeniu z przykładami wykorzystania w procesie developmentu - przybliżenie narzędzi oraz sposobu ich wykorzystania w codziennej pracy. Dodatkowo kilka zdań na tematy pokrewne niezwykle ważne dla użytkownika końcowego, czyli &quot;BYOD - Private Devices, Company Content&quot; oraz &quot;Mobile Management&quot;.Link Android: https://play.google.com/store/apps/details?id=com.matrix42.m42mobileLink iOS: https://itunes.apple.com/pl/app/m42mobile/id430536897?mt=8
+                   	Przedstawienie idei medotologii "continiuous", skupiając się na aspektach: integration, development, delivery, testing i wszystich pozostałych, wykorzystywanych w tworzeniu aplikacji mobilnych na przykładzie Matrix42 Mobile, wdrażanej na platformy Android oraz iOS. Kilka słów wprowadzających w połączeniu z przykładami wykorzystania w procesie developmentu - przybliżenie narzędzi oraz sposobu ich wykorzystania w codziennej pracy. Dodatkowo kilka zdań na tematy pokrewne niezwykle ważne dla użytkownika końcowego, czyli "BYOD - Private Devices, Company Content" oraz "Mobile Management".Link Android: https://play.google.com/store/apps/details?id=com.matrix42.m42mobileLink iOS: https://itunes.apple.com/pl/app/m42mobile/id430536897?mt=8
 				<!--
                    		
                    								
@@ -15714,7 +15734,7 @@
                    	Xamarin dla (nie tylko) deweloperów Androida&nbsp;<img src="images/page/PL.png" border=1/>
 			</small>
                     <br/>
-                   	W ramach moich przygotowań do warsztatu o Xamarinie na codepot.pl 2015 powstała prezentacja o tym czym właściwie ta platforma jest.Często, mylnie, mówi się że Xamarin to kolejna hybrydowa technologia, zupełnie jak, fuj, cordova.W ramach prezentacji dowiemy się:* co to właściwie jest Xamarin* czy to druga, równie kiepska, technologia co Cordova* co właściwie jest natywne (platform-specific) a co można współdzielić między projektami* jakie natywne komponenty są dostępne (UIKit dla iOS, RecycleView czy Support Library dla Androida)* czy to jest wreszcie to rozwiąznie gdzie piszemy raz a działa wszędzieBędę szczęśliwy jeśli w czasie prezentacji iOS-owcy pomyślą sobie &quot;o fajnie, normalnie mam tam UIKit i moge nawet pisać kawałki w Objective-C&quot;, a Androidowcy westchną &quot;o super, jest wspierana najnowsza wersja Support Library, już tydzień po wydaniu&quot;.
+                   	W ramach moich przygotowań do warsztatu o Xamarinie na codepot.pl 2015 powstała prezentacja o tym czym właściwie ta platforma jest.Często, mylnie, mówi się że Xamarin to kolejna hybrydowa technologia, zupełnie jak, fuj, cordova.W ramach prezentacji dowiemy się:* co to właściwie jest Xamarin* czy to druga, równie kiepska, technologia co Cordova* co właściwie jest natywne (platform-specific) a co można współdzielić między projektami* jakie natywne komponenty są dostępne (UIKit dla iOS, RecycleView czy Support Library dla Androida)* czy to jest wreszcie to rozwiąznie gdzie piszemy raz a działa wszędzieBędę szczęśliwy jeśli w czasie prezentacji iOS-owcy pomyślą sobie "o fajnie, normalnie mam tam UIKit i moge nawet pisać kawałki w Objective-C", a Androidowcy westchną "o super, jest wspierana najnowsza wersja Support Library, już tydzień po wydaniu".
 				<!--
                    		
                    								
@@ -16092,7 +16112,7 @@
                    	Optymalizacja hierarchii widoków na platformie Android&nbsp;<img src="images/page/PL.png" border=1/>
 			</small>
                     <br/>
-                   	Optymalizacja hierarchii widoków na przykładzie aplikacji &quot;Stereoscopic Image Calculator&quot;. Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android.Agenda prezentacji: 1. Motywacja (aplikacja &quot;Stereoscopic Image Calculator&quot;, która na poszczególnych ekranach wyświetlała bardzo dużo danych)2. Szczegóły techniczne dotyczące renderowania widoków:- Co się dzieje, jeżeli zostanie wywołana metoda &quot;requestLayout()&quot;?- Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie?- Na co zwracać szczególną uwagę przy tworzeniu widoków? 3. Pisanie własnych &quot;ViewGroup&quot;4. Narzędzie &quot;HierarchyViewer&quot;5. Pomiary i wnioski
+                   	Optymalizacja hierarchii widoków na przykładzie aplikacji "Stereoscopic Image Calculator". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android. Agenda prezentacji: <ol><li>Motywacja (aplikacja "Stereoscopic Image Calculator", która na poszczególnych ekranach wyświetlała bardzo dużo danych)</li> <li>Szczegóły techniczne dotyczące renderowania widoków: Co się dzieje, jeżeli zostanie wywołana metoda "requestLayout()"?<br/>Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie? Na co zwracać szczególną uwagę przy tworzeniu widoków?</li> <li>Pisanie własnych "ViewGroup"</li> <li>Narzędzie "HierarchyViewer"</li> <li>Pomiary i wnioski</li></ol>
 				<!--
                    		
                    								
@@ -16962,6 +16982,762 @@
                    							· 11:20 Czy AR i VR zmienią naszą przyszłość?
                    						</a>&nbsp;&nbsp;&nbsp;
                  					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+				-->
+                     
+                      <!-- <a data-agenda="90" data-speaker="1">                      
+                        12:25
+                        Boiling out Boilerplate	
+                       -->
+                    </small>
+                  </li>
+              </ul>
+            </div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="modal fade" id="speaker-sebastian-gos" tabindex="-1" role="dialog" aria-labelledby="modal-speaker-sebastian-gos" aria-hidden="true">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+	        <h4 class="modal-title" id="modal-speaker-sebastian-gos">Sebastian Gos</h4>
+	      </div>
+	      <div class="modal-body">
+          <div class="speaker-description">
+			  A special Agent 007 on Her Majesty Secret Frontend Services which include but is not limited to: UX espionage, mobile warfare discovery, UI takeovers. Currently under cover at HP Polska working on his another top secret assignment. Big fan of  rock stars, leisure activities like guitar playing and sailing culinary travels. During his missions a very active Android and iOS user. A big fan of Moneypenny.
+          </div>
+            <hr/>
+            <div class="speaker-agenda">
+              <ul>
+                  <li>
+                     
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	
+                    		
+                      	 
+                     
+                     
+			<small class="text-muted">
+                   	UX pitfalls in multi-os apps&nbsp;<img src="images/page/EN.png" border=1/>
+			</small>
+                    <br/>
+                   	In this session we will answer simple but demanding questions: </br>- Is UX really device agnostic? </br>- What should be our approach when designing a multi-OS or multi-platform apps? </br>- Is the philosophy “design once – run anywhere” still alive? </br> We will take you on a short journey from a simple idea to the mockup realization. Be prepared for silly ideas, tricky questions and unconventional approach to challenges awaiting you in the design process.
+				<!--
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   						<a data-agenda="talk-ux-pitfalls-in-multi-os-apps" data-speaker="speaker-sebastian-gos">
+                   							· 9:10 UX pitfalls in multi-os apps
+                   						</a>&nbsp;&nbsp;&nbsp;
+                 					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+				-->
+                     
+                      <!-- <a data-agenda="90" data-speaker="1">                      
+                        12:25
+                        Boiling out Boilerplate	
+                       -->
+                    </small>
+                  </li>
+              </ul>
+            </div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="modal fade" id="speaker-lech-migdal" tabindex="-1" role="dialog" aria-labelledby="modal-speaker-lech-migdal" aria-hidden="true">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+	        <h4 class="modal-title" id="modal-speaker-lech-migdal">Lech Migdal</h4>
+	      </div>
+	      <div class="modal-body">
+          <div class="speaker-description">
+			  A big fan of simplicity and usability.
+          </div>
+            <hr/>
+            <div class="speaker-agenda">
+              <ul>
+                  <li>
+                     
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	 
+                     
+                    	
+                    		
+                      	 
+                     
+                     
+			<small class="text-muted">
+                   	UX pitfalls in multi-os apps&nbsp;<img src="images/page/EN.png" border=1/>
+			</small>
+                    <br/>
+                   	In this session we will answer simple but demanding questions: </br>- Is UX really device agnostic? </br>- What should be our approach when designing a multi-OS or multi-platform apps? </br>- Is the philosophy “design once – run anywhere” still alive? </br> We will take you on a short journey from a simple idea to the mockup realization. Be prepared for silly ideas, tricky questions and unconventional approach to challenges awaiting you in the design process.
+				<!--
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   						<a data-agenda="talk-ux-pitfalls-in-multi-os-apps" data-speaker="speaker-lech-migdal">
+                   							· 9:10 UX pitfalls in multi-os apps
+                   						</a>&nbsp;&nbsp;&nbsp;
+                 					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   			
+                   		
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   								
+                   				
+                   			
+                   		
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
+                   				
+                   								
+                   				
+                   					
                    				
                    								
                    				
