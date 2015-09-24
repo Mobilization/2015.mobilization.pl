@@ -982,10 +982,10 @@ docpadConfig = {
 		  },
 		  "slot-lunch":{"break_key":"break-lunch"},
 		  "slot-5": {
-			  "venue-3": {
+			  "venue-2": {
 				  "talk_key": "talk-kiedy-zespol-scrumowy-nie-kocha-swojego-produktu-mobilnego"
 			  },
-			  "venue-5": {
+			  "venue-4": {
 				  "talk_key": "talk-czy-nastala-era-continuous-everything"
 			  }
 		  },
