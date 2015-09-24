@@ -350,7 +350,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/daniel-rurarz.png"
          },
-          //20.5
+          //21
           "speaker-lukasz-szadkowski":{
 				"firstname": "Łukasz",
 				"lastname":"Szadkowski",
@@ -359,7 +359,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/lukasz-szadkowski.png"
          },
-         //21
+         //22
          "speaker-lena-rodziewicz":{
 				"firstname": "Lena",
 				"lastname":"Rodziewicz",
@@ -368,7 +368,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/lena-rodziewicz.png"
          },
-         //22
+         //23
          "speaker-maciej-chwiloc":{
 				"firstname": "Maciej",
 				"lastname":"Chwiłoc",
@@ -377,7 +377,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/maciej-chwiloc.png"
          },
-         //22.5
+         //24
          "speaker-cezary-kapicki":{
 				"firstname": "Cezary",
 				"lastname":"Kąpicki",
@@ -386,7 +386,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/cezary-kapicki.png"
          },
-         //23
+         //25
          "speaker-jacek-rondio":{
 				"firstname": "Jacek",
 				"lastname":"Rondio",
@@ -395,7 +395,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/jacek-rondio.png"
          },
-         //23.5
+         //26
          "speaker-anton-miniailo":{
 				"firstname": "Anton",
 				"lastname":"Miniailo",
@@ -404,8 +404,8 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/anton-miniailo.png"
          },
-         //24
-         "speaker-rafal-szpoton":{
+         //27
+        "speaker-rafal-szpoton":{
 				"firstname": "Rafał",
 				"lastname":"Szpoton",
 				"bio_html":"A very retro gadgets maniac.. He used to know how to program modern windows UI in MS DOS using Turbo Pascal 7.0 but he doesn’t know it anymore J As his primary field of expertise disappeared in the mists of history he moved to more modern environments like iOS or Android.",
@@ -413,8 +413,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/rafal-szpoton.jpg"
          },
-         //25
-
+         //28
          "speaker-tomasz-netczuk":{
 				"firstname": "Tomasz",
 				"lastname":"Netczuk",
@@ -423,8 +422,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/tomasz-netczuk.png"
          },
-
-         //26
+         //29
          "speaker-karol-kowalski":{
 				"firstname": "Karol",
 				"lastname":"Kowalski",
@@ -433,7 +431,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/karol-kowalski.png"
          },
-         //27
+         //30
          "speaker-pawel-junak":{
 				"firstname": "Paweł",
 				"lastname":"Junak",
@@ -442,7 +440,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/pawel-junak.png"
          },
-         //28
+         //31
          "speaker-konrad-krakowiak":{
 				"firstname": "Konrad",
 				"lastname":"Krakowiak",
@@ -451,7 +449,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/konrad-krakowiak.jpg"
          },
-         //29
+         //32
          "speaker-slawomir-jasek":{
 				"firstname": "Sławomir",
 				"lastname":"Jasek",
@@ -460,7 +458,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/slawomir-jasek.png"
          },
-         //30
+         //33
          "speaker-sebastian-kacprzak":{
 				"firstname": "Sebastian",
 				"lastname":"Kacprzak",
@@ -469,7 +467,7 @@ docpadConfig = {
 				"twitter":"",
 				"photo_url":"/images/speakers/sebastian-kacprzak.png"
          },
-        //31
+        //34
           "speaker-pawel-wojdera":{
  				"firstname": "Paweł",
  				"lastname":"Wojdera",
@@ -478,7 +476,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/pawel-wojdera.png"
           },
-          //32
+          //35
           "speaker-aleksander-piotrowski":{
  				"firstname": "Aleksander",
  				"lastname":"Piotrowski",
@@ -487,7 +485,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/aleksander-piotrowski.png"
           },
-          //33
+          //36
           "speaker-michal-wlodarczyk":{
  				"firstname": "Michał",
  				"lastname":"Włodarczyk",
@@ -496,8 +494,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-wlodarczyk.png"
           },
-          //34
-
+          //37
           "speaker-michal-szczepanik":{
  				"firstname": "Michał",
  				"lastname":"Szczepanik",
@@ -506,8 +503,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-szczepanik.png"
           },
-
-          //35
+          //38
           "speaker-maciej-schmidt":{
  				"firstname": "Maciej",
  				"lastname":"Schmidt",
@@ -516,7 +512,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/maciej-schmidt.png"
           },
-          //36
+          //39
 		 "speaker-sebastian-gos":{
 			"firstname": "Sebastian",
 			"lastname":"Gos",
@@ -525,8 +521,7 @@ docpadConfig = {
 			"twitter":"",
 			"photo_url":"/images/speakers/sebastian-gos.png"
 		  },
-		 //37
-
+		 //40
 		 "speaker-lech-migdal":{
 			"firstname": "Lech",
 			"lastname":"Migdal",
@@ -534,6 +529,33 @@ docpadConfig = {
 			"www":"",
 			"twitter":"",
 			"photo_url":"/images/speakers/lech-migdal.jpg"
+		  },
+		  //41
+		  "speaker-mihcal-aleksander":{
+			  "firstname": "Michał",
+			  "lastname":"Aleksander",
+			  "bio_html":"Z wykształcenia dziennikarz, który w pewnym momencie swojego życia bardzo skręcił w stronę (bliskiej mu od zawsze) technologii i projektowania. Przez 5 lat projektował dla kluczowego serwisu e-commerce w Europie Środkowo-Wschodniej, mocno skupiając się na mobilności, rozpoznaniu potrzeb użytkownika oraz naturalnym kontekście użycia projektowanych produktów. Obecnie Interaction Designer i Design Team Manager w przedsionku technologicznym największej na świecie firmy edukacyjnej - Pearson English Technologies, w której mocno skupia sieę na porządkowaniu procesów, wypracowywaniu najlepszych podejść projektowych oraz metodach warsztatowych, w które angażuje reprezentantów wszystkich działów w firmie. Autor elektronicznej książki <a href='http://www.ibuk.pl/fiszka/141731/jak-stac-sie-lepszym-projektantem-ux.html'>Jak stać się lepszym projektantem UX</a>. Prelegent na UXCampie (Gdynia, 2014), World of Usability Day (Gdynia, 2014) oraz Product Campie (Gdynia, 2015).",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/michal-aleksander.png"
+		  },
+		  //42
+		  "speaker-pawel-urban":{
+			  "firstname": "Paweł",
+			  "lastname":"Urban",
+			  "bio_html":"Developer z krwi i kości od 6 lat. Do tej pory związany z firmami takimi jak LG Electronics, Allegro oraz PayU. Pasjonat świata mobilnego, szczególnie z zielonym robotem w tle.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/pawel-urban.png"
+		  },
+		  //43
+		  "speaker-lukasz-krupa":{
+			  "firstname": "Łukasz",
+			  "lastname":"Krupa",
+			  "bio_html":"Aktualnie odpowiedzialny za rozwój działu rozwiązań mobilnych w R&D Viessmann we Wrocławiu. Miłośnik zwinnych metod rozwoju produktów i filozofii Kaizen. Swoją przygodę z IT rozpoczynał jako tester oprogramowania i przez ostatnie 10 lat uczestniczył w kilkudziesięciu projektach współpracując ze znanymi firmami branży IT w różnorodnych rolach m.in. Inżyniera rozwoju oprogramowania, kierownika projektu, lidera zespołu, kierownika działu, Agile Coacha. Inicjator społeczności „Agile Wrocław”, konsultant zwinnych metod, praktyk Scruma, współorganizator pierwszego na świecie szkolenia o Scrumie w formie gry miejskiej. Potwierdzeniem jego kompetencji są liczne międzynarodowe certyfikaty: PMI-ACP, PRINCE-2, IPMA-D, PSM I, CSM oraz ISTQB Foundation. W tym roku występował m.in. na konferencji Scrum Days, Testing Cup oraz wielokrotnie na spotkaniach branżowych.",
+			  "www":"",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/lukasz-krupa.png"
 		  },
       },
    	  talks: {
