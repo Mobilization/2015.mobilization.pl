@@ -144,7 +144,11 @@ docpadConfig = {
         	   	from: '13:10',
         		to:   '14:00'
         	},
-          'slot-5': {
+		  'slot-5': {
+			  from: '13:20',
+			  to:   '13:50'
+		  },
+          'slot-6': {
         		from: '14:00',
         		to:   '14:45'
         	},
@@ -152,7 +156,7 @@ docpadConfig = {
         	   	from: '14:45',
         		to:   '15:05'
         	},
-          'slot-6': {
+          'slot-7': {
         		from: '15:05',
         		to:   '15:50'
         	},
@@ -160,7 +164,7 @@ docpadConfig = {
         	   	from: '15:50',
         		to:   '16:10'
         	},
-          'slot-7': {
+          'slot-8': {
         		from: '16:10',
         		to:   '16:55'
         	},
@@ -531,7 +535,7 @@ docpadConfig = {
 			"photo_url":"/images/speakers/lech-migdal.jpg"
 		  },
 		  //41
-		  "speaker-mihcal-aleksander":{
+		  "speaker-michal-aleksander":{
 			  "firstname": "Michał",
 			  "lastname":"Aleksander",
 			  "bio_html":"Z wykształcenia dziennikarz, który w pewnym momencie swojego życia bardzo skręcił w stronę (bliskiej mu od zawsze) technologii i projektowania. Przez 5 lat projektował dla kluczowego serwisu e-commerce w Europie Środkowo-Wschodniej, mocno skupiając się na mobilności, rozpoznaniu potrzeb użytkownika oraz naturalnym kontekście użycia projektowanych produktów. Obecnie Interaction Designer i Design Team Manager w przedsionku technologicznym największej na świecie firmy edukacyjnej - Pearson English Technologies, w której mocno skupia sieę na porządkowaniu procesów, wypracowywaniu najlepszych podejść projektowych oraz metodach warsztatowych, w które angażuje reprezentantów wszystkich działów w firmie. Autor elektronicznej książki <a href='http://www.ibuk.pl/fiszka/141731/jak-stac-sie-lepszym-projektantem-ux.html'>Jak stać się lepszym projektantem UX</a>. Prelegent na UXCampie (Gdynia, 2014), World of Usability Day (Gdynia, 2014) oraz Product Campie (Gdynia, 2015).",
@@ -844,6 +848,22 @@ docpadConfig = {
 					"speaker-rafal-szpoton","speaker-sebastian-gos","speaker-lech-migdal"
 				],
 				"language": "EN"
+			},
+		  "talk-kiedy-zespol-scrumowy-nie-kocha-swojego-produktu-mobilnego":{
+				"title": "Kiedy zespół Scrumowy nie kocha swojego produktu mobilnego",
+				"description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zepołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie w dużych organizacjach może być sporym problemem?Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilną czy strona responsywna.",
+				"speakers_keys": [
+					"speaker-michal-aleksander"
+				],
+				"language": "PL"
+			},
+		  "talk-zwinna-lodz-przedstawia-panel":{
+				"title": "",
+				"description_html": "Agile Case studies<br><h3>Jak połączyć ogień z wodą? -Intedyscyplinarność w zespole mobilnym</h3>Uważa się powszechnie, że programowanie pod iOSa i Androida to dwa różne światy. Podczas prezentacji przedstawię przypadek, gdzie jeden zespół Scrumowy tworzy jednocześnie aplikację na obydwie te platformy. usłyszysz o zaletach i wadach takiego podejścia. Dowiesz się czym jest interdyscyplinarność i w jaki sposób wpływa na tworzenie nowych funkcjonalności. Zobaczysz z jakimi wyzwaniami zmaga się na co dzień zespół. Zapraszam!<br><h3>Jeden zespół? A może kilka. Case study z mobilnego pola bitwy</h3>Od strony praktycznej dowiesz się, w jaki sposób ewoluowała praca nad jednym produktem, przez członków trzech platform mobilnych i osób dostarczających API serwerowe. Pokażę plusy i minusy różnych konfiguracji oraz narzędzia jakimi posługiwaliśmy się, aby wygodnie synchronizować pracę. Będzie to realny case study z tego jak nam się pracowało, co powodowało problemy i jak się dogadywaliśmy.",
+				"speakers_keys": [
+					"speaker-pawel-urban","speaker-lukasz-krupa"
+				],
+				"language": "PL"
 			}
    	  },
    	  breaks: {
@@ -962,6 +982,14 @@ docpadConfig = {
 		  },
 		  "slot-lunch":{"break_key":"break-lunch"},
 		  "slot-5": {
+			  "venue-3": {
+				  "talk_key": "talk-kiedy-zespol-scrumowy-nie-kocha-swojego-produktu-mobilnego"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-czy-nastala-era-continuous-everything"
+			  }
+		  },
+		  "slot-6": {
 			  "venue-1": {
 				  "talk_key": "talk-dagger-2-dependency-injection-w-kodzie-produkcyjnym"
 			  },
@@ -979,7 +1007,7 @@ docpadConfig = {
 			  }
 		  },
 		  "slot-coffee-4":{"break_key":"break-coffee"},
-		  "slot-6": {
+		  "slot-7": {
 			  "venue-1": {
 				  "talk_key": "talk-hipster-oriented-programming"
 			  },
@@ -997,7 +1025,7 @@ docpadConfig = {
 			  }
 		  },
 		  "slot-coffee-5":{"break_key":"break-coffee"},
-		  "slot-7": {
+		  "slot-8": {
 			  "venue-1": {
 				  "talk_key": "talk-what-s-in-it-for-us-after-the-indiepocalipse"
 			  },
@@ -1011,7 +1039,7 @@ docpadConfig = {
 				  "talk_key": "talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy"
 			  },
 			  "venue-5": {
-				  "talk_key": "talk-czy-nastala-era-continuous-everything"
+				  "talk_key": "talk-zwinna-lodz-przedstawia-panel"
 			  }
 		  },
 		  "slot-finally":{"break_key":"break-finally"}
