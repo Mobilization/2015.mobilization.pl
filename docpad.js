@@ -390,7 +390,7 @@ docpadConfig = {
          "speaker-jacek-rondio":{
 				"firstname": "Jacek",
 				"lastname":"Rondio",
-				"bio_html":"",
+				"bio_html":"Senior Software Engineer w firmie HARMAN Connected Services zajmujący się głównie rozwijaniem aplikacji na platformę Android, nie bojący się jednak siegać do głębszych warstw systemu. Obecnie związany z branżą automotive, wcześniej z accessibility i komercyjnymi aplikacjami jednego z operatorów komórkowych. Entuzjasta nowych technologii mobilnych, wciąż szukający nowych technologicznych wyzwań.",
 				"www":"",
 				"twitter":"",
 				"photo_url":"/images/speakers/jacek-rondio.png"
@@ -399,7 +399,7 @@ docpadConfig = {
          "speaker-anton-miniailo":{
 				"firstname": "Anton",
 				"lastname":"Miniailo",
-				"bio_html":"",
+				"bio_html":"Inżynier oprogramowania Android z 5 letnim doświadczeniem. Entuzjasta Javy, lubiący wyzwania z zakresu architektury oprogramowania. Interesuje sie zarówno pracą z software jak i middleware. Do HARMAN Connected Services dołączył rok temu.",
 				"www":"",
 				"twitter":"",
 				"photo_url":"/images/speakers/anton-miniailo.png"
@@ -491,7 +491,7 @@ docpadConfig = {
           "speaker-michal-wlodarczyk":{
  				"firstname": "Michał",
  				"lastname":"Włodarczyk",
- 				"bio_html":"Senior Software Engineer w Open-RnD. Od 3.5 zajmuje się rozwijaniem aplikacji na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Kierownik przedmiotów \"m-Commerce\" oraz \"Programowanie aplikacji mobilnych\" (prowadzę wykłady i część laboratoriów, układałem program tych przedmiotów). 2 wystąpienia na konferencjach MIXDES w 2014 i 2015 roku. Więcej informacji na moim profilu na https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08 LinkedIn",
+ 				"bio_html":"Senior Software Engineer w Open-RnD. Od 3.5 zajmuje się rozwijaniem aplikacji na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Kierownik przedmiotów \"m-Commerce\" oraz \"Programowanie aplikacji mobilnych\" (prowadzę wykłady i część laboratoriów, układałem program tych przedmiotów). 2 wystąpienia na konferencjach MIXDES w 2014 i 2015 roku. Więcej informacji na moim profilu na <a href='https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08'>LinkedIn</a>",
  				"www":"",
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-wlodarczyk.png"
@@ -717,7 +717,7 @@ docpadConfig = {
 			},
 			"talk-xamarin-dla-nie-tylko-deweloperow-androida": {
 			  "title": "Xamarin dla (nie tylko) deweloperów Androida",
-			  "description_html": "W ramach moich przygotowań do warsztatu o Xamarinie na codepot.pl 2015 powstała prezentacja o tym czym właściwie ta platforma jest.Często, mylnie, mówi się że Xamarin to kolejna hybrydowa technologia, zupełnie jak, fuj, cordova.W ramach prezentacji dowiemy się:* co to właściwie jest Xamarin* czy to druga, równie kiepska, technologia co Cordova* co właściwie jest natywne (platform-specific) a co można współdzielić między projektami* jakie natywne komponenty są dostępne (UIKit dla iOS, RecycleView czy Support Library dla Androida)* czy to jest wreszcie to rozwiąznie gdzie piszemy raz a działa wszędzieBędę szczęśliwy jeśli w czasie prezentacji iOS-owcy pomyślą sobie \"o fajnie, normalnie mam tam UIKit i moge nawet pisać kawałki w Objective-C\", a Androidowcy westchną \"o super, jest wspierana najnowsza wersja Support Library, już tydzień po wydaniu\".",
+			  "description_html": "W ramach moich przygotowań do warsztatu o Xamarinie na codepot.pl 2015 powstała prezentacja o tym czym właściwie ta platforma jest. Często, mylnie, mówi się że Xamarin to kolejna hybrydowa technologia, zupełnie jak, fuj, cordova.W ramach prezentacji dowiemy się:<br/>- co to właściwie jest Xamarin<br/>- czy to druga, równie kiepska, technologia co Cordova<br/>- co właściwie jest natywne (platform-specific) a co można współdzielić między projektami<br/>- jakie natywne komponenty są dostępne (UIKit dla iOS, RecycleView czy Support Library dla Androida)<br/>- czy to jest wreszcie to rozwiąznie gdzie piszemy raz a działa wszędzieBędę szczęśliwy jeśli w czasie prezentacji iOS-owcy pomyślą sobie \"o fajnie, normalnie mam tam UIKit i moge nawet pisać kawałki w Objective-C\", a Androidowcy westchną \"o super, jest wspierana najnowsza wersja Support Library, już tydzień po wydaniu\".",
 			  "speakers_keys": [
 				"speaker-aleksander-piotrowski"
 			  ],
@@ -749,7 +749,7 @@ docpadConfig = {
 			},
 			"talk-potrzeby-biznesowe-a-technologia-w-mobdev-na-przykladzie-seqr": {
 			  "title": "Potrzeby biznesowe a technologia w mobdev na przykładzie SEQR",
-			  "description_html": "Specjaliści z dziedziny rozwoju produktu, użyteczności i technologii opowiedzą:* W jaki sposób warto planować rozwój ekosystemu usług płatniczych w sytuacji, gdy potrzeba jak najszybciej adaptować się do zmieniającego się rynku, potrzeb użytkowników i działań konkurencji.* Jak skalujemy SCRUM by dobrze koordynować pracę wielu zespołów.* Dlaczego stawiamy na jak najszybsze zmiany (i ewentualne niepowodzenia) i jak się to nam udaje.* Dotychczasowa implementacja Lean Startup - doświadczone pętle zwrotne między strategią biznesową, UX, a zastosowaną technologią.* Dlaczego User Experience jest tak ważny - jaką wartość biznesową daje w przypadku SEQR.",
+			  "description_html": "Specjaliści z dziedziny rozwoju produktu, użyteczności i technologii opowiedzą:- W jaki sposób warto planować rozwój ekosystemu usług płatniczych w sytuacji, gdy potrzeba jak najszybciej adaptować się do zmieniającego się rynku, potrzeb użytkowników i działań konkurencji.<br/>- Jak skalujemy SCRUM by dobrze koordynować pracę wielu zespołów.<br/>- Dlaczego stawiamy na jak najszybsze zmiany (i ewentualne niepowodzenia) i jak się to nam udaje.<br/>- Dotychczasowa implementacja Lean Startup - doświadczone pętle zwrotne między strategią biznesową, UX, a zastosowaną technologią.<br/>- Dlaczego User Experience jest tak ważny - jaką wartość biznesową daje w przypadku SEQR.",
 			  "speakers_keys": [
 				"speaker-daniel-rurarz",
 				"speaker-lukasz-szadkowski"
