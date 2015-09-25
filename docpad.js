@@ -83,6 +83,7 @@ docpadConfig = {
 			{"name":"Zwinna Łódź","logo_url":"/images/partners/zwinna_lodz.jpg","link":"http://zwinnalodz.eu/"},
 			{"name":"Mobile Warsaw","logo_url":"/images/partners/mw-logo.png","link":"http://mobile-warsaw.pl"},
 			{"name":"Ionic Poland", "logo_url":"/images/partners/ionicpoland-logo.png", "link":"http://www.meetup.com/ionicpoland/"},
+			{"name":"Droidcon Poland", "logo_url":"/images/partners/drodicon.png", "link":"http://drodicon.pl/"},
       	],
       	media: [
 
