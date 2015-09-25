@@ -83,7 +83,7 @@ docpadConfig = {
 			{"name":"Zwinna Łódź","logo_url":"/images/partners/zwinna_lodz.jpg","link":"http://zwinnalodz.eu/"},
 			{"name":"Mobile Warsaw","logo_url":"/images/partners/mw-logo.png","link":"http://mobile-warsaw.pl"},
 			{"name":"Ionic Poland", "logo_url":"/images/partners/ionicpoland-logo.png", "link":"http://www.meetup.com/ionicpoland/"},
-			{"name":"Droidcon Poland", "logo_url":"/images/partners/drodicon.png", "link":"http://drodicon.pl/"},
+			{"name":"Droidcon Poland", "logo_url":"/images/partners/droidcon.png", "link":"http://drodicon.pl/"},
       	],
       	media: [
 
@@ -143,36 +143,40 @@ docpadConfig = {
         	}, 
         	'slot-lunch': {
         	   	from: '13:10',
-        		to:   '14:00'
+        		to:   '14:10'
         	},
 		  'slot-5': {
-			  from: '13:20',
-			  to:   '13:50'
+			  from: '13:25',
+			  to:   '13:55'
 		  },
           'slot-6': {
-        		from: '14:00',
-        		to:   '14:45'
+        		from: '14:10',
+        		to:   '14:55'
         	},
           'slot-coffee-4': {
-        	   	from: '14:45',
-        		to:   '15:05'
+        	   	from: '14:55',
+        		to:   '15:10'
         	},
           'slot-7': {
-        		from: '15:05',
-        		to:   '15:50'
+        		from: '15:10',
+        		to:   '15:55'
         	},
           'slot-coffee-5': {
-        	   	from: '15:50',
+        	   	from: '15:55',
         		to:   '16:10'
         	},
           'slot-8': {
         		from: '16:10',
         		to:   '16:55'
         	},
-        	'slot-finally': {
-        		from: '16:55',
-        		to:   '17:40'
-        	},
+		  'slot-no-coffee-6': {
+			  from: '16:55',
+			  to:   '17:00'
+		  },
+		'slot-finally': {
+			from: '17:00',
+			to:   '17:15'
+		},
       },
       speakers: {
       //1
@@ -884,6 +888,10 @@ docpadConfig = {
    	  		title: 'Lunch Break',
    	  		description_html: 'VIPs (Speakers, Sponsors) have lunch in Congresowa Restaurant on base floor.'
    	  	},
+		  'break-no-coffee': {
+			  title: 'No Coffee Break',
+			  description_html: ''
+		  },
    	  	'break-finally': {
    	  		title: 'Finally',
    	  		description_html: 'Time to give thanks to all the sponsors and the organizer\'s team'
@@ -1043,6 +1051,7 @@ docpadConfig = {
 				  "talk_key": "talk-zwinna-lodz-przedstawia-panel"
 			  }
 		  },
+		  "slot-no-coffee-6":{"break_key":"break-no-coffee"},
 		  "slot-finally":{"break_key":"break-finally"}
    	  }
     },
