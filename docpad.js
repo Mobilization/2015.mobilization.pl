@@ -568,9 +568,9 @@ docpadConfig = {
 		  },
 		  //44 fake speaker
 		  "speaker-moiblization-org":{
-			  "firstname": "Zespół",
-			  "lastname":"Mobilization",
-			  "bio_html":"Robimy Mobilization już 5 lat. To my zespół mobilization",
+			  "firstname": "Mobilization",
+			  "lastname":"",
+			  "bio_html":"We do mobilization for 5 years.",
 			  "www":"http://www.mobilization.pl",
 			  "twitter":"https://twitter.com/mobilizationpl",
 			  "photo_url":"/images/speakers/mobilization-soldier.png"
@@ -880,8 +880,8 @@ docpadConfig = {
 				"language": "PL"
 		  },
 		  "talk-l-continue":{
-			  "title": "Please continue Lunch braek or check agaile talks.",
-			  "description_html": "Obiad zawsze można zjeść troszkę wcześniej lub troszkę później gdy bardziej interesuje nas agile, lub właśnie teraz gdy agile nas nie interesuje",
+			  "title": "Please continue Lunch break or check agile talks.",
+			  "description_html": "You can take lunch earlier or bit late if you are intereseted in agile or now when you are not interested",
 			  "speakers_keys": [
 				  "speaker-moiblization-org",
 			  ],
