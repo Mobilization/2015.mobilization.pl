@@ -10,6 +10,18 @@ h3.smaller_font{
 	font-size: 18px;
 }
 
+
+.tab-content th  {
+  vertical-align: top;
+  background-color: grey;
+  color: white;
+  padding-left: 2px;
+}
+.tab-content td  {
+  vertical-align: top;
+  padding-left: 2px;
+}
+
 .icon-help:before {
   content: "\e085";
 }
@@ -37,6 +49,8 @@ h3.smaller_font{
   display: inline-block;
   color: #ff0001;
 }
+
+
 .footer_link {
   color: #333;
 }
