@@ -1,15 +1,8 @@
 <!-- agenda -->
 <div id="agenda">
   <div class="container wow bounceInLeft">
-	  <h2 class="text-center">AGENDA</h2>
-
-    <br />
-    <h3 class="smallinfo">Agenda może ulec nieznacznej zmianie</h3>
-    ||
-    <h3 class="smallinfo">Agenda may be slightly changed</h3> ||
-    <a href="doc/agenda.html">Agenda do druku | Printable agenda</a>
-    <br />
-    <br />
+    <h2 class="text-center">AGENDA</h2>
+    <h5 class="text-muted text-center">Schedule is still in draft mode. We reserve rights to change agenda.</h5>
     <div class="row">
 
     <div class="col-sm-4 col-md-8 col-md-offset-2 nav-agenda ">
@@ -84,6 +77,8 @@
 		</ul>
 		</div>
 	<% end %>
+
+    	<a href="doc/agenda.html">Printable agenda</a>
 	</div> <!-- tab content -->
 	</div> <!-- col-sm8 -->
 	
