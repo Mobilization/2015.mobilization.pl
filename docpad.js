@@ -566,6 +566,15 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/lukasz-krupa.png"
 		  },
+		  //44 fake speaker
+		  "speaker-moiblization-org":{
+			  "firstname": "Zespół",
+			  "lastname":"Mobilization",
+			  "bio_html":"Robimy Mobilization już 5 lat. To my zespół mobilization",
+			  "www":"http://www.mobilization.pl",
+			  "twitter":"https://twitter.com/mobilizationpl",
+			  "photo_url":"/images/speakers/mobilization-soldier.png"
+		  },
       },
    	  talks: {
    	  	"talk-clean-architecture": {
@@ -869,7 +878,15 @@ docpadConfig = {
 					"speaker-pawel-urban","speaker-lukasz-krupa"
 				],
 				"language": "PL"
-			}
+		  },
+		  "talk-l-continue":{
+			  "title": "Please continue Lunch braek or check agaile talks.",
+			  "description_html": "Obiad zawsze można zjeść troszkę wcześniej lub troszkę później gdy bardziej interesuje nas agile, lub właśnie teraz gdy agile nas nie interesuje",
+			  "speakers_keys": [
+				  "speaker-moiblization-org",
+			  ],
+			  "language": "PL"
+		  }
    	  },
    	  breaks: {
    	  	'break-registration': {
@@ -991,12 +1008,21 @@ docpadConfig = {
 		  },
 		  "slot-lunch":{"break_key":"break-lunch"},
 		  "slot-5": {
+			  "venue-1": {
+				  "talk_key": "talk-l-continue"
+			  },
 			  "venue-2": {
 				  "talk_key": "talk-kiedy-zespol-scrumowy-nie-kocha-swojego-produktu-mobilnego"
 			  },
+			  "venue-3": {
+				  "talk_key": "talk-l-continue"
+			  },
 			  "venue-4": {
 				  "talk_key": "talk-czy-nastala-era-continuous-everything"
-			  }
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-l-continue"
+			  },
 		  },
 		  "slot-6": {
 			  "venue-1": {

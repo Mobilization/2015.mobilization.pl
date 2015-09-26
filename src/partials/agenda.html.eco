@@ -6,8 +6,10 @@
     <br />
     <h3 class="smallinfo">Agenda może ulec nieznacznej zmianie</h3>
     ||
-    <h3 class="smallinfo">Agenda may be slightly changed</h3>
-    <br /><br />
+    <h3 class="smallinfo">Agenda may be slightly changed</h3> ||
+    <a href="#agendadodruku">Agenda do druku</a>
+    <br />
+    <br />
     <div class="row">
 
     <div class="col-sm-4 col-md-8 col-md-offset-2 nav-agenda ">

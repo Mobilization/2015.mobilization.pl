@@ -7,6 +7,7 @@ layout: 'default'
 <%- @partial('map.html.eco', @) %>
 <%- @partial('about.html', @) %>
 <%- @partial('agenda.html.eco', @) %>
+<%- @partial('agendadodruku.html.eco', @) %>
 <%- @partial('speakers.html.eco', @) %>
 <%- @partial('partners.html.eco', @) %>
 <%- @partial('registration.html', @) %>

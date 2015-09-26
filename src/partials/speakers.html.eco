@@ -4,6 +4,8 @@
 		<h2 class="text-center">SPEAKERS</h2><br /><br />
 		<div class="row">
 			<% for speaker_key, speaker of @site.speakers: %>
+			    <% if speaker_key == 'speaker-moiblization-org': %>
+			    <% else: %>
 		   		<div class="col-md-3 speaker">
 					<a href="#" data-toggle="modal" data-target="#<%= speaker_key %>">
 						<img src="/images/page/speaker-hover.png" alt="speaker avatar" class="figcaption" />
@@ -11,6 +13,7 @@
 					</a>
 					<p><%= speaker.firstname %> <%= speaker.lastname %></p>
 				</div>
+				<% end %>
 			<% end %>
 		</div>
 	</div>
