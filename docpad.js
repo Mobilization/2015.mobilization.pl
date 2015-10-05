@@ -566,14 +566,14 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/lukasz-krupa.png"
 		  },
-		  //44 fake speaker
-		  "speaker-moiblization-org":{
-			  "firstname": "Mobilization",
-			  "lastname":"",
-			  "bio_html":"We do mobilization for 5 years.",
-			  "www":"http://www.mobilization.pl",
-			  "twitter":"https://twitter.com/mobilizationpl",
-			  "photo_url":"/images/speakers/mobilization-soldier.png"
+		  //44
+		  "speaker-michal-majcherski":{
+			  "firstname": "Michał",
+			  "lastname":"Majcherski",
+			  "bio_html":"Software Engineer w Seamless Payments. Podczas blisko 8 letniej kariery brał udział w tworzeniu i utrzymywaniu oprogramowania zarówno dla dużych korporacji jak i szybko dostosowujących się do aktualnych potrzeb rynku kilkuosobowych startupów. Zwolennik czystego kodu i dobrych praktyk wytwarzania oprogramowania.",
+			  "www":"l",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/michal-majcherski.png"
 		  },
       },
    	  talks: {
@@ -792,7 +792,8 @@ docpadConfig = {
 			  "description_html": "Specjaliści z dziedziny rozwoju produktu, użyteczności i technologii opowiedzą:- W jaki sposób warto planować rozwój ekosystemu usług płatniczych w sytuacji, gdy potrzeba jak najszybciej adaptować się do zmieniającego się rynku, potrzeb użytkowników i działań konkurencji.<br/>- Jak skalujemy SCRUM by dobrze koordynować pracę wielu zespołów.<br/>- Dlaczego stawiamy na jak najszybsze zmiany (i ewentualne niepowodzenia) i jak się to nam udaje.<br/>- Dotychczasowa implementacja Lean Startup - doświadczone pętle zwrotne między strategią biznesową, UX, a zastosowaną technologią.<br/>- Dlaczego User Experience jest tak ważny - jaką wartość biznesową daje w przypadku SEQR.",
 			  "speakers_keys": [
 				"speaker-daniel-rurarz",
-				"speaker-lukasz-szadkowski"
+				"speaker-lukasz-szadkowski",
+				"speaker-michal-majcherski"
 			  ],
 			  "language": "PL"
 			},
@@ -878,14 +879,6 @@ docpadConfig = {
 					"speaker-pawel-urban","speaker-lukasz-krupa"
 				],
 				"language": "PL"
-		  },
-		  "talk-l-continue":{
-			  "title": "Please continue Lunch break or check agile talks.",
-			  "description_html": "You can take lunch earlier or bit late if you are intereseted in agile or now when you are not interested",
-			  "speakers_keys": [
-				  "speaker-moiblization-org",
-			  ],
-			  "language": "PL"
 		  }
    	  },
    	  breaks: {
@@ -1008,20 +1001,11 @@ docpadConfig = {
 		  },
 		  "slot-lunch":{"break_key":"break-lunch"},
 		  "slot-5": {
-			  "venue-1": {
-				  "talk_key": "talk-l-continue"
-			  },
 			  "venue-2": {
 				  "talk_key": "talk-kiedy-zespol-scrumowy-nie-kocha-swojego-produktu-mobilnego"
 			  },
-			  "venue-3": {
-				  "talk_key": "talk-l-continue"
-			  },
 			  "venue-4": {
 				  "talk_key": "talk-czy-nastala-era-continuous-everything"
-			  },
-			  "venue-5": {
-				  "talk_key": "talk-l-continue"
 			  },
 		  },
 		  "slot-6": {
