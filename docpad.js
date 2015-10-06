@@ -954,7 +954,7 @@ docpadConfig = {
 				  "talk_key": "talk-espressive-functional-testing-with-espresso"
 			  },
 			  "venue-3": {
-				  "talk_key": "talk-swift-and-objective-c-interoperability"
+				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
 			  },
 			  "venue-4": {
 				  "talk_key": "talk-optymalizacja-hierarchii-widokow-na-platformie-android"
@@ -1016,7 +1016,7 @@ docpadConfig = {
 				  "talk_key": "talk-qtquick-spotyka-html"
 			  },
 			  "venue-3": {
-				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
+				  "talk_key": "talk-swift-and-objective-c-interoperability"
 			  },
 			  "venue-4": {
 				  "talk_key": "talk-reaktywne-programowanie-z-rxjava"
