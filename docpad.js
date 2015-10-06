@@ -866,15 +866,15 @@ docpadConfig = {
 			},
 		  "talk-kiedy-zespol-scrumowy-nie-kocha-swojego-produktu-mobilnego":{
 				"title": "Kiedy zespół Scrumowy nie kocha swojego produktu mobilnego",
-				"description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zepołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie w dużych organizacjach może być sporym problemem?Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilną czy strona responsywna.",
+				"description_html": "Celem prezentacji jest przedstawienie różnych technik (w tym metod Agile UX), które mogą sprawić, że zespół Scrumowy bardziej zaangażuje się w produkt i nie skupi tylko na realizacji oczekiwań Product Ownera w określonych odcinkach czasu. Jak sprawić, żeby członkowie zespołu scrumowego utożsamiali się z produktem, który tworzą, co jest szczególnie trudne w dużych organizacjach? Prezentacja oparta na doświadczeniach i eksperymentach przeprowadzonych w kilku zespołach Scrumowych, pracujących nad takimi projektami, jak aplikacja mobilna czy strona responsywna.",
 				"speakers_keys": [
 					"speaker-michal-aleksander"
 				],
 				"language": "PL"
 			},
 		  "talk-zwinna-lodz-przedstawia-panel":{
-				"title": "Zwinna Łódź - Agile Case studies",
-				"description_html": "Agile Case studies<br><h5>Jak połączyć ogień z wodą? -Intedyscyplinarność w zespole mobilnym</h5>Uważa się powszechnie, że programowanie pod iOSa i Androida to dwa różne światy. Podczas prezentacji przedstawię przypadek, gdzie jeden zespół Scrumowy tworzy jednocześnie aplikację na obydwie te platformy. usłyszysz o zaletach i wadach takiego podejścia. Dowiesz się czym jest interdyscyplinarność i w jaki sposób wpływa na tworzenie nowych funkcjonalności. Zobaczysz z jakimi wyzwaniami zmaga się na co dzień zespół. Zapraszam!<br><h5>Jeden zespół? A może kilka. Case study z mobilnego pola bitwy</h5>Od strony praktycznej dowiesz się, w jaki sposób ewoluowała praca nad jednym produktem, przez członków trzech platform mobilnych i osób dostarczających API serwerowe. Pokażę plusy i minusy różnych konfiguracji oraz narzędzia jakimi posługiwaliśmy się, aby wygodnie synchronizować pracę. Będzie to realny case study z tego jak nam się pracowało, co powodowało problemy i jak się dogadywaliśmy.",
+				"title": "Jeden zespół czy zespół per platforma?",
+				"description_html": "Panel dyskusyjny oparty na konkretnych case studies organizowany przez grupę Zwinna Łódź.<br>Czy interdyscyplinarność w jednym zespole ma dobry wpływ na tworzenie nowych funkcjonalności? Jak wygodnie synchronizować pracę, gdy kilka zespołów różnych platform tworzy jeden produkt? Zalety i wady, czyli które podejście jest bardziej korzystne?",
 				"speakers_keys": [
 					"speaker-pawel-urban","speaker-lukasz-krupa"
 				],
