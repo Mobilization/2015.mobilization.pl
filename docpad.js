@@ -575,6 +575,15 @@ docpadConfig = {
 			  "twitter":"",
 			  "photo_url":"/images/speakers/michal-majcherski.png"
 		  },
+		  //44
+		  "speaker-filip-miloszewski":{
+			  "firstname": "Filip",
+			  "lastname":"Miloszewski",
+			  "bio_html":"Co-founder of Listonic, one of the most popular Polish apps, available on Android, iPhone, Windows Phone and few other platforms. Working on mobile apps since 2007. Speaker on many conferences including: Internet Beta, Mobile Standard, Mobile Trends for Business, Akademia Mediarun, App Academy, Jungle Web, Łódź WiOSłuje, MIT and more.",
+			  "www":"l",
+			  "twitter":"",
+			  "photo_url":"/images/speakers/filip-miloszewski.jpg"
+		  },
       },
    	  talks: {
    	  	"talk-clean-architecture": {
@@ -876,7 +885,7 @@ docpadConfig = {
 				"title": "Jeden zespół czy zespół per platforma?",
 				"description_html": "Panel dyskusyjny oparty na konkretnych case studies organizowany przez grupę Zwinna Łódź.<br>Czy interdyscyplinarność w jednym zespole ma dobry wpływ na tworzenie nowych funkcjonalności? Jak wygodnie synchronizować pracę, gdy kilka zespołów różnych platform tworzy jeden produkt? Zalety i wady, czyli które podejście jest bardziej korzystne?",
 				"speakers_keys": [
-					"speaker-pawel-urban","speaker-lukasz-krupa"
+					"speaker-pawel-urban","speaker-lukasz-krupa","speaker-pawel-wojdera","speaker-filip-miloszewski"
 				],
 				"language": "PL"
 		  }
