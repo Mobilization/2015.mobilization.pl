@@ -912,7 +912,7 @@ docpadConfig = {
 			  description_html: ''
 		  },
    	  	'break-finally': {
-   	  		title: 'Finally',
+   	  		title: 'Finally meeting and then Afterparty in Indeks"
    	  		description_html: 'Time to give thanks to all the sponsors and the organizer\'s team'
    	  	}
    	  },
