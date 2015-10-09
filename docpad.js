@@ -177,6 +177,11 @@ docpadConfig = {
 			from: '17:00',
 			to:   '17:15'
 		},
+		'slot-afterparty': {
+			from: '17:30',
+			to:   '23:59'
+		},
+
       },
       speakers: {
       //1
@@ -912,9 +917,13 @@ docpadConfig = {
 			  description_html: ''
 		  },
    	  	'break-finally': {
-   	  		title: 'Finally meeting and then Afterparty in Indeks"
+   	  		title: 'Finally meeting',
    	  		description_html: 'Time to give thanks to all the sponsors and the organizer\'s team'
-   	  	}
+   	  	},
+   	  	'break-afterparty': {
+			title: 'AfterParty in Indeks Club',
+			description_html: 'Free pizza and beer and follow up talks.<br>5min from conference venue.<br>Stefanowskiego 17 90-452 Łódź'
+		}
    	  },
    	  venues: {
 		  "venue-1":{
@@ -1071,7 +1080,8 @@ docpadConfig = {
 			  }
 		  },
 		  "slot-no-coffee-6":{"break_key":"break-no-coffee"},
-		  "slot-finally":{"break_key":"break-finally"}
+		  "slot-finally":{"break_key":"break-finally"},
+		  "slot-afterparty":{"break_key":"break-afterparty"}
    	  }
     },
     getPreparedTitle: function() {
