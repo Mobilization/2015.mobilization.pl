@@ -778,7 +778,7 @@ docpadConfig = {
 			  "speakers_keys": [
 				"speaker-karol-kowalski"
 			  ],
-			  "language": "EN"
+			  "language": "PL"
 			},
 			"talk-optymalizacja-hierarchii-widokow-na-platformie-android": {
 			  "title": "Optymalizacja hierarchii widoków na platformie Android",
