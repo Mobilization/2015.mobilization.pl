@@ -910,7 +910,7 @@ docpadConfig = {
    	  	},
    	  	'break-lunch': {
    	  		title: 'Lunch Break',
-   	  		description_html: 'VIPs (Speakers, Sponsors) have lunch in Congresowa Restaurant on base floor.'
+   	  		description_html: 'VIPs (Speakers, Sponsors) have lunch in Congresowa Restaurant on base floor.<br>Attendees will have soldiers\' soup outside the building!',
    	  	},
 		  'break-no-coffee': {
 			  title: 'No Coffee Break',
@@ -918,7 +918,7 @@ docpadConfig = {
 		  },
    	  	'break-finally': {
    	  		title: 'Finally meeting',
-   	  		description_html: 'Time to give thanks to all the sponsors and the organizer\'s team'
+   	  		description_html: 'Time to give thanks to all the sponsors and the organizer\'s team.'
    	  	},
    	  	'break-afterparty': {
 			title: 'AfterParty in Indeks Club',
@@ -966,19 +966,19 @@ docpadConfig = {
 
 		  "slot-2": {
 			  "venue-1": {
-				  "talk_key": "talk-titanium-develop-native-mobile-apps-with-javascript"
-			  },
-			  "venue-2": {
-				  "talk_key": "talk-espressive-functional-testing-with-espresso"
-			  },
-			  "venue-3": {
-				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
-			  },
-			  "venue-4": {
 				  "talk_key": "talk-optymalizacja-hierarchii-widokow-na-platformie-android"
 			  },
-			  "venue-5": {
+			  "venue-2": {
 				  "talk_key": "talk-hacking-bluetooth-smart"
+			  },
+			  "venue-3": {
+				  "talk_key": "talk-modern-ios-app-architecture"
+			  },
+			  "venue-4": {
+				  "talk_key": "talk-titanium-develop-native-mobile-apps-with-javascript"
+			  },
+			  "venue-5": {
+				  "talk_key": "talk-espressive-functional-testing-with-espresso"
 			  }
 		  },
 		  "slot-coffee-2":{"break_key":"break-coffee"},
@@ -990,7 +990,7 @@ docpadConfig = {
 				  "talk_key": "talk-app-indexing-i-deep-linking-w-aplikacjach-androidowych"
 			  },
 			  "venue-3": {
-				  "talk_key": "talk-modern-ios-app-architecture"
+				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
 			  },
 			  "venue-4": {
 				  "talk_key": "talk-czy-ar-i-vr-zmienia-nasza-przyszlosc"
