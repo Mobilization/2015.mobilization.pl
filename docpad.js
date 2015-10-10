@@ -984,10 +984,10 @@ docpadConfig = {
 		  "slot-coffee-2":{"break_key":"break-coffee"},
 		  "slot-3": {
 			  "venue-1": {
-				  "talk_key": "talk-watch-out-for-the-watch"
+				  "talk_key": "talk-app-indexing-i-deep-linking-w-aplikacjach-androidowych"
 			  },
 			  "venue-2": {
-				  "talk_key": "talk-app-indexing-i-deep-linking-w-aplikacjach-androidowych"
+				  "talk_key": "talk-watch-out-for-the-watch"
 			  },
 			  "venue-3": {
 				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
