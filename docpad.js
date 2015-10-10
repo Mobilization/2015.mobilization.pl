@@ -1002,19 +1002,19 @@ docpadConfig = {
 		  "slot-coffee-3":{"break_key":"break-coffee"},
 		  "slot-4": {
 			  "venue-1": {
-				  "talk_key": "talk-dont-reinvent-the-wheel-use-libraries-modern-android-stack"
+				  "talk_key": "talk-behavior-driven-development"
 			  },
 			  "venue-2": {
-				  "talk_key": "talk-kotlin-for-android"
+				  "talk_key": "talk-ionic-io-services-for-hybrid-mobile-applications"
 			  },
 			  "venue-3": {
-				  "talk_key": "talk-behavior-driven-development"
+				  "talk_key": "talk-dont-reinvent-the-wheel-use-libraries-modern-android-stack"
 			  },
 			  "venue-4": {
 				  "talk_key": "talk-clean-architecture"
 			  },
 			  "venue-5": {
-				  "talk_key": "talk-ionic-io-services-for-hybrid-mobile-applications"
+				  "talk_key": "talk-kotlin-for-android"
 			  }
 		  },
 		  "slot-lunch":{"break_key":"break-lunch"},
