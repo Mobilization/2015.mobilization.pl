@@ -854,7 +854,7 @@ docpadConfig = {
 			  ],
 			  "language": "PL"
 			},
-			"talk-co-kryje-pianka-czyli-o-nowej-wersjia-androida" : {
+			"talk-co-kryje-pianka-czyli-o-nowej-wersji-androida" : {
 			  "title": "Co kryje Pianka, czyli o nowej wersji Androida.",
 			  "description_html": "Pewnie każdy fan i developer Androida oglądał Google I/O, podczas którego usłyszał o zmianach M-ki. Nowy sposób zarządzania permission'ami oraz doze mode to tylko nieliczne zmiany, które nowa wersja wprowadza. Poznaj jakie zmiany powinieneś(aś)  zrobić, by Twoja aplikacja  nadal poprawnie działała na Androidzie 6.0 (Marshmallow) .  Ta prelekcja uwzględnia wiele nowości i zmian o których Google nie wspomina, nie daj się zaskoczyć ... przyjdź.",
 			  "speakers_keys": [
@@ -1046,19 +1046,19 @@ docpadConfig = {
 		  "slot-coffee-4":{"break_key":"break-coffee"},
 		  "slot-7": {
 			  "venue-1": {
-				  "talk_key": "talk-hipster-oriented-programming"
+				  "talk_key": "talk-android-data-binding-nie-tylko-w-teorii"
 			  },
 			  "venue-2": {
 				  "talk_key": "talk-dobry-zwyczaj-nie-odziedziczaj"
 			  },
 			  "venue-3": {
-				  "talk_key": "talk-android-data-binding-nie-tylko-w-teorii"
+				  "talk_key": "talk-hipster-oriented-programming"
 			  },
 			  "venue-4": {
-				  "talk_key": "talk-material-design-with-android-design-library"
+				  "talk_key": "talk-co-kryje-pianka-czyli-o-nowej-wersji-androida"
 			  },
 			  "venue-5": {
-				  "talk_key": "talk-co-kryje-pianka-czyli-o-nowej-wersjia-androida"
+				  "talk_key": "talk-material-design-with-android-design-library"
 			  }
 		  },
 		  "slot-coffee-5":{"break_key":"break-coffee"},
@@ -1070,13 +1070,13 @@ docpadConfig = {
 				  "talk_key": "talk-reactive-ui-on-adroid-with-scala"
 			  },
 			  "venue-3": {
-				  "talk_key": "talk-xamarin-dla-nie-tylko-deweloperow-androida"
+				  "talk_key": "talk-zwinna-lodz-przedstawia-panel"
 			  },
 			  "venue-4": {
-				  "talk_key": "talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy"
+				  "talk_key": "talk-xamarin-dla-nie-tylko-deweloperow-androida"
 			  },
 			  "venue-5": {
-				  "talk_key": "talk-zwinna-lodz-przedstawia-panel"
+				  "talk_key": "talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy"
 			  }
 		  },
 		  "slot-no-coffee-6":{"break_key":"break-no-coffee"},
