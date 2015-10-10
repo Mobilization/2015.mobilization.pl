@@ -583,7 +583,7 @@ docpadConfig = {
 		  //44
 		  "speaker-filip-miloszewski":{
 			  "firstname": "Filip",
-			  "lastname":"Miloszewski",
+			  "lastname":"Miłoszewski",
 			  "bio_html":"Co-founder of Listonic, one of the most popular Polish apps, available on Android, iPhone, Windows Phone and few other platforms. Working on mobile apps since 2007. Speaker on many conferences including: Internet Beta, Mobile Standard, Mobile Trends for Business, Akademia Mediarun, App Academy, Jungle Web, Łódź WiOSłuje, MIT and more.",
 			  "www":"l",
 			  "twitter":"",
