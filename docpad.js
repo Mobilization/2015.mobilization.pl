@@ -1028,19 +1028,19 @@ docpadConfig = {
 		  },
 		  "slot-6": {
 			  "venue-1": {
-				  "talk_key": "talk-dagger-2-dependency-injection-w-kodzie-produkcyjnym"
+				  "talk_key": "talk-reaktywne-programowanie-z-rxjava"
 			  },
 			  "venue-2": {
-				  "talk_key": "talk-qtquick-spotyka-html"
+				  "talk_key": "talk-no-platformy-natywne"
 			  },
 			  "venue-3": {
 				  "talk_key": "talk-swift-and-objective-c-interoperability"
 			  },
 			  "venue-4": {
-				  "talk_key": "talk-reaktywne-programowanie-z-rxjava"
+				  "talk_key": "talk-dagger-2-dependency-injection-w-kodzie-produkcyjnym"
 			  },
 			  "venue-5": {
-				  "talk_key": "talk-no-platformy-natywne"
+				  "talk_key": "talk-qtquick-spotyka-html"
 			  }
 		  },
 		  "slot-coffee-4":{"break_key":"break-coffee"},
