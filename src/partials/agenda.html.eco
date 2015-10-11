@@ -2,6 +2,7 @@
 <div id="agenda">
   <div class="container wow bounceInLeft">
     <h2 class="text-center">AGENDA</h2>
+    <h5 class="text-muted text-center">Schedule is still in draft mode. We reserve rights to change agenda.</h5>
     <div class="row">
 
     <div class="col-sm-4 col-md-8 col-md-offset-2 nav-agenda ">
@@ -22,7 +23,7 @@
     <div class="col-sm-8 col-md-8 col-md-offset-2">
     <div class="tab-content">
     	<% for venue_key, venue of @site.venues: %>
-    	<% if venue_key == 'venue-1': %>
+    	<% if venue_key == 'venue-seamless': %>
 		<div class="tab-pane active" id="track-<%= venue_key %>">
 		<% else: %>
 		<div class="tab-pane" id="track-<%= venue_key %>">
