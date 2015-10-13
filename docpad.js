@@ -106,7 +106,7 @@ docpadConfig = {
       },
       slots: {
         	'slot-registration': {
-        		from: '8:00',
+        		from: '7:45',
         		to:   '9:00'
         	}, 
         	'slot-hello-world': {
