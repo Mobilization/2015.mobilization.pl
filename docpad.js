@@ -30,7 +30,7 @@ docpadConfig = {
       		country: 'Polska'
       	},
       	data: '17th Oct 2015',
-      	time: '07:30-17:30'
+      	time: '08:00-17:30'
       },
       sponsors: {
       	platinum: [
@@ -106,7 +106,7 @@ docpadConfig = {
       },
       slots: {
         	'slot-registration': {
-        		from: '7:30',
+        		from: '8:00',
         		to:   '9:00'
         	}, 
         	'slot-hello-world': {
@@ -503,7 +503,7 @@ docpadConfig = {
           "speaker-michal-wlodarczyk":{
  				"firstname": "Michał",
  				"lastname":"Włodarczyk",
- 				"bio_html":"Senior Software Engineer w Open-RnD. Od 3.5 zajmuje się rozwijaniem aplikacji na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Kierownik przedmiotów \"m-Commerce\" oraz \"Programowanie aplikacji mobilnych\" (prowadzę wykłady i część laboratoriów, układałem program tych przedmiotów). 2 wystąpienia na konferencjach MIXDES w 2014 i 2015 roku. Więcej informacji na moim profilu na <a href='https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08'>LinkedIn</a>",
+ 				"bio_html":"Senior Software Engineer w firmie Open-RnD. Od 4 zajmuje się rozwijaniem aplikacji mobilnych na platformę Android. Uczestnik studiów doktoranckich na Politechnice Łódzkiej, w Katedrze Mikroelektroniki i Technik Informatycznych (wydział Elektroniki, Elektrotechniki, Informatyki i Automatyki). Odpowiedzialny za przedmioty \"Systemy operacyjne na platformach mobilnych\", \"Przetwarzanie w chmurze dla aplikacji mobilnych\" oraz \"m-Commerce\". Autor licznych publikacji z zakresu biometrii i przetwarzania danych na platformie Android. Więcej informacji na profilu na <a href='https://pl.linkedin.com/pub/michał-włodarczyk/33/3a4/b08'>LinkedIn</a>",
  				"www":"",
  				"twitter":"",
  				"photo_url":"/images/speakers/michal-wlodarczyk.png"
@@ -787,7 +787,7 @@ docpadConfig = {
 			},
 			"talk-optymalizacja-hierarchii-widokow-na-platformie-android": {
 			  "title": "Optymalizacja hierarchii widoków na platformie Android",
-			  "description_html": "Optymalizacja hierarchii widoków na przykładzie aplikacji \"Stereoscopic Image Calculator\". Zrozumienie sposobu renderowania widoków jako podstawa do opracowywania wydajnych aplikacji na platformę Android. Agenda prezentacji: <ol><li>Motywacja (aplikacja \"Stereoscopic Image Calculator\", która na poszczególnych ekranach wyświetlała bardzo dużo danych)</li> <li>Szczegóły techniczne dotyczące renderowania widoków: Co się dzieje, jeżeli zostanie wywołana metoda \"requestLayout()\"?<br/>Jakie kluczowe metody i w którym momencie są wywoływane podczas renderowania widoków na ekranie? Na co zwracać szczególną uwagę przy tworzeniu widoków?</li> <li>Pisanie własnych \"ViewGroup\"</li> <li>Narzędzie \"HierarchyViewer\"</li> <li>Pomiary i wnioski</li></ol>",
+			  "description_html": 'Optymalizacja hierarchii widoków na przykładzie aplikacji "Stereoscopic Image Calculator" realizowanej w ramach projektu ROS3D. Celem prezentacji jest omówienie sposobu renderowania widoków jako podstawy do opracowywania wydajnych aplikacji na platformę Android. Na prezentacji porszuane będą następujące tematy:<ol><li>Szczegóły techniczne dotyczące sposobu renderowania widoków<li>Omówienie kluczowych metod, które są wywoływane podczas rysowania i odświeżania poszczególnych elementów<li>Pisanie własnych "ViewGroup"<li>Narzędzie "HierarchyViewer"<li>Pomiary wykokane na przykładzie aplikacji "Stereoscopic Image Calculator"',
 			  "speakers_keys": [
 				"speaker-michal-wlodarczyk"
 			  ],
