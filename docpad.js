@@ -802,7 +802,7 @@ docpadConfig = {
 			  "language": "PL"
 			},
 			"talk-potrzeby-biznesowe-a-technologia-w-mobdev-na-przykladzie-seqr": {
-			  "title": "Biznes a technologia w mobdev SEQR case study",
+			  "title": "Biznes a technologia w mobdev - SEQR case study",
 			  "description_html": "Specjaliści z dziedziny rozwoju produktu, użyteczności i technologii opowiedzą:- W jaki sposób warto planować rozwój ekosystemu usług płatniczych w sytuacji, gdy potrzeba jak najszybciej adaptować się do zmieniającego się rynku, potrzeb użytkowników i działań konkurencji.<br/>- Jak skalujemy SCRUM by dobrze koordynować pracę wielu zespołów.<br/>- Dlaczego stawiamy na jak najszybsze zmiany (i ewentualne niepowodzenia) i jak się to nam udaje.<br/>- Dotychczasowa implementacja Lean Startup - doświadczone pętle zwrotne między strategią biznesową, UX, a zastosowaną technologią.<br/>- Dlaczego User Experience jest tak ważny - jaką wartość biznesową daje w przypadku SEQR.",
 			  "speakers_keys": [
 				"speaker-daniel-rurarz",
