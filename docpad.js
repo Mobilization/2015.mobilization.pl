@@ -518,6 +518,7 @@ docpadConfig = {
  				"photo_url":"/images/speakers/michal-szczepanik.png"
           },
           //38
+		/*
           "speaker-maciej-schmidt":{
  				"firstname": "Maciej",
  				"lastname":"Schmidt",
@@ -526,6 +527,7 @@ docpadConfig = {
  				"twitter":"",
  				"photo_url":"/images/speakers/maciej-schmidt.png"
           },
+		*/
           //39
 		 "speaker-sebastian-gos":{
 			"firstname": "Sebastian",
@@ -993,7 +995,7 @@ docpadConfig = {
 				  "talk_key": "talk-unit-testy-w-androidzie-z-uzyciem-biblioteki-spock"
 			  },
 			  "venue-harman": {
-				  "talk_key": "talk-czy-ar-i-vr-zmienia-nasza-przyszlosc"
+				  "talk_key": "talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy"
 			  },
 			  "venue-hp": {
 				  "talk_key": "talk-angular-js-i-cordova-tworzenie-hybrydowych-aplikacji-mobilnych"
@@ -1075,9 +1077,6 @@ docpadConfig = {
 			  "venue-harman": {
 				  "talk_key": "talk-xamarin-dla-nie-tylko-deweloperow-androida"
 			  },
-			  "venue-hp": {
-				  "talk_key": "talk-hunt-me-od-kuchni-jak-powstal-innowacyjny-sposob-na-szukanie-pracy"
-			  }
 		  },
 		  "slot-no-coffee-6":{"break_key":"break-no-coffee"},
 		  "slot-finally":{"break_key":"break-finally"},
