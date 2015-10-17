@@ -69,6 +69,7 @@ docpadConfig = {
       	supporters: [
 			{"name":"Upmenu","logo_url":"/images/partners/upmenu.png","description_html":"Upmenu had created new layout for Mobilization 2014! which is used for Mobilization 2015. Besides creating mobile and responsive layouts they work in Horeca business and help restaurants with online orders. Check out more on their webpage"},
 			{"name": "NextApps", "logo_url":"/images/partners/nxas_circle_green_512_png.png", "link":"http://nextapps.pl/"},
+			{"name": "Miliataria Łódź", "logo_url":"/images/partners/militaria.png", "link":"http://militaria.lodz.pl/"},
       	],
       	community: [
 			{"name":"Łódź WiOSłuje","logo_url":"/images/partners/lodz-wiosluje.png","description_html":"The best place for iOS developers based in Łódź. A group with monthly meetings with tech talks, fantastic speakers and unbeatable atmosphere! Join us on facebook: www.facebook.com/lodzwiosluje"},
@@ -83,7 +84,7 @@ docpadConfig = {
 			{"name":"Zwinna Łódź","logo_url":"/images/partners/zwinna_lodz.jpg","link":"http://zwinnalodz.eu/"},
 			{"name":"Mobile Warsaw","logo_url":"/images/partners/mw-logo.png","link":"http://mobile-warsaw.pl"},
 			{"name":"Ionic Poland", "logo_url":"/images/partners/ionicpoland-logo.png", "link":"http://www.meetup.com/ionicpoland/"},
-			{"name":"Droidcon Poland", "logo_url":"/images/partners/droidcon.png", "link":"http://drodicon.pl/"},
+			{"name":"Droidcon Poland", "logo_url":"/images/partners/droidcon.png", "link":"http://droidcon.pl/"},
       	],
       	media: [
 
