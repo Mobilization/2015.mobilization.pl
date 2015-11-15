@@ -44,11 +44,9 @@ Before you start pulling down the repository please ensure you've got Node.js (h
 
 Here https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh you can find a simple script to install both src (docpad) & out (html) projects.
 
-Download and run the install.sh script.
+You can install this via the command-line with `curl`.
 ```
-wget https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh
-chmod 755 install.sh
-./install.sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mobilization/2015.mobilization.pl/master/bin/install.sh)"
 ``` 
 
 The script will pull the project and put into the following structure:
